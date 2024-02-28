@@ -1,12 +1,3 @@
-
-❤台灣新聞Youtube,#genre#
-東森新聞,https://www.youtube.com/watch?v=2dfAzcDf8Zg
-TVBS NEWS LIVE, https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-民視新聞, https://www.youtube.com/watch?v=ylYJSBUgaMA
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-
 ❤台灣第四台,#genre#
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
