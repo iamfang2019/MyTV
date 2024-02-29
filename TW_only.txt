@@ -101,7 +101,7 @@ Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/as
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 
 
-測試頻道,#genre#
+🔗測試頻道,#genre#
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY 資訊臺,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 AnimalPlanet,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
@@ -206,7 +206,7 @@ ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D995062979950629
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 
 
-•港澳臺,#genre#
+🆖港澳臺,#genre#
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
