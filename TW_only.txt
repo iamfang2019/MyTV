@@ -236,6 +236,12 @@ SkySportsCricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0
 
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
+🎬電影台,#genre#
+
+🏀體育臺,#genre#
+
+✈️旅遊知識,#genre#
+
 
 
 
