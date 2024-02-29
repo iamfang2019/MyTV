@@ -274,7 +274,7 @@ SkySportsCricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0
 
 
 
-🆖綜藝,#genre#
+📓綜藝,#genre#
 ROCK ENTERTAINMENT,https://epg.pw/stream/a1c2e739e5c343bc73574a979212b761551c9192017127bb914d48500c099842.ctv
 ROCK ENTERTAINMENT,https://epg.pw/stream/a033a5aecf1210c82aeb34435763144dc3643543365ac507f5e337555783eec9.ctv
 ROCK ENTERTAINMENT,https://epg.pw/stream/6af9dd84e58b56cafb0cf16cacefd2a89080523e22d31a70e1ab8ab298b8b730.ctv
@@ -285,7 +285,7 @@ ROCK ENTERTAINMENT,https://epg.pw/stream/436a180706118f082f351d538b7d19a95c697d7
 民視綜藝,https://epg.pw/stream/7c4b658119c1bb61f50346e68cfd30c61610f0463886077973a2b75693da29d8.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 
-🆖綜合,#genre#
+📔綜合,#genre#
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 TVBS,https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
 TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
@@ -337,13 +337,13 @@ el tv,https://epg.pw/stream/cce8173beff079fb1a58f57807f35720fd558fd042d46a3e372e
 民視臺灣臺,https://epg.pw/stream/b029057b372efdfb0738a3306cd07ff4a5d4fecc6c271b57d29b7ba282d7a6f8.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-🆖兒童,#genre#
+📒兒童,#genre#
 Animax,https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
 CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
 東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
 東森幼幼臺,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 
-🆖知識,#genre#
+📕知識,#genre#
 DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 LOVE NATURE,https://epg.pw/stream/c5ae5bed56a4aa5a76a23091a2cce2aedd7d6684aeb8e3032a2e0a217aa5ead8.ctv
 LOVE NATURE,https://epg.pw/stream/a9b94a28d3d2a95cb262b68842cd20444de6ecf1beb8ac4b5ee6290340d45c34.ctv
@@ -365,7 +365,7 @@ discovery channel hd,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc36
 discovery channel hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
 discovery channel hd,https://epg.pw/stream/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
 
-🆖電影,#genre#
+📗電影,#genre#
 hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
 hollywood,https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
 hollywood,https://epg.pw/stream/2f75cbb24f85ca07c25554b2fe51988830e84507ecb4c0d8e2b77b40801f3277.ctv
@@ -383,7 +383,7 @@ hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde
 龍華戲劇,https://epg.pw/stream/f23346775194273244aa8f9e1370288a18c9d2809f03e8746d953763379b35dc.m3u8
 龍華洋片,https://epg.pw/stream/1a4529ac934612347b6bb5bb251bb09bab261bba913eaefb090f45657cf7c33c.m3u8
 
-🆖新聞,#genre#
+📘新聞,#genre#
 taiwan plus tv,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826c21f69ad999f2671fc6bc.m3u8
 三立INEWS FHD,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
@@ -428,7 +428,7 @@ taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826
 民視新聞 hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 鏡新聞,https://epg.pw/stream/7c8a28dfeb9e82036981556c17af9c6b3b6e773b9655935586ddac53008f8601.m3u8
 
-🆖其它,#genre#
+📙其它,#genre#
 EYE TV旅遊,https://epg.pw/stream/3065991f5837146ac01b6e9e32c2fee4a1edde498beefe4107543d2560431540.m3u8
 MOMO購物1臺,https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8
 MOMO購物2臺,https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8
@@ -454,7 +454,7 @@ pet club tv,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17e
 好訊息 2,https://epg.pw/stream/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.m3u8
 民視旅遊,https://epg.pw/stream/b796f04b85558177e528d8dd4bbb091aacdf978492024a6e379848cc3cb1059d.m3u8
 
-🆖運動,#genre#
+Ⓜ️運動,#genre#
 eleven sport 2,https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
 博斯網球,https://epg.pw/stream/fd9af1d7c11c82c37a3be3f19f12ef180c338813082f3199123599f7c3df0b18.m3u8
 博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
