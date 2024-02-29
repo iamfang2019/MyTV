@@ -1,5 +1,6 @@
 🎯YouTube,#genre#
 TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 臺視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -7,7 +8,13 @@ TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 中天新聞「迴圈直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
