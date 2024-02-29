@@ -458,7 +458,7 @@ eleven sport 2,https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e5668
 緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 
 
-常看第四台,#genre#
+❤️🧡常看第四台,#genre#
 民視,https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 臺視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
