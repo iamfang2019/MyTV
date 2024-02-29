@@ -563,3 +563,4 @@ eleven sport 2,https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e5668
 🔏測試頻道,#genre#
 🔐>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>_1111,#genre#
 🔒測試頻道1_1111,#genre#
+TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
