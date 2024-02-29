@@ -366,6 +366,10 @@ discovery channel hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d
 discovery channel hd,https://epg.pw/stream/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
 
 📗電影,#genre#
+東森電影,https://epg.pw/stream/a0dc58e79f2702dacfc8d1d2794daeb4aaee78932a920831739df7846a5fbc6a.m3u8
+東森電影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
+東森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
+東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
 hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
 hollywood,https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
 hollywood,https://epg.pw/stream/2f75cbb24f85ca07c25554b2fe51988830e84507ecb4c0d8e2b77b40801f3277.ctv
@@ -373,10 +377,6 @@ hollywood,https://epg.pw/stream/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471
 hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
 hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
 hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
-東森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
-東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
-東森電影,https://epg.pw/stream/a0dc58e79f2702dacfc8d1d2794daeb4aaee78932a920831739df7846a5fbc6a.m3u8
-東森電影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
 民視影劇臺,https://epg.pw/stream/3f718003e6c0b409e0a7620c4b17f7abb3e2f18c0f4f6dc82de5de806aff88ce.m3u8
 龍祥電影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv
 龍華偶像,https://epg.pw/stream/7deefeed1c08f515963d8247943ccc00502a0ab3305e13d4a7ea48fc8fd9c03c.m3u8
@@ -384,8 +384,6 @@ hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde
 龍華洋片,https://epg.pw/stream/1a4529ac934612347b6bb5bb251bb09bab261bba913eaefb090f45657cf7c33c.m3u8
 
 📘新聞,#genre#
-taiwan plus tv,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
-taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826c21f69ad999f2671fc6bc.m3u8
 三立INEWS FHD,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
 三立INEWS FHD,https://epg.pw/stream/65877e93c3818e479a35e771641827cb68668f181f380a31f09230e01f02fece.m3u8
 三立新聞,https://epg.pw/stream/4c272496a61a3b4cf50553f78220d3388e87ed9b0ccd9c440e46ab5f753c8771.m3u8
@@ -427,6 +425,8 @@ taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826
 民視新聞 hd,https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
 民視新聞 hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 鏡新聞,https://epg.pw/stream/7c8a28dfeb9e82036981556c17af9c6b3b6e773b9655935586ddac53008f8601.m3u8
+taiwan plus tv,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
+taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826c21f69ad999f2671fc6bc.m3u8
 
 📙其它,#genre#
 EYE TV旅遊,https://epg.pw/stream/3065991f5837146ac01b6e9e32c2fee4a1edde498beefe4107543d2560431540.m3u8
