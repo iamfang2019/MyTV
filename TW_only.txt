@@ -1,17 +1,17 @@
 ▶️YouTube,#genre#
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 臺視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞「迴圈直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 東森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 小豬佩奇「動畫」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 動畫1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
@@ -35,10 +35,12 @@ KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS歡樂臺,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
@@ -49,8 +51,6 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 
-
-
 八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 
@@ -59,7 +59,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-TVBS歡樂臺,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
+
 
 
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
@@ -82,7 +82,7 @@ HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 AXN Taiwan,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 
-東森新聞HD,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+
 
 
 BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
