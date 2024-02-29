@@ -194,7 +194,7 @@ Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/as
 
 
 
-🔗測試頻道,#genre#
+🔗有線頻道,#genre#
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS歡樂臺,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
