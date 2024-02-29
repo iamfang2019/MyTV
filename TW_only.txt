@@ -27,6 +27,7 @@ HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 
+New, https://raw.githubusercontent.com/linitfor/MyTV/main/News.m3u
 
 
 🇹🇼臺灣第四臺,#genre#
