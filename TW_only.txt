@@ -1,4 +1,4 @@
-YouTube Channel,#genre#
+YouTube,#genre#
 TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 臺視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
