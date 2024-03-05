@@ -1,7 +1,7 @@
 💯快速直播,#genre#
-壹新聞台,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
-東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+壹電視新聞台,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
+東森新聞台,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 三立Live,https://epg.pw/stream/ae4170b916932f29973cea9abe8ca8f4228189ba89a30cfd61754d59b8f31f93.ctv
 三立新聞,https://epg.pw/stream/0d2fe1ad712207744681bdb26e83cbd7603e8532e25e29c905713e243ef7034f.ctv
 TVBS新聞,https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8
