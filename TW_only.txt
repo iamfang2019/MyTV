@@ -3,6 +3,7 @@ TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3
 TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 東森新聞,https://epg.pw/stream/5b6b148362dea0001b704c6c6badd4ecd25e59d2e13f4e7a64a2e23ca8d77755.m3u8
+東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
@@ -13,6 +14,8 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 臺視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+[VGA]壹新聞2,https://epg.pw/stream/9d36613edf4c8c2e9203b3ca2e842b28f509022c2ee0441cb511a9c214604591.m3u8
+[BD]壹新聞台,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -253,6 +256,10 @@ TLC旅遊生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A59040822
 
 
 🇹🇼臺灣第四臺,#genre#
+[VGA]壹新聞2,https://epg.pw/stream/9d36613edf4c8c2e9203b3ca2e842b28f509022c2ee0441cb511a9c214604591.m3u8
+[BD]壹新聞台,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
+東森新聞,https://epg.pw/stream/5b6b148362dea0001b704c6c6badd4ecd25e59d2e13f4e7a64a2e23ca8d77755.m3u8
+東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
