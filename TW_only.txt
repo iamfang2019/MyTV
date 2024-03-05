@@ -1,4 +1,4 @@
-💯快速切換,#genre#
+💯快速直播,#genre#
 壹新聞台,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
 東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
