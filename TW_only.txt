@@ -89,6 +89,7 @@ HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 
+東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/yung598/YTList/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 三立新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E.m3u8
 中視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
