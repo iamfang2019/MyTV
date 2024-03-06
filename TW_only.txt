@@ -16,6 +16,8 @@ TVBS Asia,https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 
+
+
 🎯YouTube,#genre#
 TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS網路新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
