@@ -29,6 +29,7 @@ http://tonkiang.us/
     
 ### To Do item
 - [ ] Adding Fast speed channel group
+- [ ] channel 加速
 
 
 
