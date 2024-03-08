@@ -22,8 +22,10 @@ HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=
 HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
-東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
 東森幼幼臺,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+
+東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
+
 
 🎯YouTube,#genre#
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
