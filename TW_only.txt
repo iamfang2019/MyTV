@@ -1,29 +1,3 @@
-💯快速直播,#genre#
-壹電視新聞,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
-東森新聞台,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
-民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-三立新聞,https://epg.pw/stream/ae4170b916932f29973cea9abe8ca8f4228189ba89a30cfd61754d59b8f31f93.ctv
-三立INEWS,https://epg.pw/stream/0d2fe1ad712207744681bdb26e83cbd7603e8532e25e29c905713e243ef7034f.ctv
-TVBS新聞,https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8
-TVBS新聞,https://epg.pw/stream/e1b06708966384bf7d79e4a10adca7a1b9905bf5a9937e761803f43bd9eb8d21.m3u8
-TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS HD,https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a6081d2fd915147cf.ctv
-東森綜合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-東森綜合,http://220.134.196.147:9553/index.m3u8
-東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-
-Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-
-CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
-
-
 🎯YouTube,#genre#
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
@@ -32,6 +6,7 @@ TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/strea
 台視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 中天新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E.m3u8
 東森財經新聞,https://raw.githubusercontent.com/yung598/YTList/main/57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
+Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -94,6 +69,35 @@ Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&c
 CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
 東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
 東森幼幼臺,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+
+
+
+💯快速直播,#genre#
+壹電視新聞,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
+東森新聞台,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+三立新聞,https://epg.pw/stream/ae4170b916932f29973cea9abe8ca8f4228189ba89a30cfd61754d59b8f31f93.ctv
+三立INEWS,https://epg.pw/stream/0d2fe1ad712207744681bdb26e83cbd7603e8532e25e29c905713e243ef7034f.ctv
+TVBS新聞,https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8
+TVBS新聞,https://epg.pw/stream/e1b06708966384bf7d79e4a10adca7a1b9905bf5a9937e761803f43bd9eb8d21.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS HD,https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a6081d2fd915147cf.ctv
+東森綜合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森綜合,http://220.134.196.147:9553/index.m3u8
+東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+
+Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+
+CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
+
+
 
 ❤️常看第四台,#genre#
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
