@@ -1,6 +1,8 @@
 🎯YouTube,#genre#
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
+年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
 三立新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E.m3u8
 中視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 台視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -8,7 +10,6 @@ TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/strea
 東森財經新聞,https://raw.githubusercontent.com/yung598/YTList/main/57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
 Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-
 
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
