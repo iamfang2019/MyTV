@@ -1,7 +1,7 @@
 🎯YouTube,#genre#
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
-年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
 
 三立新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E.m3u8
 中視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
