@@ -1,7 +1,8 @@
 🎯YouTube,#genre#
+壹電視新聞,http://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+年代新聞,https://epg.pw/stream/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
-年代新聞,https://epg.pw/stream/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
 
 三立新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E.m3u8
 中視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
