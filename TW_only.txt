@@ -1,6 +1,4 @@
 
-📺MyTube,#genre#
-https://raw.githubusercontent.com/linitfor/YT2M3U/main/youtube.m3u
 
 🎯YouTube,#genre#
 壹電視新聞,http://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
@@ -425,6 +423,11 @@ EYETV旅遊,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF50666
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 
+🎵音樂,#genre#
+Cafe Music BGM channel,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+Hawaiian_BGM_channel,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+Lofi_Girl_peaceful_piano_radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_peaceful_piano_radio.m3u8
+Lofi_Girl_lofi_hip_hop_radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 
 📘新聞,#genre#
