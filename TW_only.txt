@@ -4,7 +4,10 @@
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
 TVBS新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
 
+
+三立新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/setinews.m3u8
 三立新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E.m3u8
+三立新聞+,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/setnewsplus.m3u8
 中視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 台視新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 中天新聞,https://raw.githubusercontent.com/yung598/YTList/main/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E.m3u8
