@@ -1,3 +1,7 @@
+
+📺MyTube,#genre#
+https://raw.githubusercontent.com/linitfor/YT2M3U/main/youtube.m3u
+
 🎯YouTube,#genre#
 壹電視新聞,http://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 年代新聞,https://epg.pw/stream/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
