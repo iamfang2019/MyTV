@@ -6,7 +6,6 @@ TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%
 三立Live+,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 中視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 台視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
-中天新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E.m3u8
 東森財經新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
 萬秀豬王,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%90%AC%E7%A7%80%E8%B1%AC%E7%8E%8B.m3u8
 豬哥會社,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%B1%AC%E5%93%A5%E6%9C%83%E7%A4%BE.m3u8
