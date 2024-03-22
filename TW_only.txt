@@ -18,47 +18,6 @@ Hawaiian BGM_,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BG
 豬哥會社,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%B1%AC%E5%93%A5%E6%9C%83%E7%A4%BE.m3u8
 東森電影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 🎯YouTube,#genre#
 壹電視新聞,http://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 年代新聞,https://epg.pw/stream/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
@@ -172,6 +131,10 @@ HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=
 HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
+
+
+
+
 
 
 
