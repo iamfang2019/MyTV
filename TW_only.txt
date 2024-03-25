@@ -19,6 +19,7 @@ TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
+ELTA影劇,https://epg.pw/stream/fa7d5b641c9635d8ed506cfe9a94aedba1febb6a351752ee8621b7992a1b072f.ctv
 Cafe Music BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 Hawaiian BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 [Lofi Girl]peaceful piano radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_peaceful_piano_radio.m3u8
