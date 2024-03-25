@@ -15,7 +15,7 @@ TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森財經,rtmp://f13h.mine.nu/sat/tv571
-MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 Cafe Music BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
