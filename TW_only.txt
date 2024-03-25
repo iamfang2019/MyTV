@@ -27,8 +27,7 @@ Hawaiian BGM_,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BG
 
 
 
-萬秀豬王,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%90%AC%E7%A7%80%E8%B1%AC%E7%8E%8B.m3u8
-豬哥會社,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%B1%AC%E5%93%A5%E6%9C%83%E7%A4%BE.m3u8
+
 東森電影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
 🎯YouTube,#genre#
