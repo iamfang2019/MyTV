@@ -457,10 +457,6 @@ EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 
 🎵音樂,#genre#
-Cafe Music BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
-Hawaiian BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
-[Lofi Girl]peaceful piano radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_peaceful_piano_radio.m3u8
-[Lofi Girl]lofi hip hop radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 KTV必點男女對唱情歌台語最新單曲2024,https://raw.githubusercontent.com/linitfor/YTLive/main/KTV%E5%BF%85%E9%BB%9E%E7%94%B7%E5%A5%B3%E5%B0%8D%E5%94%B1%E6%83%85%E6%AD%8C%E5%8F%B0%E8%AA%9E%E6%9C%80%E6%96%B0%E5%96%AE%E6%9B%B22024.m3u8
 
 📘新聞,#genre#
