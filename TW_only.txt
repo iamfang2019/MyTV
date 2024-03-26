@@ -67,7 +67,7 @@ HBO HD,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/in
 HBO HIT,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 東森洋片台,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 愛爾達影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
-好萊烏電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 ANX 亞洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 華納電影,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
