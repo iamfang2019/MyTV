@@ -79,7 +79,7 @@ ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 
 
 東森電影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-📺UBTV_1111,#genre#
+📺UBTV2,#genre#
 松視1,z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 
 
