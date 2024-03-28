@@ -10,6 +10,8 @@ TV,#genre#
 華視HD,rtmp://f13h.mine.nu/sat/tv111
 華視HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 公視HD,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+公視戲劇台,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
+民視戲劇台,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
 民視綜藝台,https://z88.ubtvfans.com/live/rx3/98/3c6f819155886e63394f7f294db07f13/index.m3u8
 民視第一台,https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
 民視台灣台,https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
@@ -27,30 +29,28 @@ CN卡通頻道,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3
 緯來精彩台,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
 八大第一台,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大綜合台,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
+八大娛樂台,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
 三立台灣台,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
 三立都會台,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立戲劇台,https://z88.ubtvfans.com/live/rx1/64/73393c10a0588bd9119eaed578fb81d5/index.m3u8
+三立綜合台,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
 華藝綜合台,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 東森綜合台,https://z88.ubtvfans.com/live/rx1/372/0c714ce5b680b8d96604ec36804f1f86/index.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
+ELTA娛樂台,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
 中天綜合台,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天娛樂台,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-TVBS歡樂台,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-ELTA娛樂台,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
-八大娛樂台,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-三立綜合台,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-民視戲劇台,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
-公視戲劇台,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-東森戲劇台,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-八大戲劇台,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
 緯來戲劇台,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
+八大戲劇台,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
+東森戲劇台,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 愛爾達影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 靖洋戲劇台,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 EVE戲劇台,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
 龍華戲劇台,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 龍華偶像台,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+TVBS歡樂台,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 年代新聞台,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 東森新聞台,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
