@@ -3,8 +3,10 @@ TV,#genre#
 民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視HD,rtmp://f13h.mine.nu/sat/tv071
 台視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
+台視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 中視HD,rtmp://f13h.mine.nu/sat/tv091
 中視HD,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
+中視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 華視HD,rtmp://f13h.mine.nu/sat/tv111
 華視HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 公視HD,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
@@ -58,8 +60,6 @@ EVE戲劇台,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec1908
 三立Live+,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 TVBS新聞台,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞台,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-台視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
-中視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 東森財經台,rtmp://f13h.mine.nu/sat/tv571
 東森財經台,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468
@@ -117,5 +117,3 @@ Hawaiian BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM
 [Lofi Girl]lofi hip hop radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 
-UBTV18,#genre#
-File,https://raw.githubusercontent.com/linitfor/MyTV/main/UBTV18
