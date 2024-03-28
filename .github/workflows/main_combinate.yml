@@ -43,7 +43,7 @@ jobs:
           pwd
           #chmod +x autorun.sh
           #./autorun.sh
-          cat ./MYTV UBTV18 > ./MYTV_All
+          cat ./MYTV UBTV18 > ./MYTVs
   
       - name: UpdateChannel Time 
         run: |
