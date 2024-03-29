@@ -1905,6 +1905,11 @@ tvN,http://158.69.25.22:25469/live/chen0922/dog0922/160.ts
 豬哥亮歌廳秀,http://158.69.25.22:25469/live/chen0922/dog0922/703196158.ts
 Nickelodeon_Asia(尼克兒童頻道),http://158.69.25.22:25469/live/chen0922/dog0922/165.ts
 
+
+電影,#genre#
+
+
+
 測試_0000,#genre#
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
