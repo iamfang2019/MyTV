@@ -47,6 +47,13 @@ jobs:
           cat ./MYTVs_t UBTV18 > ./MYTVs
 
           rm -rf ./MYTVs_t
+
+          cat ./0_TW ./tw.ch > TW_1
+          cat ./1_News ./tw.ch > TW_2
+
+          cat ./TW1 ./TW_2 > TW.ch
+          rm -rf TW_1
+          rm -rf TW_2
   
       - name: UpdateChannel Time 
         run: |
