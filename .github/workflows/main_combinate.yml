@@ -43,6 +43,11 @@ jobs:
           pwd
           #chmod +x autorun.sh
           #./autorun.sh
+
+          chmod +x run_class
+          ./run_class
+          
+          
           cat ./MYTV JoyTV > ./MYTVs_t
           cat ./MYTVs_t UBTV18 > ./MYTVs
 
