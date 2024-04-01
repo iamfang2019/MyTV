@@ -1,0 +1,22 @@
+#!/bin/bash
+## path to input file
+input="class"
+
+rm -rf rslt
+
+touch rslt
+
+cp ./source.ch.backup ./source.ch
+
+## Let us read a file line-by-line using while loop ##
+while IFS= read -r line
+do
+      #printf '%s\n' "$line"
+      a=$line
+      echo $a
+
+      grep $a ./source.ch >> rslt
+
+      sed -i '/'$a'/d' ./source.ch
+
+done < "$input"
