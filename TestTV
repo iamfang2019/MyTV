@@ -56,7 +56,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
 
-Joy tv,#genre#
+Joy TV,#genre#
 愛爾達影劇,http://158.69.25.22:25469/live/chen0922/dog0922/154.ts
 愛爾達綜合,http://158.69.25.22:25469/live/chen0922/dog0922/155.ts
 中視經典,http://158.69.25.22:25469/live/chen0922/dog0922/95.ts
@@ -472,12 +472,14 @@ EYETV戲劇,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 鏡新聞,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
-today.line.me,#genre#
+Today.line.me,#genre#
+東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
+民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
 UBA直播,video://https://today.line.me/tw/v2/article/j7J22GY
 台灣生活新聞,video://https://today.line.me/tw/v2/article/Lvpg70
-民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
-東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
+
+
 
 50.7.238.114:8278,#genre#
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
