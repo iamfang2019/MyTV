@@ -312,8 +312,8 @@ CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 龍祥時代,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
-HBO_HD,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-HBO_HD,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
+HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
 東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
@@ -413,7 +413,7 @@ WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO_Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
+
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -524,9 +524,10 @@ TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a070
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO家庭,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
-HBO原創,http://158.69.25.22:25469/live/chen0922/dog0922/228.ts
-HBO_Signature巨獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-HBO強檔,http://158.69.25.22:25469/live/chen0922/dog0922/230.ts
+HBO溫馨家庭,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
+HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
+HBO Signature,http://158.69.25.22:25469/live/chen0922/dog0922/228.ts
+HBO Signature,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+HBO Hits,http://158.69.25.22:25469/live/chen0922/dog0922/230.ts
 HBO1,https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
 HBO2,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
