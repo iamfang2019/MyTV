@@ -534,51 +534,51 @@ video://https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
 mitv://generationnexxxt.com:19806/6593ab070007d601991721de206b22e9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CatchPlay電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="戲劇電影",CatchPlay電影
 mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CatchPlay電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="戲劇電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="戲劇電影",東森電影
 http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="戲劇電影",東森電影
 mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="戲劇電影",東森電影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="戲劇電影",東森電影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="戲劇電影",緯來電影
 http://158.69.25.22:25469/live/sheephome/dog0922/195.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="戲劇電影",緯來電影
 https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="戲劇電影",緯來電影
 mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="戲劇電影",緯來電影
 http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="戲劇電影",緯來電影
 http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",龍祥時代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍祥時代.png" group-title="戲劇電影",龍祥時代
 http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",龍祥時代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍祥時代.png" group-title="戲劇電影",龍祥時代
 https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",龍祥時代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍祥時代.png" group-title="戲劇電影",龍祥時代
 mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",龍祥時代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍祥時代.png" group-title="戲劇電影",龍祥時代
 http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",龍祥時代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍祥時代.png" group-title="戲劇電影",龍祥時代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="戲劇電影",HBO
 mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="戲劇電影",HBO
 http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森洋片.png" group-title="戲劇電影",東森洋片
 http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森洋片.png" group-title="戲劇電影",東森洋片
 https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森洋片.png" group-title="戲劇電影",東森洋片
 mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森洋片.png" group-title="戲劇電影",東森洋片
 http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森洋片.png" group-title="戲劇電影",東森洋片
 http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="戲劇電影",AXN
 http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
@@ -590,43 +590,43 @@ mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="戲劇電影",AXN
 http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",好萊塢電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="戲劇電影",好萊塢電影
 http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",好萊塢電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="戲劇電影",好萊塢電影
 mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",好萊塢電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="戲劇電影",好萊塢電影
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",好萊塢電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="戲劇電影",好萊塢電影
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="戲劇電影",CINEMAX
 mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="戲劇電影",CINEMAX
 http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="戲劇電影",CINEMAX
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",AMC最愛電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AMC最愛電影.png" group-title="戲劇電影",AMC最愛電影
 mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CinemaWorld
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CinemaWorld.png" group-title="戲劇電影",CinemaWorld
 mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",CinemaWorld
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CinemaWorld.png" group-title="戲劇電影",CinemaWorld
 video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",WARNERTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/WARNERTV.png" group-title="戲劇電影",WARNERTV
 http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",WARNERTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/WARNERTV.png" group-title="戲劇電影",WARNERTV
 https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",WARNERTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/WARNERTV.png" group-title="戲劇電影",WARNERTV
 mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",WARNERTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/WARNERTV.png" group-title="戲劇電影",WARNERTV
 http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO Family.png" group-title="戲劇電影",HBO Family
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO Family.png" group-title="戲劇電影",HBO Family
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO Family.png" group-title="戲劇電影",HBO Family
 http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO Family.png" group-title="戲劇電影",HBO Family
 mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO Family.png" group-title="戲劇電影",HBO Signature
 http://158.69.25.22:25469/live/chen0922/dog0922/228.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="戲劇電影",HBO Signature
 mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
