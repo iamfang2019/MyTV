@@ -128,23 +128,23 @@ http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&ts
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="直播新聞",TVBS
 video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 https://www.youtube.com/watch?v=WHEPzbFA3hw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 https://www.youtube.com/watch?v=LbS-xQ67fos
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 rtmp://f13h.mine.nu:1935/sat/tv571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 mitv://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",東森財經
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="直播新聞",東森財經
 video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",非凡新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/非凡新聞.png" group-title="直播新聞",非凡新聞
 http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播新聞",非凡新聞
 mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
