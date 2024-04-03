@@ -2893,7 +2893,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 電影,#genre#
 CatchPlay電影,https://test.m3u8
-衛視電影,https://test.m3u8
 東森電影,https://test.m3u8
 緯來電影,https://test.m3u8
 龍祥時代,https://test.m3u8
