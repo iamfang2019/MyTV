@@ -55,11 +55,11 @@ jobs:
 
           rm -rf ./TW.ch
 
-          cat ./0_TW ./tw.ch > TW0
-          cat ./1_News ./tw.ch > TW1
-          cat ./2_Mix ./tw.ch > TW2
-          cat ./3_Movie ./tw.ch > TW3
-          cat ./4_Sport ./tw.ch > TW4
+          cat ./0_TW ./tw.src > TW0
+          cat ./1_News ./tw.src > TW1
+          cat ./2_Mix ./tw.src > TW2
+          cat ./3_Movie ./tw.src > TW3
+          cat ./4_Sport ./tw.src > TW4
 
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 > TW.ch
           rm -rf TW1
