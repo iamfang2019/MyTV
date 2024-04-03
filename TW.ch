@@ -2900,7 +2900,7 @@ HBO,https://test.m3u8
 東森洋片,https://test.m3u8
 AXN,https://test.m3u8
 好萊塢電影,https://test.m3u8
-FOX頻道,https://test.m3u8
+
 CINEMAX,https://test.m3u8
 AMC最愛電影,https://test.m3u8
 CinemaWorld,https://test.m3u8
@@ -2909,6 +2909,7 @@ HBO Family,https://test.m3u8
 HBO HiTS,https://test.m3u8
 HBO Signature,https://test.m3u8
 StarMovies,https://test.m3u8
+FOX頻道,https://test.m3u8
 
 //Youtube
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
