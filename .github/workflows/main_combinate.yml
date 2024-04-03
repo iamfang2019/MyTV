@@ -53,6 +53,8 @@ jobs:
 
           rm -rf ./MYTVs_t
 
+          rm -rf ./TW.ch
+
           cat ./0_TW ./tw.ch > TW0
           cat ./1_News ./tw.ch > TW1
           cat ./2_Mix ./tw.ch > TW2
