@@ -47,10 +47,7 @@ mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視新聞.png" group-title="直播新聞",華視新聞
 video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
-https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
-https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
