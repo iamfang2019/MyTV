@@ -84,7 +84,7 @@ Animax,https://test.m3u8
 i-Fun動漫,https://test.m3u8
 MTV,https://test.m3u8
 韓國娛樂,https://test.m3u8
-MoMo綜合,https://test.m3u8
+MOMO綜合,https://test.m3u8
 美食星球,https://test.m3u8
 亞洲美食,https://test.m3u8
 EYETV旅遊,https://test.m3u8
@@ -96,7 +96,7 @@ AMC最愛電影,https://test.m3u8
 CinemaWorld,https://test.m3u8
 WARNERTV,https://test.m3u8
 HBO Family,https://test.m3u8
-HBO HiTS,https://test.m3u8
+HBO Hits,https://test.m3u8
 HBO Signature,https://test.m3u8
 OUTDOOR,https://test.m3u8
 華藏衛視,https://test.m3u8
@@ -2906,7 +2906,7 @@ AMC最愛電影,https://test.m3u8
 CinemaWorld,https://test.m3u8
 WARNERTV,https://test.m3u8
 HBO Family,https://test.m3u8
-HBO HiTS,https://test.m3u8
+HBO Hits,https://test.m3u8
 HBO Signature,https://test.m3u8
 StarMovies,https://test.m3u8
 FOX頻道,https://test.m3u8
