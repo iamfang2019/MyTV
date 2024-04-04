@@ -19,10 +19,6 @@ http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
 http://158.69.25.22:25469/live/chen0922/dog0922/218.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
-https://lss-oal.line-scdn.net/p/live/hz5-7MKRxJBt4IyMFcng3YnIMZXhmfyczL2ExFGotOlVhASsnLygxA30lMEtbPyQzdENrHVMuJ39YfysnWVghF0MlJkFbLCkyWVgsB2kUc1ZdGRYvTlAUA0E7ezRgPCBQdXUoYGsNI3xlIX0RdHc-YGUPOmgiLDwQJyFrdTQ/1080/chunklist.m3u8?m=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
-https://lss-oal.line-scdn.net/p/live/hz5-7MKRxJBt4IyMFcng3YnIMZXhmfyczL2ExFGotOlVhASsnLygxA30lMEtbPyQzdENrHVMuJ39YfysnWVghF0MlJkFbLCkyWVgsB2kUc1ZdGRYvTlAUA0E7ezRgPCBQdXUoYGsNI3xlIX0RdHc-YGUPOmgiLDwQJyFrdTQ/720/chunklist.m3u8?m=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
 https://www.youtube.com/watch?v=S5WOGu2HSes
