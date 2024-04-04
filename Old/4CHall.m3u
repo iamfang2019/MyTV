@@ -86,10 +86,7 @@ https://www.youtube.com/watch?v=CKjSm5ZeehE
 mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立iNEWS.png" group-title="直播新聞",三立iNEWS
 video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="直播新聞",TVBS新聞
-https://lss-oal.line-scdn.net/p/live/hvGxrkWD2KGktZi93Jz07ECdJaQozOitBejA6XRVeNyYOfW5tHyRnXRJgPDkOeihBIQZnbwZrKw0NOidWewYtWxZwPicNSyVBej8gdTxRfyQIXBpdGxUYcRR-d0Y1eSwiIDAkEj5ILw4wZHFjITIyEjBKNhp3aTBicmRnB2E/1080/chunklist.m3u8?m=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="直播新聞",TVBS新聞
-https://lss-oal.line-scdn.net/p/live/hvGxrkWD2KGktZi93Jz07ECdJaQozOitBejA6XRVeNyYOfW5tHyRnXRJgPDkOeihBIQZnbwZrKw0NOidWewYtWxZwPicNSyVBej8gdTxRfyQIXBpdGxUYcRR-d0Y1eSwiIDAkEj5ILw4wZHFjITIyEjBKNhp3aTBicmRnB2E/720/chunklist.m3u8?m=hls
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="直播新聞",TVBS新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="直播新聞",TVBS新聞
