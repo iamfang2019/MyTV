@@ -1,0 +1,19 @@
+{
+  "sites": [
+    { "name": "映迷影院", "api": "https://www.inmi.app/api.php/provide/vod/" },
+    { "name": "優酷", "api": "https://api.ukuapi.com/api.php/provide/vod/" }
+  ],
+  "lives": [
+    {
+      "group": "本地直播源",
+      "channels": [
+        { "name": "频道1", "urls": ["http://xxx.com/yyy.m3u8"] },
+        { "name": "频道2", "urls": ["http://xxx.com/yyy.m3u8"] }
+      ]
+    },
+    {
+      "name": "台灣第四台",
+      "api": "https://raw.githubusercontent.com/linitfor/MyTV/main/Old/4CH_pure.m3u"
+    }
+  ]
+}
