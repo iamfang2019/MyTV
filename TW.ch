@@ -462,7 +462,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 
 
 //ETH TV
-//彎彎(mitv)240401,#genre#
+//彎彎(mitv)240401
 寰宇新聞,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新聞臺灣,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -1542,7 +1542,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 
 
 //ETH TV
-//彎彎(mitv)240401,#genre#
+//彎彎(mitv)240401
 寰宇新聞,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新聞臺灣,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -2673,7 +2673,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 
 
 //ETH TV
-//彎彎(mitv)240401,#genre#
+//彎彎(mitv)240401
 寰宇新聞,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新聞臺灣,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -3752,7 +3752,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 
 
 //ETH TV
-//彎彎(mitv)240401,#genre#
+//彎彎(mitv)240401
 寰宇新聞,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新聞臺灣,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -4831,7 +4831,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 
 
 //ETH TV
-//彎彎(mitv)240401,#genre#
+//彎彎(mitv)240401
 寰宇新聞,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新聞臺灣,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
