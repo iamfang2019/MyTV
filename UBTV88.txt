@@ -93,8 +93,8 @@ thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/ind
 龍華電影,https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
 華納電影,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-ELEVEN1,https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8
-ELEVEN2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
 愛爾達體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
@@ -126,12 +126,13 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-玩美臺,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+潘朵拉,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+
 彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
 彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
 彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+免子臺,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
 HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
 Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
