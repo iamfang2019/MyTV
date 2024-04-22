@@ -6768,15 +6768,15 @@ ELEVEN體育2,https://test.m3u8
 愛爾達體育2,https://test.m3u8
 愛爾達體育3,https://test.m3u8
 愛爾達體育4,https://test.m3u8
-博斯運動2,https://test.m3u8
 博斯運動,https://test.m3u8
-智林體育,https://test.m3u8
+博斯運動2,https://test.m3u8
 博斯高球,https://test.m3u8
 博斯高球2,https://test.m3u8
 博斯網球,https://test.m3u8
 博斯魅力,https://test.m3u8
 博斯無限,https://test.m3u8
 博斯無限2,https://test.m3u8
+智林體育,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
