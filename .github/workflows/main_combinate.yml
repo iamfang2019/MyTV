@@ -55,7 +55,7 @@ jobs:
 
           rm -rf ./TW.ch
 
-          cp ./old/rslt ./rslt
+          cp ./Old/rslt ./rslt
           cat ./rslt ./tw.src > TW
           sed -i '/genre/d' ./TW
 
