@@ -54,8 +54,9 @@ jobs:
           rm -rf ./MYTVs_t
 
           rm -rf ./TW.ch
+          rm -rf ./TW
 
-          cp ./Old/rslt ./rslt
+          rsync -av ./Old/rslt ./rslt
           cat ./rslt ./tw.src > TW
           sed -i '/genre/d' ./TW
 
