@@ -34,8 +34,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "aaa@gmail.com"
-          git config --global user.name "My robot"
+          git config --global user.email "AutoRobot@gmail.com"
+          git config --global user.name "AutoRobot"
       
       
       - name: Main
@@ -65,12 +65,15 @@ jobs:
           cat ./2_Mix ./TW > TW2
           cat ./3_Movie ./TW > TW3
           cat ./4_Sport ./TW > TW4
+          cat ./5_child ./TW > TW5
 
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 > TW.ch
+          rm -rf TW0
           rm -rf TW1
           rm -rf TW2
           rm -rf TW3
           rm -rf TW4
+          rm -rf TW5
   
       - name: UpdateChannel Time 
         run: |
