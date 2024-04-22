@@ -74,6 +74,7 @@ jobs:
           rm -rf TW3
           rm -rf TW4
           rm -rf TW5
+          rm -rf ./rslt
   
       - name: UpdateChannel Time 
         run: |
