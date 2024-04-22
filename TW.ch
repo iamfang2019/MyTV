@@ -3,8 +3,8 @@
 台視,https://test.m3u8
 中視,https://test.m3u8
 華視,https://test.m3u8
-公視,https://test.m3u8
 大愛,https://test.m3u8
+公視,https://test.m3u8
 民視第一,https://test.m3u8
 台視財經,https://test.m3u8
 民視台灣,https://test.m3u8
@@ -3426,17 +3426,12 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 綜合,#genre#
-民視第一,https://test.m3u8
-民視台灣,https://test.m3u8
 民視,https://test.m3u8
 台視,https://test.m3u8
-大愛,https://test.m3u8
-大愛2,https://test.m3u8
 中視,https://test.m3u8
 華視,https://test.m3u8
+大愛,https://test.m3u8
 公視,https://test.m3u8
-公視3,https://test.m3u8
-
 緯來綜合,https://test.m3u8
 八大第一,https://test.m3u8
 八大綜合,https://test.m3u8
@@ -3446,9 +3441,9 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 華藝綜合,https://test.m3u8
 東森綜合,https://test.m3u8
 東森超視,https://test.m3u8
-中天綜合,https://test.m3u8
-愛爾達影劇,https://test.m3u8
 愛爾達綜合,https://test.m3u8
+愛爾達影劇,https://test.m3u8
+中天綜合,https://test.m3u8
 中天娛樂,https://test.m3u8
 東森戲劇,https://test.m3u8
 八大戲劇,https://test.m3u8
@@ -3457,12 +3452,21 @@ TVBS,https://test.m3u8
 緯來戲劇,https://test.m3u8
 高點綜合,https://test.m3u8
 JET綜合,https://test.m3u8
-中視經典,https://test.m3u8
-中視菁采,https://test.m3u8
-人間衛視,https://test.m3u8
 緯來日本,https://test.m3u8
 國興衛視,https://test.m3u8
 靖天日本,https://test.m3u8
+靖天戲劇,https://test.m3u8
+靖洋戲劇,https://test.m3u8
+采昌影劇,https://test.m3u8
+EYETV戲劇,https://test.m3u8
+龍華戲劇,https://test.m3u8
+中視經典,https://test.m3u8
+中視菁采,https://test.m3u8
+人間衛視,https://test.m3u8
+民視第一,https://test.m3u8
+民視台灣,https://test.m3u8
+大愛2,https://test.m3u8
+公視3,https://test.m3u8
 TVBS精采,https://test.m3u8
 Z頻道,https://test.m3u8
 MTV,https://test.m3u8
@@ -3479,11 +3483,6 @@ MoMo綜合,https://test.m3u8
 靖天育樂,https://test.m3u8
 靖天國際,https://test.m3u8
 靖天育樂,https://test.m3u8
-靖天戲劇,https://test.m3u8
-靖洋戲劇,https://test.m3u8
-采昌影劇,https://test.m3u8
-EYETV戲劇,https://test.m3u8
-龍華戲劇,https://test.m3u8
 星衛娛樂,https://test.m3u8
 ELTV生活英語,https://test.m3u8
 ROCKExtreme,https://test.m3u8
@@ -8401,8 +8400,8 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-親子,#genre#
 
+親子,#genre#
 CN卡通,https://test.m3u8
 Disney,https://test.m3u8
 MOMO親子,https://test.m3u8
