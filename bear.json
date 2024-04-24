@@ -38,7 +38,7 @@
         {"name": "民視新聞","urls": ["http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8"]},
         {"name": "民視新聞 HD","urls": ["http://seb.sason.top/sc/msxw_fhd.m3u8"]},
         {"name": "民視新聞臺","urls": ["http://185.207.176.189:8080/channels/tw-302/playlist.m3u8"]},
-        {"name": "民視第一臺","urls": ["http://185.207.176.189:8080/channels/tw-301/playlist.m3u8"]}]}
+        {"name": "民視第一臺","urls": ["http://185.207.176.189:8080/channels/tw-301/playlist.m3u8"]}
         
       ]
     },
