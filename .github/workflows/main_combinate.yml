@@ -57,7 +57,7 @@ jobs:
           rm -rf ./TW
 
           rsync -av ./Old/rslt ./rslt
-          cat ./rslt ./P2P ./tw.src > TW
+          cat ./P2P ./rslt ./tw.src > TW
           sed -i '/genre/d' ./TW
 
           cat ./0_TW ./TW > TW0
