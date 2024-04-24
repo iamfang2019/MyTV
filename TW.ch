@@ -315,6 +315,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -364,7 +365,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -386,11 +387,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -2041,6 +2044,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -2090,7 +2094,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -2112,11 +2116,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -3818,6 +3824,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -3867,7 +3874,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -3889,11 +3896,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -5543,6 +5552,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -5592,7 +5602,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -5614,11 +5624,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -7269,6 +7281,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -7318,7 +7331,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -7340,11 +7353,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -8987,6 +9002,7 @@ MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2
 MOMO親子,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,http://158.69.25.22:25469/live/chen0922/dog0922/216.ts
 東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
@@ -9036,7 +9052,7 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 亞洲旅遊,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,http://158.69.25.22:25469/live/chen0922/dog0922/190.ts
@@ -9058,11 +9074,13 @@ MOMO親子,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://158.69.25.22:25469/live/chen0922/dog0922/191.ts
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://158.69.25.22:25469/live/chen0922/dog0922/220.ts
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
