@@ -32,6 +32,7 @@ MOMO親子,https://test.m3u8
 東森超視,https://test.m3u8
 愛爾達綜合,https://test.m3u8
 愛爾達影劇,https://test.m3u8
+愛爾達娛樂,https://test.m3u8
 中天綜合,https://test.m3u8
 中天娛樂,https://test.m3u8
 東森戲劇,https://test.m3u8
@@ -431,11 +432,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -470,6 +471,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -796,7 +798,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -867,7 +869,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -2160,11 +2169,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -2199,6 +2208,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -2525,7 +2535,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -2596,7 +2606,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -3942,11 +3959,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -3981,6 +3998,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -4307,7 +4325,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -4378,7 +4396,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -5396,6 +5421,7 @@ AMC最愛電影,https://test.m3u8
 CinemaWorld,https://test.m3u8
 WARNERTV,https://test.m3u8
 壹電影,https://test.m3u8
+
 HBO Family,https://test.m3u8
 HBO Hits,https://test.m3u8
 HBO Signature,https://test.m3u8
@@ -5671,11 +5697,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -5710,6 +5736,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -6036,7 +6063,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -6107,7 +6134,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -7400,11 +7434,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -7439,6 +7473,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -7765,7 +7800,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -7836,7 +7871,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -9121,11 +9163,11 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 中天新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 
-壹電視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
@@ -9160,6 +9202,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -9486,7 +9529,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 華藏衛視,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,http://158.69.25.22:25469/live/chen0922/dog0922/78.ts
 唯心電視,http://158.69.25.22:25469/live/chen0922/dog0922/70.ts
@@ -9557,7 +9600,14 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
