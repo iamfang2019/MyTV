@@ -552,8 +552,8 @@ AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=1
 八大戲劇,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
 八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
 八大綜合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=19669&tsum=67561057f5713bb97c63281807a11364
-BBCEarth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
-BBCWorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME1E6746516067465160&ct=19669&tsum=0f31a7a7026b261f2f6e7fe10fa6a4d6
+BBC Earth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME1E6746516067465160&ct=19669&tsum=0f31a7a7026b261f2f6e7fe10fa6a4d6
 Bloomberg,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MDFD4996921349969213&ct=19669&tsum=9a34a78246271781aa8a6cd41a0e5f36
 博斯高球,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&ct=19669&tsum=fff9c937a1847e23614b3936a0ecd27d
 博斯高球2,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
@@ -642,8 +642,8 @@ AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=
 八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
 八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=19669&tsum=67561057f5713bb97c63281807a11364
-BBCEarth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
-BBCWorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME1E6746516067465160&ct=19669&tsum=0f31a7a7026b261f2f6e7fe10fa6a4d6
+BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME1E6746516067465160&ct=19669&tsum=0f31a7a7026b261f2f6e7fe10fa6a4d6
 Bloomberg,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MDFD4996921349969213&ct=19669&tsum=9a34a78246271781aa8a6cd41a0e5f36
 博斯高球,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&ct=19669&tsum=fff9c937a1847e23614b3936a0ecd27d
 博斯高球2,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
@@ -1019,7 +1019,7 @@ WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 壹電視資訊綜合,http://158.69.25.22:25469/live/chen0922/dog0922/111.ts
 大愛二台,http://158.69.25.22:25469/live/chen0922/dog0922/149.ts
 好消息2,http://158.69.25.22:25469/live/chen0922/dog0922/144.ts
-BBC_Earth,http://158.69.25.22:25469/live/chen0922/dog0922/187.ts
+BBC Earth,http://158.69.25.22:25469/live/chen0922/dog0922/187.ts
 希望電視,http://158.69.25.22:25469/live/chen0922/dog0922/75.ts
 高點綜合,http://158.69.25.22:25469/live/chen0922/dog0922/83.ts
 EYE_TV旅遊,http://158.69.25.22:25469/live/chen0922/dog0922/179.ts
