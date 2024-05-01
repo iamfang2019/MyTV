@@ -28,7 +28,7 @@ MOMO親子,https://test.m3u8
 三立都會,https://test.m3u8
 三立戲劇,https://test.m3u8
 華藝綜合,https://test.m3u8
-tvn,https://test.m3u8
+tvN,https://test.m3u8
 東森綜合,https://test.m3u8
 東森超視,https://test.m3u8
 愛爾達綜合,https://test.m3u8
@@ -3616,7 +3616,7 @@ Nickelodeon_Asia(尼克兒童頻道),http://158.69.25.22:25469/live/chen0922/dog
 
 
 
-
+it
 綜合,#genre#
 民視,https://test.m3u8
 台視,https://test.m3u8
@@ -3631,7 +3631,7 @@ Nickelodeon_Asia(尼克兒童頻道),http://158.69.25.22:25469/live/chen0922/dog
 三立都會,https://test.m3u8
 三立戲劇,https://test.m3u8
 華藝綜合,https://test.m3u8
-tvn,https://test.m3u8
+tvN,https://test.m3u8
 東森綜合,https://test.m3u8
 東森超視,https://test.m3u8
 愛爾達綜合,https://test.m3u8
