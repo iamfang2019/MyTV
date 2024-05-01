@@ -425,7 +425,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -452,6 +452,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -462,7 +463,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -474,23 +474,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -504,14 +503,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -520,7 +517,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -528,31 +524,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
@@ -2163,7 +2162,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -2190,6 +2189,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -2200,7 +2200,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -2212,23 +2211,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -2242,14 +2240,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -2258,7 +2254,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -2266,31 +2261,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
@@ -3954,7 +3952,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -3981,6 +3979,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -3991,7 +3990,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -4003,23 +4001,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -4033,14 +4030,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -4049,7 +4044,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -4057,31 +4051,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
@@ -5693,7 +5690,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -5720,6 +5717,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -5730,7 +5728,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -5742,23 +5739,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -5772,14 +5768,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -5788,7 +5782,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -5796,31 +5789,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
@@ -7431,7 +7427,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -7458,6 +7454,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -7468,7 +7465,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -7480,23 +7476,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -7510,14 +7505,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -7526,7 +7519,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -7534,31 +7526,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
@@ -9161,7 +9156,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,http://158.69.25.22:25469/live/chen0922/dog0922/189.ts
+
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
@@ -9188,6 +9183,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
 東森新聞,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
+
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -9198,7 +9194,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民視新聞,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞,video://https://today.line.me/tw/v2/article/PNNoG5
@@ -9210,23 +9205,22 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://158.69.25.22:25469/live/chen0922/dog0922/196.ts
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+
+TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://158.69.25.22:25469/live/chen0922/dog0922/223.ts
-TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -9240,14 +9234,12 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-非凡新聞,http://158.69.25.22:25469/live/chen0922/dog0922/209.ts
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
-東森電影,http://158.69.25.22:25469/live/chen0922/dog0922/214.ts
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -9256,7 +9248,6 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,http://50.7.238.114:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&ct=19669&tsum=144d073fbe017b70d5fe84cf2737cdce
-龍祥時代,http://158.69.25.22:25469/live/chen0922/dog0922/202.ts
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 龍祥時代,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
@@ -9264,31 +9255,34 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://158.69.25.22:25469/live/chen0922/dog0922/167.ts
-東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
-AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+東森洋片,http://158.69.25.22:25469/live/chen0922/dog0922/217.ts
+
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
+AXN,http://158.69.25.22:25469/live/chen0922/dog0922/236.ts
+
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
+好萊塢電影,http://158.69.25.22:25469/live/chen0922/dog0922/208.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
+
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-
+WARNERTV,http://158.69.25.22:25469/live/chen0922/dog0922/86.ts
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO Family,http://158.69.25.22:25469/live/chen0922/dog0922/229.ts
