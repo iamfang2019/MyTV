@@ -1105,3 +1105,9 @@ http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UBTV18",松視2
 https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷台.png" group-title="UBTV18",驚艷台
+🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉台.png" group-title="UBTV18",香蕉台
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UBTV18",極限
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
