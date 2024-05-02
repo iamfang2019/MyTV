@@ -1,0 +1,27 @@
+📡灣灣頻道👉全網,#genre#
+中天新聞,https://s2.pub/cctv-17
+中天新聞,http://mywlkj.ddns.net:754/tv/yximgs.php?id=66
+中天新聞,http://112.29.107.125:8182/TW/ztxw/hls.m3u8
+三立新聞,http://165.1.79.200:9000/live.m3u8?c=95
+中天新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=2 
+中視新聞,http://mywlkj.ddns.net:754/tv/tw2.php?id=14 
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+中華小家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+49號頻道,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+八大綜合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+TVBS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+八大戲劇,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+三立戲劇,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMC電影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+緯來精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+八大一,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+野生頻道,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
