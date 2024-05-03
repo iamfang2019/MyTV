@@ -164,6 +164,34 @@ CMusic,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -938,32 +966,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -2194,6 +2197,34 @@ TVBS,https://test.m3u8
 大愛,https://test.m3u8
 公視,https://test.m3u8
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -2968,32 +2999,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -4277,6 +4283,34 @@ CMusic,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -5051,32 +5085,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -6312,6 +6321,34 @@ HBO Signature,https://test.m3u8
 StarMovies,https://test.m3u8
 FOX頻道,https://test.m3u8
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -7086,32 +7123,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -8342,6 +8354,34 @@ ELEVEN體育2,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -9116,32 +9156,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
@@ -10364,6 +10379,34 @@ NickJr.,https://test.m3u8
 Cbeebies,https://test.m3u8
 
 
+
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
+愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
+愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
+
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+台視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+
 AXN,http://193.24.209.91/Smart.php?id=axn_twn
 CINEMAX,http://193.24.209.91/Smart.php?id=cinemax_twn
 EYE戲劇,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
@@ -11138,32 +11181,7 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-東森財經,rtmp://f13h.mine.nu:1935/sat/tv571
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
-愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
-愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-台視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
 
 
 
