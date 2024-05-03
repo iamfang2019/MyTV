@@ -67,7 +67,7 @@ jobs:
           cat ./4_Sport ./TW > TW4
           cat ./5_child ./TW > TW5
 
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./startv365 > TW.ch
           rm -rf TW0
           rm -rf TW1
           rm -rf TW2
