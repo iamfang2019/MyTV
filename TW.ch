@@ -12078,3 +12078,34 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+
+
+UBTV18,#genre#
+松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+
+松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+
+松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+彩虹電影,https://epg.pw/stream/8f647a29253c5b46f20972beade6fdda0a9b75d6e91b847c39c20b95ce97e78a.m3u8
+彩虹K,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+彩虹K,https://epg.pw/stream/244b0669ae93adbdd7f3b0a57daeafdf90f7b716fe663fc02d0fcf34a6b057c7.m3u8
+彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹E,https://epg.pw/stream/39d8f414d724fb9b7c2b1d6ae39871850ff5cf78d9db0ef0a2b8eea8ed84a39a.m3u8
+
+驚艷台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘朵拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+潘朵拉,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+潘朵拉,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+
+兔子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+Hustler,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+
+極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+
+松視1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+
+松視2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
