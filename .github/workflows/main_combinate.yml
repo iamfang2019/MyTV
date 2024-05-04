@@ -71,7 +71,7 @@ jobs:
           cat ./5_child ./TW > TW5
 
           # Cascade all 
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV  > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P ./Source/P3P > TW.ch
           rm -rf TW0
           rm -rf TW1
           rm -rf TW2
