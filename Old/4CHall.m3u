@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="直播新聞",壹電視新聞
-http://158.69.25.22:25469/live/chen0922/dog0922/112.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="直播新聞",壹電視新聞
 https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="直播新聞",壹電視新聞
 mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="直播新聞",年代新聞
-http://158.69.25.22:25469/live/chen0922/dog0922/199.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="直播新聞",年代新聞
 https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="直播新聞",年代新聞
@@ -16,8 +14,7 @@ mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="直播新聞",年代新聞
 http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
-http://158.69.25.22:25469/live/chen0922/dog0922/218.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="直播新聞",東森新聞
@@ -52,8 +49,7 @@ video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
 https://www.youtube.com/watch?v=ylYJSBUgaMA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
-http://158.69.25.22:25469/live/chen0922/dog0922/121.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
 http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="直播新聞",民視新聞
