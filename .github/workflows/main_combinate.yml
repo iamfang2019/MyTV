@@ -56,10 +56,13 @@ jobs:
           rm -rf ./TW.ch
           rm -rf ./TW
 
+          # Build Source 
           rsync -av ./Old/rslt ./rslt
-          cat ./Source/rtmp ./Source/SmartTV.txt ./P2P ./rslt ./tw.src  ./Source/P3P ./startv365 > TW
+          cat ./Source/rtmp ./Source/SmartTV.txt ./P2P ./rslt ./tw.src  ./Source/P3P  > TW
           sed -i '/genre/d' ./TW
 
+
+          # add catagory
           cat ./0_TW ./TW > TW0
           cat ./1_News ./TW > TW1
           cat ./2_Mix ./TW > TW2
@@ -67,7 +70,8 @@ jobs:
           cat ./4_Sport ./TW > TW4
           cat ./5_child ./TW > TW5
 
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./startv365 > TW.ch
+          # Cascade all 
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV  > TW.ch
           rm -rf TW0
           rm -rf TW1
           rm -rf TW2
