@@ -60,7 +60,7 @@ jobs:
           rm -rf ./TW
 
           # Build Source 
-          rsync -av ./Old/rslt ./rslt
+          cp ./Old/rslt ./rslt
           cat ./Source/rtmp ./Source/P2P ./rslt ./tw.src ./Source/bsexSmartTV  ./Source/P3P  > TW
           sed -i '/genre/d' ./TW
 
