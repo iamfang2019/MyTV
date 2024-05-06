@@ -17,3 +17,5 @@ foreach type (1_News )
      grep -i $chk ./TW >> parsing_TW                                                                                                                                                          
    end
 end
+
+cat parsing_TW | uniq > finish_TW
