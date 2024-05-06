@@ -9,11 +9,11 @@ touch parsing_TW
 
 cat 0_TW | grep -v genre | cut -d "h" -f 1 > list
 
-foreach chk ("`cat list`")
- #echo $chk > chk
+foreach chk ("`cat ./list`")
+ echo $chk
 
  grep -i $chk ./TW > parsing_TW                                                                                                                                                          
-#end
+end
   
   
 #cat ./report_from_primetime | head -n 5
