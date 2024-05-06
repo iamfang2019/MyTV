@@ -7,7 +7,7 @@ touch parsing_TW
 
 #echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
-cat 0_TW | grep -v genre | cut -d "," -f 1 > list
+cat 0_TW | grep -v genre | cut -d "http" -f 1 > list
 
 foreach chk ("`cat list`")
  #echo $chk > chk
