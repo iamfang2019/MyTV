@@ -12,7 +12,7 @@ cat 1_News | grep -v genre | cut -d "h" -f 1 > list
 foreach chk ("`cat ./list`")
  echo $chk
 
- grep -i $chk ./TW > parsing_TW                                                                                                                                                          
+ grep -i $chk ./TW >> parsing_TW                                                                                                                                                          
 end
   
   
