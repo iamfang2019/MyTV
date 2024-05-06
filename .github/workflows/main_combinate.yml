@@ -38,8 +38,8 @@ jobs:
           git config --global user.name "AutoRobot"
       
       - name: Install csh
-      run: |
-        sudo apt install csh
+        run: |
+          sudo apt install csh
       
       - name: Main
         run: |
