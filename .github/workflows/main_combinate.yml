@@ -84,6 +84,18 @@ jobs:
           rm -rf TW4
           rm -rf TW5
           rm -rf ./rslt
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install selenium requests futures eventlet
+              
+      - name: Run ZB
+        run: python ${{ github.workspace }}/txt2m3u.py
   
       - name: UpdateChannel Time 
         run: |
