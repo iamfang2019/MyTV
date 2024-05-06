@@ -47,14 +47,14 @@ jobs:
           #chmod +x autorun.sh
           #./autorun.sh
 
-          chmod +x run_class
+          chmod +x ./run_class
           #./run_class
           
           
-          cat ./MYTV > ./MYTVs_t
-          cat ./MYTVs_t UBTV18 > ./MYTVs
+          #cat ./MYTV > ./MYTVs_t
+          #cat ./MYTVs_t UBTV18 > ./MYTVs
 
-          rm -rf ./MYTVs_t
+          #rm -rf ./MYTVs_t
 
           rm -rf ./TW.ch
           rm -rf ./TW
