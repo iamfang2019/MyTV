@@ -85,6 +85,8 @@ jobs:
           rm -rf TW5
           rm -rf ./rslt
 
+          grep -v 'test.m3u8' ./TW.ch > TW_txt
+
 
       - name: Set up Python
         uses: actions/setup-python@v2
