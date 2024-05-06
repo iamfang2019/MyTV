@@ -7,7 +7,7 @@ touch parsing_TW
 
 #echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
-foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+foreach type (1_News 3_Movie 4_Sport 5_child)
    cat $type | grep -v genre | cut -d "h" -f 1 > list
 
 
