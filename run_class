@@ -1,22 +1,17 @@
-#!/bin/bash
-## path to input file
-input="class"
+#!/bin/csh -f
+  
+rm -rf output
 
-rm -rf rslt
+  
+touch output
 
-touch rslt
+echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
-cp ./source.ch.backup ./source.ch
+#foreach chk ("`cat 0_TW | grep -v genre | cut -d "," -f 1`")
+ echo $chk
 
-## Let us read a file line-by-line using while loop ##
-while IFS= read -r line
-do
-      #printf '%s\n' "$line"
-      a=$line
-      echo $a
-
-      grep $a ./source.ch >> rslt
-
-      sed -i '/'$a'/d' ./source.ch
-
-done < "$input"
+ grep -i $chk ./TW > parsing_TW                                                                                                                                                          
+#end
+  
+  
+#cat ./report_from_primetime | head -n 5
