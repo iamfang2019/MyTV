@@ -18,4 +18,4 @@ foreach type (1_News )
    end
 end
 
-cat parsing_TW | uniq > finish_TW
+cat parsing_TW | uniq -u > finish_TW
