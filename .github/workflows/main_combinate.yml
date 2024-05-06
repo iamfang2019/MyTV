@@ -61,6 +61,7 @@ jobs:
           cat ./Source/rtmp ./Source/P2P ./rslt ./tw.src ./Source/bsexSmartTV  ./Source/P3P  > TW
           sed -i '/genre/d' ./TW
 
+          ./run_class
 
           # add catagory
           cat ./0_TW ./TW > TW0
