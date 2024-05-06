@@ -570,3 +570,12 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 國會頻道1,video://https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
 國會頻道2,http://158.69.25.22:25469/live/chen0922/dog0922/71.ts
 國會頻道2,video://https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
+
+
+八大戲劇台HD,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
