@@ -38,7 +38,9 @@ def txt_to_m3u(input_file, output_file):
                     print(genre)
                 else:
                     # 将频道信息写入m3u文件
-                    f.write(f'#EXTINF:-1 group-title="{genre}",{channel_name}\n')
+                    ##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="直播新聞",壹電視新聞
+                    ##EXTINF:-1 group-title="台灣",民視
+                    f.write(f'#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/{channel_name}.png" group-title="{genre}",{channel_name}\n')
                     f.write(f'{channel_url}\n')
 
 
