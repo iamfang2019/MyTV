@@ -5,9 +5,9 @@ rm -rf output
   
 touch output
 
-echo `cat ./0_TW | sed '/台灣,#genre#/d'
+#echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
-#foreach chk ("`cat 0_TW | grep -v genre | cut -d "," -f 1`")
+foreach chk ("`cat 0_TW | grep -v genre | cut -d "," -f 1`")
  echo $chk
 
  grep -i $chk ./TW > parsing_TW                                                                                                                                                          
