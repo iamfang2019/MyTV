@@ -90,7 +90,7 @@ jobs:
 
           # TW_allsource Unify
           rm -rf ./TW_unify
-          sort ./TW_allsource | uniq -u > TW_unify
+          grep -v "#genre#" ./TW_allsource | sort  | uniq -u > TW_unify
 
       - name: Set up Python
         uses: actions/setup-python@v2
