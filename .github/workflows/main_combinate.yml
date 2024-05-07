@@ -89,7 +89,7 @@ jobs:
 
           touch TW_txt
           echo "新聞,#gerne#" > a
-          cat a parsing_TW.1_New >> TW_only.txt
+          cat a parsing_TW.1_News >> TW_only.txt
           echo "綜合,#gerne#" > a
           cat a parsing_TW.2_Mix >> TW_only.txt
           echo "電影,#gerne#" > a
