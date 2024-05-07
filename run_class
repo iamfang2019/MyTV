@@ -33,6 +33,7 @@ end
 
 rm -rf a
 rm -rf list
+rm -rf chk
 
 
 
