@@ -4051,8 +4051,8 @@ EYETV戲劇,https://test.m3u8
 民視台灣,https://test.m3u8
 大愛2,https://test.m3u8
 公視3,https://test.m3u8
-TVBS精采,https://test.m3u8
-Z頻道,https://test.m3u8
+
+TVBS精彩,https://test.m3u8
 MTV,https://test.m3u8
 韓國娛樂,https://test.m3u8
 MoMo綜合,https://test.m3u8
@@ -6016,7 +6016,7 @@ HBO Family,https://test.m3u8
 HBO Hits,https://test.m3u8
 HBO Signature,https://test.m3u8
 StarMovies,https://test.m3u8
-FOX頻道,https://test.m3u8
+
 
 
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
