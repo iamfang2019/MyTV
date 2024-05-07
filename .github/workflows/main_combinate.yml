@@ -89,16 +89,19 @@ jobs:
 
           touch TW_txt
           echo "新聞,#gerne#" > a
-          cat a parsing_TW.1_New >> TW_txt
+          cat a parsing_TW.1_New >> TW_txt1
           echo "綜合,#gerne#" > a
-          cat a parsing_TW.2_Mix >> TW_txt
+          cat a parsing_TW.2_Mix >> TW_txt1
           echo "電影,#gerne#" > a
-          cat a parsing_TW.3_Movie >> TW_txt
+          cat a parsing_TW.3_Movie >> TW_txt1
           echo "體育,#gerne#" > a
-          cat a parsing_TW.4_Sport >> TW_txt
+          cat a parsing_TW.4_Sport >> TW_txt1
           echo "親子,#gerne#" > a
-          cat a parsing_TW.5_child >> TW_txt
+          cat a parsing_TW.5_child >> TW_txt1
 
+          grep -v 'test.m3u8' ./TW_txt1 | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
+
+          rm -rf TW_txt1
 
       - name: Set up Python
         uses: actions/setup-python@v2
