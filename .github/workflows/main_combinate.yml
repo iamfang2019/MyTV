@@ -89,7 +89,7 @@ jobs:
           grep -v 'test.m3u8' ./TW_allsource | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt      
 
           # TW_allsource Unify
-          cat ./TW_allsource | sort -u > TW_unify
+          cat ./TW_allsource | sort | uniq > TW_unify
 
       - name: Set up Python
         uses: actions/setup-python@v2
