@@ -90,15 +90,15 @@ jobs:
           
           rm -rf TW_allsource
           touch TW_allsource
-          echo "新聞,#gerne#" > a
+          echo "新聞,#genre#" > a
           cat a parsing_TW.1_News >> TW_allsource
-          echo "綜合,#gerne#" > a
+          echo "綜合,#genre#" > a
           cat a parsing_TW.2_Mix >> TW_allsource
-          echo "電影,#gerne#" > a
+          echo "電影,#genre#" > a
           cat a parsing_TW.3_Movie >> TW_allsource
-          echo "體育,#gerne#" > a
+          echo "體育,#genre#" > a
           cat a parsing_TW.4_Sport >> TW_allsource
-          echo "親子,#gerne#" > a
+          echo "親子,#genre#" > a
           cat a parsing_TW.5_child >> TW_allsource
 
           grep -v 'test.m3u8' ./TW_allsource | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
