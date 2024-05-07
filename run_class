@@ -7,47 +7,49 @@ touch parsing_TW
 
 #echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
-#foreach type (./1_News ./2_Mix ./3_Movie ./4_Sport ./5_child)
-#   cat $type | grep -v genre | cut -d "h" -f 1 > list
-#   foreach chk ("`cat ./list`")
-#     echo $chk
-#     grep -i '$chk' ./TW >> parsing_TW  
-#   end
-#end
-
-cat ./1_News | grep -v genre | cut -d "h" -f 1 > list
-foreach chk ("`cat ./list`")
-   echo $chk
-   grep -i $chk ./TW >> parsing_TW     
-end
-
-cat ./2_Mix | grep -v genre | cut -d "h" -f 1 > list
-foreach chk ("`cat ./list`")
-   echo $chk
-   grep -i $chk ./TW >> parsing_TW     
-end
-
-cat ./3_Movie | grep -v genre | cut -d "h" -f 1 > list
-foreach chk ("`cat ./list`")
-   echo $chk
-   grep -i $chk ./TW >> parsing_TW     
-end
-
-
-cat ./4_Sport | grep -v genre | cut -d "h" -f 1 > list
-foreach chk ("`cat ./list`")
-   echo $chk
-   grep -i $chk ./TW >> parsing_TW     
-end
-
-cat ./5_child | grep -v genre | cut -d "h" -f 1 > list
-foreach chk ("`cat ./list`")
-   echo $chk
-   grep -i $chk ./TW >> parsing_TW     
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+   cat $type | grep -v genre | cut -d "h" -f 1 > list
+   foreach chk ("`cat ./list`")
+     echo $chk
+     grep -i $chk ./TW >> parsing_TW.$type  
+   end
 end
 
 
 
-
+###cat ./1_News | grep -v genre | cut -d "h" -f 1 > list
+###foreach chk ("`cat ./list`")
+###   echo $chk
+###   grep -i $chk ./TW >> parsing_TW     
+###end
+###
+###cat ./2_Mix | grep -v genre | cut -d "h" -f 1 > list
+###foreach chk ("`cat ./list`")
+###   echo $chk
+###   grep -i $chk ./TW >> parsing_TW     
+###end
+###
+###cat ./3_Movie | grep -v genre | cut -d "h" -f 1 > list
+###foreach chk ("`cat ./list`")
+###   echo $chk
+###   grep -i $chk ./TW >> parsing_TW     
+###end
+###
+###
+###cat ./4_Sport | grep -v genre | cut -d "h" -f 1 > list
+###foreach chk ("`cat ./list`")
+###   echo $chk
+###   grep -i $chk ./TW >> parsing_TW     
+###end
+###
+###cat ./5_child | grep -v genre | cut -d "h" -f 1 > list
+###foreach chk ("`cat ./list`")
+###   echo $chk
+###   grep -i $chk ./TW >> parsing_TW     
+###end
+###
+###
+###
+###
 
 cat parsing_TW | uniq -u > finish_TW
