@@ -18,6 +18,27 @@ foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
    end
 end
 
+rm -rf TW_allsource
+touch TW_allsource
+echo "新聞,#genre#" > a
+cat a parsing_TW.1_News >> TW_allsource
+echo "綜合,#genre#" > a
+cat a parsing_TW.2_Mix >> TW_allsource
+echo "電影,#genre#" > a
+cat a parsing_TW.3_Movie >> TW_allsource
+echo "體育,#genre#" > a
+cat a parsing_TW.4_Sport >> TW_allsource
+echo "親子,#genre#" > a
+cat a parsing_TW.5_child >> TW_allsource
+
+sed -i 's/\.\/TW://' ./TW_allsource
+
+## delete data
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+   rm -rf parsing_TW.$type
+end
+
+rm -rf a
 
 
 ###cat ./1_News | grep -v genre | cut -d "h" -f 1 > list
