@@ -101,7 +101,10 @@ jobs:
           echo "親子,#genre#" > a
           cat a parsing_TW.5_child >> TW_allsource
 
+          sed -i 's/\.\/TW://' ./TW_allsource
+
           grep -v 'test.m3u8' ./TW_allsource | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
+
 
           
 
