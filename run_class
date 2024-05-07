@@ -8,11 +8,12 @@ touch parsing_TW
 #echo `cat ./0_TW | sed '/台灣,#genre#/d'
 
 foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+   rm -rf parsing_TW.$type
+   touch parsing_TW.$type
    cat $type | grep -v genre | cut -d "h" -f 1 > list
    foreach chk ("`cat ./list`")
      echo $chk
-     rm -rf parsing_TW.$type
-     touch parsing_TW.$type
+
      grep -i $chk ./TW >> parsing_TW.$type  
    end
 end
