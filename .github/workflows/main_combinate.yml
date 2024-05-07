@@ -44,32 +44,17 @@ jobs:
       - name: Main
         run: |
           pwd
-          #chmod +x autorun.sh
-          #./autorun.sh
-
          
-          #./run_class
-          
-          
-          #cat ./MYTV > ./MYTVs_t
-          #cat ./MYTVs_t UBTV18 > ./MYTVs
-
-          #rm -rf ./MYTVs_t
-
           rm -rf ./TW.ch
           rm -rf ./TW
 
-          # Build Source 
+          # Build Source (cascade all source)
           cp ./Old/rslt ./rslt
           cat ./Source/rtmp ./Source/P2P ./rslt ./tw.src ./Source/bsexSmartTV  ./Source/P3P  > TW
           sed -i '/genre/d' ./TW
 
-          chmod +x ./run_class
-          ./run_class
 
-
-
-          # add catagory
+          # add catagory for TVBOX smart sorting 
           cat ./0_TW ./TW > TW0
           cat ./1_News ./TW > TW1
           cat ./2_Mix ./TW > TW2
@@ -94,6 +79,8 @@ jobs:
 
           ###########################################
           ## Create M3U 
+          chmod +x ./run_class
+          ./run_class
           
           rm -rf TW_allsource
           touch TW_allsource
@@ -108,6 +95,9 @@ jobs:
           echo "親子,#genre#" > a
           cat a parsing_TW.5_child >> TW_allsource
 
+
+          ###########################################
+          ## Create ntPlayer Source
           grep -v 'test.m3u8' ./TW_allsource | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
 
           
