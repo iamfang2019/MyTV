@@ -86,8 +86,10 @@ jobs:
           rm -rf ./rslt
 
           #grep -v 'test.m3u8' ./TW.ch | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
-
-          touch TW_txt
+  
+          
+          rm -rf TW_only.txt
+          touch TW_only.txt
           echo "新聞,#gerne#" > a
           cat a parsing_TW.1_News >> TW_only.txt
           echo "綜合,#gerne#" > a
@@ -101,7 +103,7 @@ jobs:
 
           grep -v 'test.m3u8' ./TW_only.txt | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt
 
-          rm -rf TW_only.txt
+          
 
       - name: Set up Python
         uses: actions/setup-python@v2
