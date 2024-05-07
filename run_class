@@ -18,32 +18,32 @@ touch parsing_TW
 cat ./1_News | grep -v genre | cut -d "h" -f 1 > list1
 foreach chk ("`cat ./list1`")
    echo $chk
-   grep -i '$chk' ./TW >> parsing_TW     
+   grep -i $chk ./TW >> parsing_TW     
 end
 
 cat ./2_Mix | grep -v genre | cut -d "h" -f 1 > list2
 foreach chk ("`cat ./list2`")
    echo $chk
-   grep -i '$chk' ./TW >> parsing_TW     
+   grep -i $chk ./TW >> parsing_TW     
 end
 
 cat ./3_Movie | grep -v genre | cut -d "h" -f 1 > list3
 foreach chk ("`cat ./list3`")
    echo $chk
-   grep -i '$chk' ./TW >> parsing_TW     
+   grep -i $chk ./TW >> parsing_TW     
 end
 
 
 cat ./4_Sport | grep -v genre | cut -d "h" -f 1 > list4
 foreach chk ("`cat ./list4`")
    echo $chk
-   grep -i '$chk' ./TW >> parsing_TW     
+   grep -i $chk ./TW >> parsing_TW     
 end
 
 cat ./5_child | grep -v genre | cut -d "h" -f 1 > list5
 foreach chk ("`cat ./list5`")
    echo $chk
-   grep -i '$chk' ./TW >> parsing_TW     
+   grep -i $chk ./TW >> parsing_TW     
 end
 
 
