@@ -964,6 +964,8 @@ http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
+https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
