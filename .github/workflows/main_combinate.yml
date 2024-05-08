@@ -94,7 +94,7 @@ jobs:
 
           sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
         
-          sort ./TW_unify | uniq | sed /^$/d > TW_uni
+          cat ./TW_unify | sed /^$/d | sort | uniq |  > TW_uni
 
       - name: Set up Python
         uses: actions/setup-python@v2
