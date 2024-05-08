@@ -1592,6 +1592,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -1624,7 +1637,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
@@ -3674,6 +3687,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -3706,7 +3732,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
@@ -5809,6 +5835,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -5841,7 +5880,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
@@ -7896,6 +7935,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -7928,7 +7980,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
@@ -9978,6 +10030,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -10010,7 +10075,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
@@ -12052,6 +12117,19 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+//61.221.215.2
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
 //4gtv
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
@@ -12084,7 +12162,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
-amc電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 龍華日韓,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28

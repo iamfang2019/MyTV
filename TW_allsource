@@ -132,6 +132,7 @@ TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/ind
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS,http://888.iptv543.com/Smartv.php?id=tvbs
 TVBS,http://888.iptv543.com/Smartv.php?id=tvbs
@@ -504,6 +505,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 八大第一,mitv://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
 八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://888.iptv543.com/Smartv.php?id=badafirst
 八大第一,http://888.iptv543.com/Smartv.php?id=badafirst
 八大第一,http://888.iptv543.com/Smartv.php?id=badafirst
@@ -520,6 +522,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 八大綜合,mitv://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
 八大綜合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=19669&tsum=67561057f5713bb97c63281807a11364
 八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=19669&tsum=67561057f5713bb97c63281807a11364
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大綜合,http://888.iptv543.com/Smartv.php?id=badazhonghe
 八大綜合,http://888.iptv543.com/Smartv.php?id=badazhonghe
 八大綜合,http://888.iptv543.com/Smartv.php?id=badazhonghe
@@ -559,6 +562,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 三立戲劇,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
 三立戲劇,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MEFE2533125325331253&ct=19669&tsum=da7eb6c2ccede07a40e6f0bbefa14d05
 三立戲劇,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MEFE2533125325331253&ct=19669&tsum=da7eb6c2ccede07a40e6f0bbefa14d05
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
 三立戲劇,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
 三立戲劇,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
@@ -680,6 +684,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 八大戲劇,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 八大戲劇,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
 八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,http://888.iptv543.com/Smartv.php?id=badadrama
 八大戲劇,http://888.iptv543.com/Smartv.php?id=badadrama
 八大戲劇,http://888.iptv543.com/Smartv.php?id=badadrama
@@ -710,6 +715,7 @@ TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/ind
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS,http://888.iptv543.com/Smartv.php?id=tvbs
 TVBS,http://888.iptv543.com/Smartv.php?id=tvbs
@@ -1147,6 +1153,8 @@ AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
+AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 AMC最愛電影,p3p://108.181.20.159:09318/625bbd49000d7c0d1954e42d45bc3182
 影迷數位電影,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
 影迷數位電影,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
