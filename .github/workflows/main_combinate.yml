@@ -93,8 +93,7 @@ jobs:
           grep -v "#genre#" ./TW_allsource | sort -u | uniq -u > TW_unify
 
           sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
-        
-          sort ./TW_unify | sed /^$/d | uniq |  > TW_uni
+
 
       - name: Set up Python
         uses: actions/setup-python@v2
