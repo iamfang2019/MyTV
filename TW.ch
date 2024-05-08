@@ -1807,12 +1807,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -1858,51 +1852,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -1920,11 +1874,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -1932,9 +1884,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -1946,10 +1897,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -2068,9 +2016,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
@@ -3944,12 +3889,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -3995,51 +3934,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -4057,11 +3956,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -4069,9 +3966,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -4083,10 +3979,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -4205,9 +4098,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
@@ -6134,12 +6024,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -6185,51 +6069,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -6247,11 +6091,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -6259,9 +6101,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -6273,10 +6114,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -6395,9 +6233,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
@@ -8276,12 +8111,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -8327,51 +8156,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -8389,11 +8178,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -8401,9 +8188,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -8415,10 +8201,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -8537,9 +8320,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
@@ -10413,12 +10193,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -10464,51 +10238,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -10526,11 +10260,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -10538,9 +10270,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -10552,10 +10283,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -10674,9 +10402,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
@@ -12542,12 +12267,6 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 
 
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-鳳凰衛視,http://888.iptv543.com/Smartv.php?id=phoenixtv_hd
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
-VIUTV1,http://888.iptv543.com/Smartv.php?id=viu1_twn
-無線新聞,http://888.iptv543.com/Smartv.php?id=inews_twn
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -12593,51 +12312,11 @@ EYETV旅遊,http://888.iptv543.com/Smartv.php?id=eyetvtravel_twn
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 Zee TV HD,http://888.iptv543.com/Smartv.php?id=Zeetvhd
 Warner TV,http://888.iptv543.com/Smartv.php?id=WarnerTV
-Viu6,http://888.iptv543.com/Smartv.php?id=viusix_twn
-Vasantham,http://888.iptv543.com/Smartv.php?id=Vasantham
-True Premium 2 HD,http://888.iptv543.com/Smartv.php?id=truepre2_pat
-True Premium 1 HD,http://888.iptv543.com/Smartv.php?id=truepre1_pat
-Transtv,http://888.iptv543.com/Smartv.php?id=Transtv
-Trans 7,http://888.iptv543.com/Smartv.php?id=Trans7_eko
-Tnn24,http://888.iptv543.com/Smartv.php?id=tnn24_pat
-Thrill,http://888.iptv543.com/Smartv.php?id=Thrill
-Tawaf TV,http://888.iptv543.com/Smartv.php?id=TawafTV
-TVRI National,http://888.iptv543.com/Smartv.php?id=TVRI
-TVMU,http://888.iptv543.com/Smartv.php?id=TVMU_eko
-TV9,http://888.iptv543.com/Smartv.php?id=TV9
-TV9 Indonesia,http://888.iptv543.com/Smartv.php?id=TV9_eko
-TV8,http://888.iptv543.com/Smartv.php?id=TV8
-TV3,http://888.iptv543.com/Smartv.php?id=TV3
-TV3 backup,http://888.iptv543.com/Smartv.php?id=TV3_backup
-TV2,http://888.iptv543.com/Smartv.php?id=TV2
-TV1,http://888.iptv543.com/Smartv.php?id=TV1
-TPTV,http://888.iptv543.com/Smartv.php?id=tptv_pat
-TLC,http://888.iptv543.com/Smartv.php?id=Tlc
-Suria,http://888.iptv543.com/Smartv.php?id=Suria
-體育3,http://888.iptv543.com/Smartv.php?id=Assp3
-體育2,http://888.iptv543.com/Smartv.php?id=Assp2
-Sunnah HD,http://888.iptv543.com/Smartv.php?id=sunnah_mido
-Sun Music,http://888.iptv543.com/Smartv.php?id=sunmusic_raj
-Star Vijay,http://888.iptv543.com/Smartv.php?id=Starvijay
-Star Vijay India,http://888.iptv543.com/Smartv.php?id=starvijay_raj
-Sony Six HD,http://888.iptv543.com/Smartv.php?id=sonysix_raj
-Sony HD,http://888.iptv543.com/Smartv.php?id=SetOne
-Skynews,http://888.iptv543.com/Smartv.php?id=skynews_antik
-SCTV,http://888.iptv543.com/Smartv.php?id=Sctv
-SCM,http://888.iptv543.com/Smartv.php?id=Weishimovie
-RTM Sports HD,http://888.iptv543.com/Smartv.php?id=Rtmsport
-RCTI,http://888.iptv543.com/Smartv.php?id=Rcti
-Quran HD,http://888.iptv543.com/Smartv.php?id=quran_mido
-Prima,http://888.iptv543.com/Smartv.php?id=Prima
-Pick TV,http://888.iptv543.com/Smartv.php?id=picktv_antik
-PPTV Thailand1,http://888.iptv543.com/Smartv.php?id=pptv_pat
-One,http://888.iptv543.com/Smartv.php?id=One
-Oasis,http://888.iptv543.com/Smartv.php?id=Oasis
+
+
 Nickelodeon,http://888.iptv543.com/Smartv.php?id=Nickelodeon
 Nick Jr,http://888.iptv543.com/Smartv.php?id=Nickjr
-News 18 Tamil,http://888.iptv543.com/Smartv.php?id=news18tamil_raj
-New,http://888.iptv543.com/Smartv.php?id=new_pat
-Net TV,http://888.iptv543.com/Smartv.php?id=NetTV
+
 Nation,http://888.iptv543.com/Smartv.php?id=nation_pat
 國家地理,http://888.iptv543.com/Smartv.php?id=natgeohd_twn
 地理野生動物,http://888.iptv543.com/Smartv.php?id=natgeowildtamil_raj
@@ -12655,11 +12334,9 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 動物星球1,http://888.iptv543.com/Smartv.php?id=animalplanet_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
-AxnHD,http://888.iptv543.com/Smartv.php?id=Axn
+
 Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
-CNBC,http://888.iptv543.com/Smartv.php?id=cnbc_twn
-CelestialMoviesHD,http://888.iptv543.com/Smartv.php?id=Celestialindo
-Channel3Thailand,http://888.iptv543.com/Smartv.php?id=ch3_pat
+
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
 DiscoveryKidsTamil,http://888.iptv543.com/Smartv.php?id=discoverykidtamil_raj
@@ -12667,9 +12344,8 @@ DiscoveryTurbo,http://888.iptv543.com/Smartv.php?id=discoveryturbo_twn
 DiscoveryWorldTamil,http://888.iptv543.com/Smartv.php?id=discoveryworldtam_raj
 BBC1,http://888.iptv543.com/Smartv.php?id=bbc1_antik
 BBC2,http://888.iptv543.com/Smartv.php?id=bbc2_antik
-BBCEarthHD,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
-BBCEarthTamil,http://888.iptv543.com/Smartv.php?id=bbcearthtam_raj
-BBCWorldNews,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
+BBC Earth,http://888.iptv543.com/Smartv.php?id=bbcearth_twn
+BBC World News,http://888.iptv543.com/Smartv.php?id=bbcnews_twn
 BTESPN,http://888.iptv543.com/Smartv.php?id=btespn
 BTSports1,http://888.iptv543.com/Smartv.php?id=beeone
 BTSports3,http://888.iptv543.com/Smartv.php?id=beethree
@@ -12681,10 +12357,7 @@ CBSNHD,http://888.iptv543.com/Smartv.php?id=cbsn_glo
 Muslim TV,http://888.iptv543.com/Smartv.php?id=MuslimTV
 itv1,http://888.iptv543.com/Smartv.php?id=itv1_antik
 tvNMovie,http://888.iptv543.com/Smartv.php?id=Tvnmovie
-RTHK32,http://888.iptv543.com/Smartv.php?id=rhk32_twn
-RTHK31,http://888.iptv543.com/Smartv.php?id=rhk31_twn
-J2,http://888.iptv543.com/Smartv.php?id=j2_twn
-無線財經資訊,http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+
 民視第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 龍華偶像,http://888.iptv543.com/Smartv.php?id=lunghuaidol_twn
 龍華卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
@@ -12803,9 +12476,6 @@ BTSports4,http://888.iptv543.com/Smartv.php?id=btespn
 CNA亞洲新聞,http://888.iptv543.com/Smartv.php?id=cna
 Euronews,http://888.iptv543.com/Smartv.php?id=euronews_antik
 TLC旅遊生活,http://888.iptv543.com/Smartv.php?id=tlc_twn
-新加坡8,http://888.iptv543.com/Smartv.php?id=TV8
-翡翠,http://888.iptv543.com/Smartv.php?id=jade_twn
-翡翠,http://888.iptv543.com/Smartv.php?id=Wlt
 
 //p3p
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
