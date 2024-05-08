@@ -177,6 +177,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -191,6 +192,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -481,6 +500,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -529,6 +550,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -2109,6 +2131,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -2123,6 +2146,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -2413,6 +2454,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -2461,6 +2504,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -4094,6 +4138,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -4108,6 +4153,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -4398,6 +4461,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -4446,6 +4511,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -6031,6 +6097,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -6045,6 +6112,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -6335,6 +6420,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -6383,6 +6470,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -7963,6 +8051,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -7977,6 +8066,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -8267,6 +8374,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -8315,6 +8424,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -9887,6 +9997,7 @@ TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -9901,6 +10012,24 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
+
+民視,rtmp://twcdn.top/sat/tv051
+台視,rtmp://twcdn.top/sat/tv071
+中視,rtmp://twcdn.top/sat/tv091
+華視,rtmp://twcdn.top/sat/tv111
+東森超視,rtmp://twcdn.top/sat/tv331
+TVBS新聞,rtmp://twcdn.top/sat/tv551
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
+
+非凡新聞,rtmp://twcdn.top/sat/tv581
+
+愛爾達體育1,rtmp://twcdn.top/sat/md051
+民視第一,rtmp://twcdn.top/sat/md041
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來體育,rtmp://twcdn.top/sat/tv721
+
 
 //台灣(p2p)240320
 寰宇新聞,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -10191,6 +10320,8 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
+
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -10239,6 +10370,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD17528701175287
 TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0

@@ -20,6 +20,7 @@
 年代新聞,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 年代新聞,p3p://108.181.20.159:09318/5fe09fec000ac0127462c4ac6b1f16a3
 東森新聞,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
@@ -96,6 +97,7 @@
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立新聞,p3p://108.181.20.159:09318/6014c896000c7101401f67cc5477681b
 TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -118,6 +120,7 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,https://bsex.serv00.net/Smart.php?id=tvbs_n
 TVBS新聞,p3p://108.181.20.159:09318/621858e3000e70ad1217c0700d576ad0
 TVBS新聞,p3p://108.181.20.159:09318/6560da55000f014a9387da3a6873515a
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -190,6 +193,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 台視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞,https://bsex.serv00.net/Smart.php?id=ttvnews_twn
+非凡新聞,rtmp://twcdn.top/sat/tv581
 非凡新聞,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -221,6 +225,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 東森財經,p3p://108.181.20.159:09318/61468bd70005123dea7373f226636dba
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
+民視,rtmp://twcdn.top/sat/tv051
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,http://158.69.25.22:25469/live/chen0922/dog0922/122.ts
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
@@ -241,6 +246,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 民視,p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
+台視,rtmp://twcdn.top/sat/tv071
 台視,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,http://158.69.25.22:25469/live/chen0922/dog0922/116.ts
@@ -259,6 +265,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 台視,https://bsex.serv00.net/Smart.php?id=ttv_taiwan	
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
+中視,rtmp://twcdn.top/sat/tv091
 中視,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
@@ -284,6 +291,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 華視,rtmp://220.130.201.73/sat/tv111
+華視,rtmp://twcdn.top/sat/tv111
 華視,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 華視,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
@@ -341,6 +349,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 綜合,#genre#
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
+民視,rtmp://twcdn.top/sat/tv051
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,http://158.69.25.22:25469/live/chen0922/dog0922/122.ts
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
@@ -361,6 +370,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 民視,p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
+台視,rtmp://twcdn.top/sat/tv071
 台視,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,http://158.69.25.22:25469/live/chen0922/dog0922/116.ts
@@ -379,6 +389,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 台視,https://bsex.serv00.net/Smart.php?id=ttv_taiwan	
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
+中視,rtmp://twcdn.top/sat/tv091
 中視,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 中視,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
@@ -404,6 +415,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 華視,rtmp://220.130.201.73/sat/tv111
+華視,rtmp://twcdn.top/sat/tv111
 華視,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 華視,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
@@ -553,6 +565,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 東森綜合,p3p://108.181.20.159:09318/5fe8c5570001412994347b4506da6ebb
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,rtmp://220.130.201.73/sat/tv331
+東森超視,rtmp://twcdn.top/sat/tv331
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,http://158.69.25.22:25469/live/chen0922/dog0922/84.ts
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=19669&tsum=6a4d4ee150db69023af59ea067f116ff
@@ -652,6 +665,7 @@ TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A165749
 TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS歡樂,https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
 TVBS歡樂,p3p://108.181.20.159:09318/61e831a60008c7d761db13151abe16ae
+TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
@@ -685,6 +699,7 @@ JET綜合,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 JET綜合,p3p://108.181.20.159:09318/621e14f2000381b7287dfb1557135ff8
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來日本,rtmp://220.130.201.73/sat/tv771
+緯來日本,rtmp://twcdn.top/sat/tv771
 緯來日本,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來日本,http://158.69.25.22:25469/live/chen0922/dog0922/142.ts
@@ -788,6 +803,7 @@ EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC922446
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,p3p://108.181.20.159:09318/64bbd61c0005f2d80ef27a2574246048
+民視第一,rtmp://twcdn.top/sat/md041
 民視第一,http://158.69.25.22:25469/live/chen0922/dog0922/201.ts
 民視第一,https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
 民視第一,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
@@ -1221,6 +1237,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 體育,#genre#
 緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來育樂,rtmp://twcdn.top/sat/tv701
 緯來育樂,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來育樂,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
@@ -1231,6 +1248,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 緯來育樂,p3p://108.181.20.159:09318/6214bdc7000061300401d77e20cc43d8
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來體育,rtmp://twcdn.top/sat/tv721
 緯來體育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -1246,6 +1264,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 緯來體育,https://bsex.serv00.net/Smart.php?id=videolandsport
 緯來體育,p3p://108.181.20.159:09318/5fe16e4c000e45c17788ec964e9c5564
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
+ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育1,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
 ELEVEN體育1,rtmp://f13h.mine.nu:1935/sat/tv731
 ELEVEN體育1,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
@@ -1258,12 +1277,14 @@ ELEVEN體育1,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=ME8E16
 ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
 ELEVEN體育1,p3p://108.181.20.159:09318/6027f40400042e0d8b002a1b0af27e77
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
+ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 ELEVEN體育2,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a#P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
 ELEVEN體育2,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,p3p://108.181.20.159:09318/6025f1d0000440c783278efb13a4147e
+愛爾達體育1,rtmp://twcdn.top/sat/md051
 愛爾達體育1,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
 愛爾達體育1,mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b#P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b#P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
