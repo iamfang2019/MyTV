@@ -90,9 +90,9 @@ jobs:
 
           # TW_allsource Unify
           rm -rf ./TW_unify
-          grep -v "#genre#" ./TW_allsource | sort -u | uniq -u > TW_unify
+          LANG=GBK;grep -v "#genre#" ./TW_allsource | sort -u | uniq -u > TW_unify
 
-          sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
+          LANG=GBK;sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
 
 
       - name: Set up Python
