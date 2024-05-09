@@ -66,7 +66,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
