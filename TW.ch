@@ -1888,7 +1888,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -2041,9 +2041,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -3983,7 +3982,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -4136,9 +4135,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -6131,7 +6129,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -6284,9 +6282,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -8231,7 +8228,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -8384,9 +8381,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -10326,7 +10322,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -10479,9 +10475,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -12413,7 +12408,7 @@ AXN,http://888.iptv543.com/Smartv.php?id=axn_twn
 Asianet,http://888.iptv543.com/Smartv.php?id=asianet_raj
 Awani,http://888.iptv543.com/Smartv.php?id=Awani
 
-Cinemax,http://888.iptv543.com/Smartv.php?id=cinemax_twn
+CINEMAX,http://888.iptv543.com/Smartv.php?id=cinemax_twn
 
 DiscoveryAsia,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
 DiscoveryHD,http://888.iptv543.com/Smartv.php?id=discoveryhd_twn
@@ -12566,9 +12561,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
@@ -13033,9 +13027,8 @@ Boomerang,p3p://108.181.20.159:09318/621e313f0005594c28ec88582a49029c
 CMUSIC,p3p://108.181.20.159:09318/64e368dc000e5b23a986c9d62f9604df
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay電影,p3p://108.181.20.159:09318/624886bd0005941ace48b3ef71407d9e
 Cinema World,p3p://108.181.20.159:09318/6233e8f1000112b17dc1320c7d1c4049
-Cinemax,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
+CINEMAX,p3p://108.181.20.159:09318/64ce039d0009f00b55f3e422778f3af3
 Classica古典音樂,p3p://108.181.20.159:09318/6452b4f1000c38e8744ac80744c33d67
 DMAX臺灣,p3p://108.181.20.159:09318/62636a890008309f3751324a7688052d
 ELtoday綜合,p3p://108.181.20.159:09318/64c7d0cb0005131a3dbd5e9f3e8523f2
