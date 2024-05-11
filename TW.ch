@@ -4066,9 +4066,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 tvN,https://test.m3u8
 東森綜合,https://test.m3u8
 東森超視,https://test.m3u8
-愛爾達綜合,https://test.m3u8
 愛爾達影劇,https://test.m3u8
-愛爾達娛樂,https://test.m3u8
 中天綜合,https://test.m3u8
 中天娛樂,https://test.m3u8
 東森戲劇,https://test.m3u8
@@ -4079,6 +4077,8 @@ TVBS,https://test.m3u8
 高點綜合,https://test.m3u8
 JET綜合,https://test.m3u8
 緯來日本,https://test.m3u8
+愛爾達綜合,https://test.m3u8
+愛爾達娛樂,https://test.m3u8
 國興衛視,https://test.m3u8
 靖天日本,https://test.m3u8
 靖天戲劇,https://test.m3u8
