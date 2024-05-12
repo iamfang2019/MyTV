@@ -2095,6 +2095,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 新聞,#genre#
 壹電視新聞,https://test.m3u8
@@ -4048,6 +4122,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 綜合,#genre#
 民視,https://test.m3u8
@@ -6054,6 +6202,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 電影,#genre#
 壹電影,https://test.m3u8
@@ -8012,6 +8234,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 體育,#genre#
 緯來育樂,https://test.m3u8
@@ -9965,6 +10261,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 親子,#genre#
 CN卡通,https://test.m3u8
@@ -11910,6 +12280,80 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -12376,6 +12820,81 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
+📻Radio,#genre#
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 
 
 UBTV18,#genre#
