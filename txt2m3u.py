@@ -46,5 +46,5 @@ def txt_to_m3u(input_file, output_file):
 
 # 将txt文件转换为m3u文件
 txt_to_m3u('TW_txt', 'TW_switch.m3u')
-
+txt_to_m3u('UBTV18', 'UBTV18.m3u')
 print(f"电视频道成功写入iptv_dx.txt和iptv_list.m3u")
