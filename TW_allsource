@@ -81,6 +81,7 @@
 民視新聞,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
 民視新聞,p3p://108.181.20.159:09318/602f1f4a000aa86fa700c49817387f81
 三立新聞,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -97,6 +98,7 @@
 三立新聞,p3p://108.181.20.159:09318/6014c896000c7101401f67cc5477681b
 TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
 TVBS新聞,rtmp://twcdn.top/sat/tv551
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -119,6 +121,7 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://888.iptv543.com/Smartv.php?id=tvbs_n
 TVBS新聞,p3p://108.181.20.159:09318/621858e3000e70ad1217c0700d576ad0
 TVBS新聞,p3p://108.181.20.159:09318/6560da55000f014a9387da3a6873515a
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
@@ -623,6 +626,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 八大戲劇,http://888.iptv543.com/Smartv.php?id=badadrama
 八大戲劇,p3p://108.181.20.159:09318/6224f676000aef1a435e76c619855b4e
 TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
+TVBS歡樂,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS歡樂,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
 TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
@@ -635,6 +639,7 @@ TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A165749
 TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 TVBS歡樂,p3p://108.181.20.159:09318/61e831a60008c7d761db13151abe16ae
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
@@ -994,6 +999,7 @@ CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
 龍祥時代,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
@@ -1035,6 +1041,7 @@ AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://888.iptv543.com/Smartv.php?id=hollywoodmovies_twn
 好萊塢電影,p3p://108.181.20.159:09318/62cee8b3000ea6aedb30a55616047866
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
@@ -1074,6 +1081,7 @@ AMC最愛電影,p3p://108.181.20.159:09318/625bbd49000d7c0d1954e42d45bc3182
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO強檔巨獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95#P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e#P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
@@ -1109,6 +1117,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO強檔巨獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95#P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e#P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
@@ -1144,6 +1153,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO強檔巨獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95#P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
 HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e#P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
@@ -1194,6 +1204,7 @@ HBO鉅獻,p3p://108.181.20.159:09318/623a700000069676974053b555b700d4
 緯來體育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MEEE7028377470283774&ct=19669&tsum=c420d67d8ad263601f4175eded108032
