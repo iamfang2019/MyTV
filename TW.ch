@@ -2102,7 +2102,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -2115,7 +2115,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -2161,11 +2161,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 新聞,#genre#
 壹電視新聞,https://test.m3u8
@@ -4126,7 +4126,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -4139,7 +4139,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -4185,11 +4185,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 綜合,#genre#
 民視,https://test.m3u8
@@ -6203,7 +6203,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -6216,7 +6216,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -6262,11 +6262,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 電影,#genre#
 壹電影,https://test.m3u8
@@ -8232,7 +8232,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -8245,7 +8245,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -8291,11 +8291,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 體育,#genre#
 緯來育樂,https://test.m3u8
@@ -10256,7 +10256,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -10269,7 +10269,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -10315,11 +10315,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 親子,#genre#
 CN卡通,https://test.m3u8
@@ -12272,7 +12272,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -12285,7 +12285,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -12331,11 +12331,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -12805,7 +12805,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 📻Radio,#genre#
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-ICRT 英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
+ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
 HitFM中部,http://live.cooltv.top/tv/hitfm_backup.php?id=2
 KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
@@ -12818,7 +12818,7 @@ HitFM宜蘭,http://live.cooltv.top/tv/hitfm_backup.php?id=4
 HitFM花東,http://live.cooltv.top/tv/hitfm_backup.php?id=5
 PopRadio好聽廣播,http://live.cooltv.top/tv/popradio_backup.php?id=2
 PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
-A-Line Radio 網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
+A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -12864,11 +12864,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 正義電台,http://211.20.119.103:8081
 太陽電台,http://211.20.119.102:8081
 青春線上,http://live.cooltv.top/tv/young.php
-AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
-AsiaFM 亞洲熱歌台,http://asiafm.net:8000/asiafmhot
-AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
-AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
-AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 
 
 UBTV18,#genre#
