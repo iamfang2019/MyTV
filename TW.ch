@@ -164,7 +164,7 @@ CMusic,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -198,7 +198,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -496,8 +496,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -2190,7 +2188,7 @@ TVBS,https://test.m3u8
 大愛,https://test.m3u8
 公視,https://test.m3u8
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -2224,7 +2222,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -2522,8 +2520,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -4269,7 +4265,7 @@ CMusic,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -4303,7 +4299,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -4601,8 +4597,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -6300,7 +6294,7 @@ HBO Signature,https://test.m3u8
 StarMovies,https://test.m3u8
 
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -6334,7 +6328,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -6632,8 +6626,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -8326,7 +8318,7 @@ ELEVEN體育2,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -8360,7 +8352,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -8658,8 +8650,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -10344,7 +10334,7 @@ NickJr.,https://test.m3u8
 Cbeebies,https://test.m3u8
 
 
-
+TVBS新聞,rtmp://twcdn.top/sat/tv551
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -10378,7 +10368,7 @@ MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
 中視,rtmp://twcdn.top/sat/tv091
 華視,rtmp://twcdn.top/sat/tv111
 東森超視,rtmp://twcdn.top/sat/tv331
-TVBS新聞,rtmp://twcdn.top/sat/tv551
+
 ELEVEN體育1,rtmp://twcdn.top/sat/tv731
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 
@@ -10676,8 +10666,6 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8

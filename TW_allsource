@@ -56,8 +56,6 @@
 華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 華視新聞,p3p://108.181.20.159:09318/632c706b0009d57248864b64705a59a0
 民視新聞,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/1080/chunklist.m3u8
-民視新聞,https://lss-oal.line-scdn.net//p/live/hUv46wDurC1hnIgxGa3kYIWsNSjt_fgVxQHAaVFo7HTpdB0xdU0FERHMzXDl7D050aklNVF4kVAhBCBZaalZEV3M7UDtvA0lkflkZb0lOEg5QHC93S1YxSixRCStmYxRSdzUbfHQZDDY7IhVQYTUVfm0NSzt6I0YGNCBE/720/chunklist.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
@@ -96,8 +94,8 @@
 三立新聞,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立新聞,p3p://108.181.20.159:09318/6014c896000c7101401f67cc5477681b
-TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
 TVBS新聞,rtmp://twcdn.top/sat/tv551
+TVBS新聞,rtmp://f13h.mine.nu:1935/sat/tv551
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
