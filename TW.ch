@@ -12802,7 +12802,7 @@ Z頻道,p3p://108.181.20.159:09318/64c7ce3f000afa423db36d3f378c386d
 龍華經典,p3p://108.181.20.159:09318/6223b9d8000ef67e3e8a2073190e36d5
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
 
-📻Radio,#genre#
+廣播,#genre#
 HitFM北部,http://live.cooltv.top/tv/hitfm_backup.php?id=1
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
 ICRT英語廣播電台,http://live.leanstream.co/ICRTFM-MP3
@@ -12890,11 +12890,11 @@ UBTV18,#genre#
 
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-驚艷台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+驚艷臺,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘朵拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 潘朵拉,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
 潘朵拉,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
-香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+香蕉臺,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 
 兔子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
