@@ -1,6 +1,6 @@
 #!/bin/csh -f
   
-foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio)
    rm -rf parsing_TW.$type
    touch parsing_TW.$type
    cat $type | grep -v genre | cut -d "h" -f 1 > list
@@ -27,7 +27,7 @@ cat a parsing_TW.5_child >> TW_allsource
 sed -i 's/\.\/TW://' ./TW_allsource
 
 ## delete data
-foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child)
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio)
    rm -rf parsing_TW.$type
 end
 
