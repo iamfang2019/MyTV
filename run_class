@@ -23,6 +23,8 @@ echo "體育,#genre#" > a
 cat a parsing_TW.4_Sport >> TW_allsource
 echo "親子,#genre#" > a
 cat a parsing_TW.5_child >> TW_allsource
+echo "廣播,#genre#" > a
+cat a parsing_TW.6_Radio >> TW_allsource
 
 sed -i 's/\.\/TW://' ./TW_allsource
 
