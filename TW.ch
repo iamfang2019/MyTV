@@ -2166,6 +2166,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 新聞,#genre#
 壹電視新聞,https://test.m3u8
@@ -4190,6 +4192,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 綜合,#genre#
 民視,https://test.m3u8
@@ -6267,6 +6271,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 電影,#genre#
 壹電影,https://test.m3u8
@@ -8296,6 +8302,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 體育,#genre#
 緯來育樂,https://test.m3u8
@@ -10320,6 +10328,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 親子,#genre#
 CN卡通,https://test.m3u8
@@ -12336,6 +12346,8 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -12869,6 +12881,9 @@ AsiaFM亞洲熱歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
+BGM,#genre#
+CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 
 
 UBTV18,#genre#
