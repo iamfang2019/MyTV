@@ -1,0 +1,60 @@
+    {
+      "name": "SUNNY",
+      "type": 0,
+      "url": "https://dpaste.org/Eay0g/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "唐三0511",
+      "type": 0,
+      "url": "https://tang.hz.cz/zb/tv?type=169&token=6f344c14",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "0509",
+      "type": 0,
+      "url": "https://dpaste.org/irVye/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "4GTV",
+      "type": 0,
+      "url": "https://dpaste.org/Yoe91/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "4GTV-M",
+      "type": 0,
+      "url": "https://dpaste.org/ZeA0z/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "歐華",
+      "type": 0,
+      "url": "https://dpaste.org/PYncW/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name":"UB Live",
+      "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/UB.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+    {
+      "name":"🐵OuHua Live",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+     {
+      "name":"🔞OuHua CR",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php?r18=1",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     }
