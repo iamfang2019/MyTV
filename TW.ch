@@ -876,7 +876,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
@@ -2959,7 +2959,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
@@ -5095,7 +5095,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
@@ -7183,7 +7183,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
@@ -9266,7 +9266,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
@@ -11341,7 +11341,7 @@ TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
 //UBTV
-CATCHPLAY電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 達文西頻道,http://www.ubvip1688.com/ublive/d43e72984c3579ce.m3u8
