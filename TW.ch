@@ -300,6 +300,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -307,6 +308,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -478,6 +480,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -545,6 +548,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
@@ -2379,6 +2383,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -2386,6 +2391,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -2557,6 +2563,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -2624,6 +2631,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
@@ -4511,6 +4519,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -4518,6 +4527,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -4689,6 +4699,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -4756,6 +4767,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
@@ -6595,6 +6607,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -6602,6 +6615,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -6773,6 +6787,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -6840,6 +6855,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
@@ -8674,6 +8690,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -8681,6 +8698,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -8852,6 +8870,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -8919,6 +8938,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 
@@ -10745,6 +10765,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 民視,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+台視,http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -10752,6 +10773,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -10923,6 +10945,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 
+東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -10990,6 +11013,7 @@ TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
+CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 

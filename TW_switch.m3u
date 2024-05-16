@@ -24,6 +24,8 @@ http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
 http://888.iptv543.com/Smartv.php?id=niandainews_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
+http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -270,6 +272,8 @@ rtmp://220.130.201.73/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 rtmp://twcdn.top/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
+http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -291,6 +295,8 @@ rtmp://f13h.mine.nu:1935/sat/tv091
 rtmp://220.130.201.73/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 rtmp://twcdn.top/sat/tv091
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
+http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
@@ -394,6 +400,8 @@ rtmp://220.130.201.73/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
 rtmp://twcdn.top/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
+http://www.ubvip1688.com/ublive/271a38738bd186f8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
 https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -415,6 +423,8 @@ rtmp://f13h.mine.nu:1935/sat/tv091
 rtmp://220.130.201.73/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
 rtmp://twcdn.top/sat/tv091
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
+http://www.ubvip1688.com/ublive/502ec0b835d57883.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
@@ -977,6 +987,8 @@ https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3
 http://www.ubvip1688.com/ublive/32eb1b45b6f09265.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電影.png" group-title="電影",壹電影
 https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
+http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CATCHPLAY電影.png" group-title="電影",CATCHPLAY電影
