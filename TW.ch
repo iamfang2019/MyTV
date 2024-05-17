@@ -677,7 +677,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -2762,7 +2762,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -4897,7 +4897,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -6987,7 +6987,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -9072,7 +9072,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -11150,7 +11150,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 MTV,http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 MTV,http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+outdoor,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
