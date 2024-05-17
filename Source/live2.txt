@@ -1,671 +1,671 @@
 台灣頻道(安博),#genre#
-header={fftoken:fe7c699984125fc1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-民視,https://www.abouthomex.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
-header={fftoken:fe66f296495682ca376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-台視,https://f05.eggonnetus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
-header={fftoken:2dacd5a7827fdfe6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-台視,https://f21.unityanuc.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
-header={fftoken:1,playtoken:1}
-公視,https://www.youtube.com/watch?v=quwqlazU-c8
-header={fftoken:d80261cdecd83bb5376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
-header={fftoken:74230756f7dbf105376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-中視,https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
-header={fftoken:64a2eff4a08b7137376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來綜合,https://f03.ccbookcohky.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-header={fftoken:ca1ed793411489f3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:f8318646e7412812376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+台視,https://f06.fromonlinexcomf.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:409a7fd287a5e307376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+台視,https://f22.ccplay22aldrich.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
+header={fftoken:7ce00666b03c50c8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 客家電視,https://f22.ccplay22aldrich.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
-header={fftoken:9b58246bc049ce30376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:0e98117076954c96376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+民視,https://f03.ccbookcohky.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+header={fftoken:850df54acad77a13376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
+header={fftoken:4a01dce555dd2ee5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立都會,https://f02.bootsaleuks.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
+header={fftoken:38c55cd4537395c3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 八大第一,https://f02.bootsaleuks.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
-header={fftoken:f175c429a16f352a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-好訊息,https://f03.ccbookcohky.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
-header={fftoken:7b708e96deb73089376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立都會,https://www.abouthomex.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
+header={fftoken:80e6276e55e778a8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森超視,https://f03.ccbookcohky.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+header={fftoken:5939907c0d236f22376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立臺灣,https://f05.eggonnetus.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+header={fftoken:15f506707539094c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立都會,https://f04.duckinfoint.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+header={fftoken:c40a4a6312d06c22376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+中天綜合,https://f02.bootsaleuks.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+header={fftoken:a2ec3d64849fcebd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS,https://f04.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+header={fftoken:5f124add1dcb9b18376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森綜合,https://f05.eggonnetus.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
+header={fftoken:c450bea663a8cc4d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
+header={fftoken:15a21b9f4e257efb376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來綜合,https://f03.ccbookcohky.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 header={fftoken:1,playtoken:1}
 東森購物2,https://www.youtube.com/watch?v=Z50JFuNgvB0
-header={fftoken:bc746f14c8e1d51d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立台灣,https://f07.googleling.com/live/rx1/2436/294cd35bb80b013d4cb4e331abfabd68/index.m3u8
-header={fftoken:07fd04db7cf7c06f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立台灣,https://f23.bootsaleuks.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
-header={fftoken:80259fdddeec9d4f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-中天綜合,https://f02.bootsaleuks.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-header={fftoken:bdf333e818b7f7af376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立台灣,https://f06.fromonlinexcomf.com/live/rx1/21/54fd524201ab86f16a7988d59ec3b2a6/index.m3u8
-header={fftoken:46d37988fffd0830376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:7db34416c9ee506c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立臺灣,https://f03.ccbookcohky.com/live/rx1/2436/294cd35bb80b013d4cb4e331abfabd68/index.m3u8
+header={fftoken:a81ebe14b4a618ad376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 華藝綜合,https://f07.googleling.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
-header={fftoken:b6d0d90dcfe24c46376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:291f120e89d5deb3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 中天娛樂,https://f03.ccbookcohky.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-header={fftoken:afd682efd9ebc430376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS歡樂,https://f03.ccbookcohky.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+header={fftoken:a729330c604af7cc376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立都會,https://f02.bootsaleuks.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
+header={fftoken:1b09f99d49815ab2376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+中天綜合,https://f02.bootsaleuks.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
+header={fftoken:71bbf0142a689ed0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+好消息,https://f03.ccbookcohky.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
+header={fftoken:2ea9cd5418da60cf376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+中視,https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+header={fftoken:74aabe69558995ee376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+JET綜合,https://www.abouthomex.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
+header={fftoken:96413cda8d9205ad376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+八大綜合,https://f03.ccbookcohky.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
 header={fftoken:1,playtoken:1}
 東森購物1,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-header={fftoken:6e7852fa92cbee90376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森綜合,https://f05.eggonnetus.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
-header={fftoken:517c65169fa1607a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-中天綜合,https://f02.bootsaleuks.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
-header={fftoken:38659e1464d00161376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森超視,https://f03.ccbookcohky.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
-header={fftoken:6b3f3a89174aaa99376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立都會,https://www.abouthomex.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
-header={fftoken:a1f0621805de31da376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-JET綜合,https://www.abouthomex.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
-header={fftoken:1edecae7b3452498376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS,https://f26.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-header={fftoken:53b9438659e129ef376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
+header={fftoken:0168dd54c69cd971376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS歡樂,https://f03.ccbookcohky.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+header={fftoken:175a5cc416723201376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來育樂,https://f22.ccplay22aldrich.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
+header={fftoken:94ae8f4ff74cc0b8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立臺灣,https://f06.fromonlinexcomf.com/live/rx1/21/54fd524201ab86f16a7988d59ec3b2a6/index.m3u8
 header={fftoken:1,playtoken:1}
 信大電視,https://www.youtube.com/watch?v=ciwFpYofb28
-header={fftoken:e772c98c024d02c6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來育樂,https://f22.ccplay22aldrich.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
-header={fftoken:fdf7713b705f6eec376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來日本,https://f05.eggonnetus.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
-header={fftoken:1,playtoken:1}
-中天亞洲,https://www.youtube.com/watch?v=s2waUruqze4
-header={fftoken:d600307a07d5b47a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-公視3,https://f04.duckinfoint.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
-header={fftoken:bd64f94785ccdea6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:b08785b0009294b9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來育樂（測試）,https://f22.ccplay22aldrich.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
+header={fftoken:ff0e6cbfc5d9066e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 緯來日本,https://f22.ccplay22aldrich.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
-header={fftoken:2b6790b106b18265376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-八大娛樂,https://f04.duckinfoint.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-header={fftoken:9110a28a9879e2e2376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-好訊息2,https://www.abouthomex.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
-header={fftoken:26daaf5e64252cc8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-民視台灣,https://f05.eggonnetus.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
-header={fftoken:2207a044ce0d9dc6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-韓國娛樂,https://f05.eggonnetus.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
-header={fftoken:f03ed8831ed52fca376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天國際,https://f02.bootsaleuks.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
-header={fftoken:c3da931a594c4031376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天綜合,https://www.abouthomex.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+header={fftoken:1139f982b233783d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來日本,https://f04.duckinfoint.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 header={fftoken:1,playtoken:1}
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
-header={fftoken:960feeb7814ab709376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-龍華日韓,https://f05.eggonnetus.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
-header={fftoken:4632b1930c26f413376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-豬哥亮歌廳秀,https://f06.fromonlinexcomf.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
-header={fftoken:0dcd5101a0825680376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天歡樂,https://f04.duckinfoint.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
-header={fftoken:97f05904e73dfb40376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS精采,https://f03.ccbookcohky.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
-header={fftoken:26505c8d952e4661376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天日本,https://f04.duckinfoint.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-header={fftoken:e2cab275e2548658376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-中視經典,https://f02.bootsaleuks.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
-header={fftoken:9347e606de5352f7376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達娛樂,https://f05.eggonnetus.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
-header={fftoken:4d71a93239c9cf84376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
-header={fftoken:d6e3174979a93426376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天資訊,https://f04.duckinfoint.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
-header={fftoken:41f8abd012cae7f2376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立綜合,https://f09.ibmfocus.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-header={fftoken:904a20a16343d970376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-中視菁採,https://f06.fromonlinexcomf.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
-header={fftoken:5b5fa4c2e030df6d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS精采,https://f04.duckinfoint.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
-header={fftoken:29ee3cdbba60a464376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立綜合,https://f03.ccbookcohky.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8
-header={fftoken:cab0872a782106f1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:b8224688c4a713ca376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+公視3,https://f04.duckinfoint.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
+header={fftoken:c64b1571586d4253376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 中天亞洲,https://f05.eggonnetus.com/live/rx1/322/b51b8d02c207db98c44228186a5310b1/index.m3u8
-header={fftoken:1,playtoken:1}
-MOMO購物1,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-header={fftoken:4de880c04ea155fc376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:0cfdf73bdfb98943376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+好消息2,https://www.abouthomex.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
+header={fftoken:0e63e5239643beea376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達娛樂,https://f05.eggonnetus.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+header={fftoken:1fbc1503c93978c2376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+豬哥亮歌廳秀,https://f06.fromonlinexcomf.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
+header={fftoken:353eba99af198fc7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+韓國娛樂,https://f05.eggonnetus.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+header={fftoken:243bce92dacd1b95376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
+header={fftoken:33e21625a645d826376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天國際,https://f02.bootsaleuks.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+header={fftoken:b36d71a5083f2b02376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+龍華日韓,https://f05.eggonnetus.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+header={fftoken:bc70bcfc4475f24e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立綜合,https://f03.ccbookcohky.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8
+header={fftoken:df2069becc57fe38376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天歡樂,https://f04.duckinfoint.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
+header={fftoken:d9dceb2c99b68ead376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立綜合,https://f09.ibmfocus.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
+header={fftoken:5794741cc8ad4ea8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天綜合,https://www.abouthomex.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+header={fftoken:e8744fcda2279e9a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+中視經典,https://f02.bootsaleuks.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
+header={fftoken:667ad7b445ae0eac376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天資訊,https://f04.duckinfoint.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
+header={fftoken:f7871908ada294fe376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS精采,https://f03.ccbookcohky.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
+header={fftoken:84033ade31971bc8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS精采,https://f04.duckinfoint.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
+header={fftoken:9a49420e03d8a90f376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+中視菁采,https://f06.fromonlinexcomf.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
+header={fftoken:9a166137f95424b3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 年代much,https://f03.ccbookcohky.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
-header={fftoken:b6e2bb31b7aa9607376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:08dc9cb0c85b9327376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 愛爾達綜合,https://f06.fromonlinexcomf.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8
+header={fftoken:a0e1273456126bcc376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVN台湾版,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+header={fftoken:1,playtoken:1}
+MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 header={fftoken:1,playtoken:1}
 東森購物3,https://www.youtube.com/watch?v=_Vlzn9qAHD4
 header={fftoken:1,playtoken:1}
-MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
-header={fftoken:214457d03160e2e8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-tvN,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-header={fftoken:1,playtoken:1}
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-header={fftoken:1,playtoken:1}
 美好購物1,https://www.youtube.com/watch?v=7IyxOiGMLgw
 header={fftoken:1,playtoken:1}
-國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
-header={fftoken:1,playtoken:1}
-國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-header={fftoken:1,playtoken:1}
-海豚綜合,https://www.youtube.com/watch?v=Na0qOCrZvgw
+MOMO購物1,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
 header={fftoken:1,playtoken:1}
 美好購物2,https://www.youtube.com/watch?v=lEXITHxcagI
 header={fftoken:1,playtoken:1}
-臺灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
+國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
+header={fftoken:1,playtoken:1}
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+header={fftoken:1,playtoken:1}
+台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
 header={fftoken:1,playtoken:1}
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
-header={fftoken:893c10282fd78f46376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立新聞,https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 header={fftoken:1,playtoken:1}
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-header={fftoken:1,playtoken:1}
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-header={fftoken:1,playtoken:1}
-三立新聞+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-header={fftoken:1,playtoken:1}
-中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-header={fftoken:1,playtoken:1}
-第一名電視,https://www.youtube.com/watch?v=fYjGQOT1Rlc
-header={fftoken:1,playtoken:1}
-中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE
+國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
 header={fftoken:1,playtoken:1}
 誠心電視,https://www.youtube.com/watch?v=DDQwsBU8uQQ
 header={fftoken:1,playtoken:1}
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
-header={fftoken:327eb3a86de9310c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立新聞,https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-header={fftoken:ec8f9c724cb1d20e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS新聞,https://www.ttfly19lili.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-header={fftoken:cd1cc8cc43600108376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+第一名電視,https://www.youtube.com/watch?v=fYjGQOT1Rlc
+header={fftoken:1,playtoken:1}
+三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
+header={fftoken:5318469fc5961e6c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立新聞,https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+header={fftoken:1,playtoken:1}
+三立新聞+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+header={fftoken:0e8212abf6812505376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 東森新聞4,https://www.readworlder.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
-header={fftoken:08ed95ffb22b12ff376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:b5cc033210915dab376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立新聞,https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+header={fftoken:1,playtoken:1}
+中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE
+header={fftoken:0f2ef48eee248352376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 東森新聞,https://www.readworlder.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-header={fftoken:e96c90104e146c6c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森新聞,https://www.readworlder.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-header={fftoken:6aef8a0379c9d8e0376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TVBS新聞,https://www.ttfly19lili.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
-header={fftoken:47c45fa2f548d95e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:1,playtoken:1}
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+header={fftoken:1,playtoken:1}
+東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:6f5b7d83b97dcb90376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 東森亞洲,https://f09.ibmfocus.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
 header={fftoken:1,playtoken:1}
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+header={fftoken:1965a54d34505840376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+民視新聞,https://www.readworlder.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 header={fftoken:1,playtoken:1}
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+header={fftoken:dda9f2d80d8b5c6c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS新聞,https://www.ttfly19lili.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
+header={fftoken:f04585ecfa98a573376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TVBS新聞,https://www.ttfly19lili.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
+header={fftoken:b36eaff05fb86170376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立iNEWS,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+header={fftoken:1,playtoken:1}
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+header={fftoken:1,playtoken:1}
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+header={fftoken:1,playtoken:1}
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+header={fftoken:1,playtoken:1}
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 header={fftoken:1,playtoken:1}
 寰宇新聞,https://www.youtube.com/watch?v=w87VGpgd90U
 header={fftoken:1,playtoken:1}
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 header={fftoken:1,playtoken:1}
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-header={fftoken:1,playtoken:1}
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-header={fftoken:1,playtoken:1}
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-header={fftoken:1,playtoken:1}
 寰宇財經,https://www.youtube.com/watch?v=25SE1bbTv9k
-header={fftoken:58c6fc3a92bc2674376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森財經,https://www.readworlder.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
-header={fftoken:1,playtoken:1}
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-header={fftoken:433437c12a580370376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-寰宇台灣,https://f03.ccbookcohky.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
-header={fftoken:1bbc413d9b7943fa376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:eb88dc5f10dfe8b0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 年代新聞,https://www.ttfly19lili.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
-header={fftoken:ae100101800cf547376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:cd91285194123b06376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+壹新聞,https://www.ttfly19lili.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+header={fftoken:f49d194723c06020376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 年代新聞,https://www.readworlder.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-header={fftoken:ef4513706154d653376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-壹電視新聞,https://www.ttfly19lili.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 header={fftoken:1,playtoken:1}
 鏡新聞mnews,https://www.youtube.com/watch?v=5n0y6b0Q25o
-header={fftoken:c3c61e497256da76376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-壹電視新聞,https://www.readworlder.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+header={fftoken:b2937c19cd23259a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+寰宇臺灣,https://f03.ccbookcohky.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
+header={fftoken:55469067dba135c9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+壹新聞,https://www.readworlder.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 header={fftoken:1,playtoken:1}
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
-header={fftoken:cef7711735b0da2f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:3f8fa1975596b0cd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 台視財經,https://www.abouthomex.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
-header={fftoken:b37d2324052d573a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森戲劇,https://www.abouthomex.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-header={fftoken:e7f53b0d8b71983b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立國際,https://f21.unityanuc.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-header={fftoken:f0c43c2d6cacc4e3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來戲劇,https://www.abouthomex.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
-header={fftoken:7fb2d22b9b34656d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來戲劇,https://f22.ccplay22aldrich.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
-header={fftoken:986c478cdec0d160376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森戲劇,https://f07.googleling.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
-header={fftoken:13977f8b4a07d4f0376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森電影,https://f04.duckinfoint.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-header={fftoken:90336791f7861630376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森電影,https://f04.duckinfoint.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-header={fftoken:c0180b6750f709ba376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:acac943a8c3354ee376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+三立国際,https://f21.unityanuc.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
+header={fftoken:600fe03898c26e0f376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森戲劇,https://f03.ccbookcohky.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+header={fftoken:c2228cdd3c38718f376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 八大戲劇,https://www.abouthomex.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
-header={fftoken:188fc6e8a3732f58376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來電影,https://f06.fromonlinexcomf.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-header={fftoken:dd4d197dc6f24482376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:964e9e66432bc6d5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森戲劇,https://f07.googleling.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
+header={fftoken:eb840cfe554dc008376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來戲劇,https://www.abouthomex.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
+header={fftoken:b9895cb3f3b91b32376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森電影,https://f02.bootsaleuks.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+header={fftoken:c2b6b370ed271415376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森電影,https://f02.bootsaleuks.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+header={fftoken:55778e004d4527f5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來戲劇,https://f22.ccplay22aldrich.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
+header={fftoken:e2c6735401f704bd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 HBO HD,https://f22.ccplay22aldrich.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-header={fftoken:b757b78d7bd2a038376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:8dff891b02a0bec9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 HBO HD,https://f27.eggonnetus.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-header={fftoken:6c38f9078f57863b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:cdc395e00f131b1d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來電影,https://f06.fromonlinexcomf.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+header={fftoken:96bc274491eb563d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 好萊塢電影,https://f02.bootsaleuks.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-header={fftoken:cfe7b24c39569a58376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森洋片,https://f09.ibmfocus.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
-header={fftoken:9935c3510f0a929f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:754d3a624cf9601a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 愛爾達影劇,https://f05.eggonnetus.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
-header={fftoken:6b44cc1a1c1c5150376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:f0a8b21030ffbecf376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森洋片,https://f09.ibmfocus.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+header={fftoken:4d5945756cd26a9d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 CineMAX,https://f21.unityanuc.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
-header={fftoken:91c4f8d2052f8f47376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天映畫,https://www.abouthomex.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-header={fftoken:9ae53ed851fe78d6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-EYE戲劇,https://f07.googleling.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
-header={fftoken:b1a0c1118520be80376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-霹靂台灣,https://f02.bootsaleuks.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
-header={fftoken:7d11767607d84297376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖洋戲劇,https://f07.googleling.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-header={fftoken:c574fdb5a7a66379376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-龍華偶像,https://f06.fromonlinexcomf.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-header={fftoken:63a5223aa1ed230f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-美亞電影,https://f07.googleling.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
-header={fftoken:9d338245222d6de6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天電影,https://f04.duckinfoint.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-header={fftoken:68dab907a09e59fa376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:9030c43b74f860ba376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 三立戲劇,https://f05.eggonnetus.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
-header={fftoken:01e10d995f3da09c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:2f04bf5350e96442376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖洋戲劇,https://f07.googleling.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
+header={fftoken:bc6ed83576a0aa41376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天映畫,https://www.abouthomex.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
+header={fftoken:5de68a47050f9c0c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+龍華偶像,https://f06.fromonlinexcomf.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+header={fftoken:f75ee42210d75a15376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+美亞電影,https://f07.googleling.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+header={fftoken:a821c59aad9b4bc9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+EYE戲劇,https://f07.googleling.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
+header={fftoken:77f51413f2a25cec376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+霹靂臺灣,https://f02.bootsaleuks.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
+header={fftoken:9fb54668cd14e059376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 HBOSignature,https://f07.googleling.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-header={fftoken:0f29fb2847d276f6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:457f3dbc0d890c07376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 HBOSignature,https://f07.googleling.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
-header={fftoken:bfa89b3c99e095a8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:925c4e33505986a3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+采昌影劇,https://f09.ibmfocus.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
+header={fftoken:c651544e3bef426a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 HBO Hits,https://f03.ccbookcohky.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-header={fftoken:01ca517c2f265b20376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-採昌影劇,https://f09.ibmfocus.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-header={fftoken:9734272cda90272a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-採昌影劇,https://f06.fromonlinexcomf.com/live/rx1/2804/4919d2cc2740110f045fe9c49dfce484/index.m3u8
-header={fftoken:5fd9bd3048ad0bcd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-天映經典,https://f21.unityanuc.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
-header={fftoken:599b26335ffd2df1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-影迷數位電影,https://f05.eggonnetus.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-header={fftoken:64139f9ca147eee8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-龍華戲劇,https://f21.unityanuc.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-header={fftoken:510bc579d800c754376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-AXN亞洲,https://f06.fromonlinexcomf.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
-header={fftoken:df886251e24ab013376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:1d8421ff0d4e724a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+采昌影劇,https://f06.fromonlinexcomf.com/live/rx1/2804/4919d2cc2740110f045fe9c49dfce484/index.m3u8
+header={fftoken:cb71b1420fd410b7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 影迷數位電影,https://f07.googleling.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
-header={fftoken:208d88c73614bd5e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-龍翔時代,https://f07.googleling.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-header={fftoken:34d402b874e08439376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:9082bbac64fe9b72376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+龍華戲劇,https://f21.unityanuc.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+header={fftoken:e984eabbbd9b2d8c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 龍華戲劇,https://f07.googleling.com/live/rx1/2796/984f753d16f195e08fb13cd5554aed4f/index.m3u8
-header={fftoken:72eca5296bf441ce376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-華納電影,https://f04.duckinfoint.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
-header={fftoken:0662947ae3276aa7376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Trill恐怖電影,https://f04.duckinfoint.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
-header={fftoken:16202adde603b03e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:11170d1b28a9827c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+龍翔時代,https://f07.googleling.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
+header={fftoken:759c91f11d55d6d3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+影迷數位電影,https://f05.eggonnetus.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
+header={fftoken:d74d4411cbda7a4f376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+龍華經典,https://f07.googleling.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
+header={fftoken:443047bafdad858b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+天映經典,https://f21.unityanuc.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
+header={fftoken:8cf65c2d09ca702c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+AXN,https://f06.fromonlinexcomf.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+header={fftoken:3554bcf73fe5efd4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 公視戲劇,https://f04.duckinfoint.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-header={fftoken:ed0072411f5ceb74376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天戲劇,https://f07.googleling.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
-header={fftoken:0b460b158d5bd20d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:312bda4ed15cdc6f376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 龍華電影,https://f05.eggonnetus.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
-header={fftoken:9e9f3d73f1becbdb376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來體育,https://f07.googleling.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-header={fftoken:9bc630c0fa42b5dd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:f44c5a2068ac9276376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天戲劇,https://f07.googleling.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
+header={fftoken:57da8236b9e92998376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Trill恐怖電影,https://f04.duckinfoint.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
+header={fftoken:8586f196b3d523ab376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 緯來體育,https://f03.ccbookcohky.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-header={fftoken:3857ef3066c08415376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Eleven體育1,https://f02.bootsaleuks.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-header={fftoken:2c3efd2e20163224376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育1,https://f05.eggonnetus.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
-header={fftoken:2aa4b69ba800d64d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Eleven體育2,https://f05.eggonnetus.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-header={fftoken:e4537090acc57fd5376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:5cb65464a277e38b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來體育,https://f05.eggonnetus.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
+header={fftoken:965f9d205c3e86c5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+華納電影,https://f04.duckinfoint.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
+header={fftoken:8766ce71beef39d5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Eleven Sport 1,https://f02.bootsaleuks.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+header={fftoken:c93af32cb9632a5b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Eleven Sport 2,https://f03.ccbookcohky.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+header={fftoken:7cb4ea8061c1cd7d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 愛爾達體育2,https://f05.eggonnetus.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
-header={fftoken:4de2438dd455c795376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f04.duckinfoint.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
-header={fftoken:d83adf6c40c3eba4376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f07.googleling.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-header={fftoken:f74c4c5c3f85455c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Z頻道,https://www.abouthomex.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-header={fftoken:a2b7d2dd6511aac3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f09.ibmfocus.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-header={fftoken:46117a67ddef1e90376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限2,https://f06.fromonlinexcomf.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-header={fftoken:f27ee3ddaaa0eb61376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限2,https://f06.fromonlinexcomf.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
-header={fftoken:7c95237749649592376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限,https://f07.googleling.com/live/rx1/2797/ec16777a438d2d0a2072dc4ff7bd1638/index.m3u8
-header={fftoken:e7d58d199f03b940376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:53766a3714cee552376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育1,https://f04.duckinfoint.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
+header={fftoken:061d0593e6532c02376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f05.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+header={fftoken:8de9e4dc3de9d450376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
-header={fftoken:8a156982a4d5d24e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:02cfb757194058c3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f22.ccplay22aldrich.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+header={fftoken:66eb9a228e9908e0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Z頻道,https://www.abouthomex.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
+header={fftoken:b6b6b6371a73f214376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
+header={fftoken:49a6ad87f2e1a2cf376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限,https://f07.googleling.com/live/rx1/2797/ec16777a438d2d0a2072dc4ff7bd1638/index.m3u8
+header={fftoken:0f40f2f7855e4bb8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+header={fftoken:5f434bd9ea47b0f4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限2,https://f06.fromonlinexcomf.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
+header={fftoken:e5b5990530f6ed52376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 博斯無限,https://f07.googleling.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
+header={fftoken:53d8a8081413f210376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+header={fftoken:1751096c9f4cba03376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索頻道,https://f07.googleling.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
 header={fftoken:1,playtoken:1}
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
-header={fftoken:17494aa278ac17ac376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+header={fftoken:4836ed22b1ad9e9b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯運動1,https://f02.bootsaleuks.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+header={fftoken:46f2d6657abe8068376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索頻道,https://f09.ibmfocus.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
+header={fftoken:bedfd74be6f2ce39376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+header={fftoken:d928e54932ccdb35376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索亞洲,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
+header={fftoken:403523d680e6487c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索科學,https://f02.bootsaleuks.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
 header={fftoken:1,playtoken:1}
 TaiwanPlus,https://www.youtube.com/watch?v=Smy2zVGK9x0
-header={fftoken:41e66250159638c9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
-header={fftoken:935ea343228f52d9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索科學,https://f02.bootsaleuks.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
-header={fftoken:926c17f27569ca7c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-美食星球,https://f05.eggonnetus.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-header={fftoken:55513173955c4ceb376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索頻道,https://f07.googleling.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
-header={fftoken:fc363c14cb9fd7ad376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯運動1,https://f02.bootsaleuks.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
-header={fftoken:d70c9e87221e8ff4376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索頻道,https://f09.ibmfocus.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
-header={fftoken:ef0141710c71be76376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索EVE,https://f22.ccplay22aldrich.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-header={fftoken:6dced991443771e9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-視納華仁紀實,https://www.abouthomex.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-header={fftoken:c64d805ba3864a55376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:520f73651654cd35376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 國家野生（英）,https://f21.unityanuc.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
-header={fftoken:16eb2ad95ea9e3bf376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-EYE旅遊,https://f02.bootsaleuks.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
-header={fftoken:831068bf04ea2b30376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索亞洲,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
-header={fftoken:cf0567a1defb352d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:c5f302a8aee6a5ac376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索EVE,https://f22.ccplay22aldrich.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
+header={fftoken:41f85b6e24cfca77376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+美食星球,https://f05.eggonnetus.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
+header={fftoken:f6944afe989a64d3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 探索動力DMAX,https://www.abouthomex.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
-header={fftoken:ad356f6f917e7ace376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:e62910a3d66ea5a5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+視納華仁紀實,https://www.abouthomex.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
+header={fftoken:7964430829d1d827376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 Globetrotter 環遊旅行家,https://f02.bootsaleuks.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
-header={fftoken:e2bcb36a364a9442376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:413965e8c5dd0ff0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 MOMO親子,https://www.abouthomex.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-header={fftoken:baf2221ec1702164376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森幼幼（備）,https://f06.fromonlinexcomf.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-header={fftoken:48576cce92709586376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:3ce28b4a8d49ffc6376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 MOMO親子,https://www.abouthomex.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-header={fftoken:572a361f8e4fc833376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森幼幼,https://f09.ibmfocus.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
 header={fftoken:1,playtoken:1}
-大愛1,https://www.youtube.com/watch?v=MIqUplvSRWA
-header={fftoken:4869171ab3be2e35376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-靖天卡通,https://www.abouthomex.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
-header={fftoken:426808c9a7aaeeea376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-東森亞洲呦呦,https://f02.bootsaleuks.com/live/rx1/293/25103d9c3ad2b7e2fffb4765fce2b7fb/index.m3u8
-header={fftoken:04cae754881cb863376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
+header={fftoken:acb61601ee457a3b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 CN卡通,https://f06.fromonlinexcomf.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
-header={fftoken:f779600c4058c53e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:74ad7c326f921af1376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森幼幼,https://f09.ibmfocus.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+header={fftoken:9f2aed9e0852a082376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 靖洋卡通,https://www.abouthomex.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+header={fftoken:a40beecf33e3b394376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森亞洲呦呦,https://f02.bootsaleuks.com/live/rx1/293/25103d9c3ad2b7e2fffb4765fce2b7fb/index.m3u8
+header={fftoken:c7ef89c8cb2d5983376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森幼幼（備）,https://f09.ibmfocus.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+header={fftoken:91f5095b061f5b9b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天卡通,https://www.abouthomex.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 header={fftoken:1,playtoken:1}
-三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
-header={fftoken:7c60eb01e24bb422376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-八大綜合,https://f03.ccbookcohky.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
-header={fftoken:2605c78dfb7f314b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立iNEWS,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
-header={fftoken:0d46d12cb76ef8b2376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-header={fftoken:327d2ebbf4b3e27e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-龍華經典,https://f07.googleling.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
-header={fftoken:afee6966fd5da67f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-三立都會,https://f02.bootsaleuks.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
-header={fftoken:f2984d4f381cb5d0376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來育樂（測試）,https://f22.ccplay22aldrich.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
-header={fftoken:985e128c0174b57e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-民視新聞,https://www.readworlder.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
+公視,https://www.youtube.com/watch?v=quwqlazU-c8
+header={fftoken:938302347c4aa95d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天日本,https://f04.duckinfoint.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+header={fftoken:1,playtoken:1}
+中天亞洲,https://www.youtube.com/watch?v=s2waUruqze4
+header={fftoken:b7e370c85e2b1e95376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+民視台灣,https://f05.eggonnetus.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
+header={fftoken:d3e156fd0372cfb3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森新聞,https://www.readworlder.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
+header={fftoken:b3368701ced34e87376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+八大娛樂,https://f04.duckinfoint.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+header={fftoken:1,playtoken:1}
+海豚綜合,https://www.youtube.com/watch?v=Na0qOCrZvgw
+header={fftoken:ca8ed6fe4dbbd32e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+靖天電影,https://f04.duckinfoint.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+header={fftoken:0e720e8565fbf337376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+東森財經,https://www.readworlder.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
+header={fftoken:c6d1858dfbbd973c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限2,https://f06.fromonlinexcomf.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
+header={fftoken:59539cf4316cc5c9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+EYE旅遊,https://f02.bootsaleuks.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 紀實頻道(安博),#genre#
-header={fftoken:3eed14d2771a19cb376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
-header={fftoken:8e2b991573b2569c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:5888dd451ead4299376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 探索頻道,https://f07.googleling.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
+header={fftoken:4bab2e769a9a1f99376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+header={fftoken:b24ede2621f31a9e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索頻道,https://f09.ibmfocus.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
+header={fftoken:1,playtoken:1}
+大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
+header={fftoken:2869d9da8975aa7e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+header={fftoken:cf498d4251f09da5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TLC,https://f21.unityanuc.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
 header={fftoken:1,playtoken:1}
 Nat Geo WILD,https://www.youtube.com/watch?v=BJ3Yv572V1A
-header={fftoken:1,playtoken:1}
-大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
+header={fftoken:b1946fe8fd0ae674376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索科學,https://f02.bootsaleuks.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+header={fftoken:2bdca4687da3fc96376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Fashion One,https://www.abouthomex.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
+header={fftoken:70c874bc108b60b8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索亞洲,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
 header={fftoken:1,playtoken:1}
 HGTV,https://www.youtube.com/watch?v=h83w7nb3AYQ
-header={fftoken:a93a8d906e6c171d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TLC,https://f21.unityanuc.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
-header={fftoken:df642fa3440bccf1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Fashion One,https://www.abouthomex.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
-header={fftoken:b8046bd75e51bfdc376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索亞洲,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
-header={fftoken:80b98ca1bfc87c40376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索頻道,https://f09.ibmfocus.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
-header={fftoken:fc0d2f5d8d520304376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索科學,https://f02.bootsaleuks.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
-header={fftoken:6a9f2f7967164b07376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-CI罪案偵查,https://f21.unityanuc.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
-header={fftoken:c0882cee89dd0d03376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-國家野生（英）,https://f21.unityanuc.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
 header={fftoken:1,playtoken:1}
 TaiwanPlus,https://www.youtube.com/watch?v=Smy2zVGK9x0
-header={fftoken:148ef18faec51d7d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:f31e2a24c859a488376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+國家野生（英）,https://f21.unityanuc.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
+header={fftoken:1,playtoken:1}
+Travel Channel,https://www.youtube.com/watch?v=aOKdWl6hiD4
+header={fftoken:92736b90d8eae2ce376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+CI罪案偵查,https://f21.unityanuc.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
+header={fftoken:abfcf0dbce124d13376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 探索EVE,https://f22.ccplay22aldrich.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-header={fftoken:b82a0a720f1ad42c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:ad91c05aa3c342bb376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 BBC Lifestyle,https://f06.fromonlinexcomf.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
-header={fftoken:bc084f3a11f1ed39376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:a41e84b9aaef0d67376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 視納華仁紀實,https://www.abouthomex.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-header={fftoken:17c6f93001ef42cd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-美食星球,https://f05.eggonnetus.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-header={fftoken:a830587f77fe8b32376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:c2de40d35b2a8cdd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+探索動力DMAX,https://www.abouthomex.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
+header={fftoken:bc0adc4731998941376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 EYE旅遊,https://f02.bootsaleuks.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
-header={fftoken:41d70c813267214e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:062f7181240a4ec3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 BBC EARTH,https://www.abouthomex.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
 header={fftoken:1,playtoken:1}
 NASA TV,https://www.youtube.com/watch?v=21X5lGlDOfg
 header={fftoken:1,playtoken:1}
-NASA Live,https://www.youtube.com/watch?v=nA9UZF-SZoQ
-header={fftoken:1,playtoken:1}
-Travel Channel,https://www.youtube.com/watch?v=aOKdWl6hiD4
-header={fftoken:1,playtoken:1}
 動物世界,https://www.youtube.com/watch?v=vQP8AwAFzI8
 header={fftoken:1,playtoken:1}
-台灣啟示錄,https://www.youtube.com/watch?v=0qb7ND0_E6k
-header={fftoken:9725d74af787cca6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+NASA Live,https://www.youtube.com/watch?v=nA9UZF-SZoQ
+header={fftoken:30993f555dad44c7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 Pet Club,https://www.abouthomex.com/live/rx1/368/f25c20fcbe794a27958fddb774f065b5/index.m3u8
-header={fftoken:96db5164bbff3472376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-探索動力DMAX,https://www.abouthomex.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
-header={fftoken:8f7565fab93f121f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:1,playtoken:1}
+台灣啟示錄,https://www.youtube.com/watch?v=0qb7ND0_E6k
+header={fftoken:e09c3daa2b7b42ee376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 Globetrotter 環遊旅行家,https://f02.bootsaleuks.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
-header={fftoken:60d3b2bd2f475cc8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TLC Canada,https://f23.bootsaleuks.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
-header={fftoken:d092eebbf8ac175f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TLC,https://f23.bootsaleuks.com/live/rx3/1533/0d5bb456c3b4f599546db0c8a5f607d3/index.m3u8
-header={fftoken:b6094bf70ab81ad6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-法國時裝,https://f21.unityanuc.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
-header={fftoken:1a92304996dfd1a1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-History,https://f22.ccplay22aldrich.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
-header={fftoken:4c351bf18aff9d3e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Food Network 英,https://f22.ccplay22aldrich.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
-header={fftoken:1a01711bb40331dd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Food Network Canada,https://f23.bootsaleuks.com/live/rx4/1265/e656e7b11f7a2e5c63b663cab6b144c1/index.m3u8
 header={fftoken:1,playtoken:1}
 National Geographic,https://www.youtube.com/watch?v=O6Qdxrf-6CM
-header={fftoken:3ca20428be14de86376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-header={fftoken:53ce5358330d63a2376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:42cd3eaa130f194e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+法國時裝,https://f21.unityanuc.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
+header={fftoken:7efb7fbb9d56a652376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TLC Canada,https://f23.bootsaleuks.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
+header={fftoken:88179f567f8b970e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TLC,https://f23.bootsaleuks.com/live/rx3/1533/0d5bb456c3b4f599546db0c8a5f607d3/index.m3u8
+header={fftoken:96233a12aaca3f0e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 TV5MONDE STYLE,https://www.abouthomex.com/live/rx1/389/9e350a9c37c460a8fc1f3fe527b678d9/index.m3u8
+header={fftoken:b6de179e842f59bd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Food Network Canada,https://f23.bootsaleuks.com/live/rx4/1265/e656e7b11f7a2e5c63b663cab6b144c1/index.m3u8
+header={fftoken:2cee7a44b491ca62376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Food Network 英,https://f22.ccplay22aldrich.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
+header={fftoken:72e5944d113f3dcd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+History,https://f22.ccplay22aldrich.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
+header={fftoken:bca16560e1f60ebe376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+美食星球,https://f05.eggonnetus.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
 體育頻道(安博),#genre#
-header={fftoken:d9a2152b5bd0e79d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來體育,https://f05.eggonnetus.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-header={fftoken:18e112cdda86f8e6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-NBA(TW),https://www.abouthomex.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
-header={fftoken:cfb9ae8d0d340987376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-FOX體育1,https://f09.ibmfocus.com/live/rx1/2791/a66f918db6515734fab6fdb5e81695a6/index.m3u8
-header={fftoken:acea65302396fbd0376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Eleven體育1,https://f03.ccbookcohky.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-header={fftoken:5a61ac1ba747af0c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-FOX體育2,https://f09.ibmfocus.com/live/rx1/1132/ffe1a7ac53bf2881c31d1e646d2e0ca4/index.m3u8
-header={fftoken:0c9dea7e1ef7110a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育1,https://f04.duckinfoint.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
-header={fftoken:1666683641b9516f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Eleven體育2,https://f05.eggonnetus.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-header={fftoken:7525333da05af8fd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f07.googleling.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-header={fftoken:d43010826acf1107376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯高球1,https://www.abouthomex.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
-header={fftoken:38213b204ce7ff4d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f27.eggonnetus.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
-header={fftoken:b10fcd170649f802376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育2,https://f04.duckinfoint.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
-header={fftoken:017a96c082a5a3df376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限,https://f07.googleling.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-header={fftoken:a9e9dfce08a065e7376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限2,https://f06.fromonlinexcomf.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-header={fftoken:ce88cceca6af673e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯無限2,https://f06.fromonlinexcomf.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
-header={fftoken:485ed50da651ec6c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-愛爾達體育3,https://f22.ccplay22aldrich.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-header={fftoken:ad9883d36b7a2be3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:027c9b229fe54a60376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來體育,https://f22.ccplay22aldrich.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+header={fftoken:6c709cc4f4fdf1d4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+FOX Sport 1,https://f09.ibmfocus.com/live/rx1/2791/a66f918db6515734fab6fdb5e81695a6/index.m3u8
+header={fftoken:62db7e1dc592cc28376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+緯來體育,https://f09.ibmfocus.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
+header={fftoken:33937db59ed0d67a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Eleven Sport 1,https://f03.ccbookcohky.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+header={fftoken:eb56334456a746e2376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+FOX Sport 2,https://f09.ibmfocus.com/live/rx1/1132/ffe1a7ac53bf2881c31d1e646d2e0ca4/index.m3u8
+header={fftoken:9021341c445c3893376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
+header={fftoken:68fdfa740002db54376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育2,https://f03.ccbookcohky.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
+header={fftoken:46dd550b1e3043c6376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育1,https://f05.eggonnetus.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
+header={fftoken:e2449e4ec9d77688376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
-header={fftoken:a55f7f6bff9e1539376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:1abea4cde314ae49376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Eleven Sport 2,https://f02.bootsaleuks.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+header={fftoken:cd7b28eecd0f0608376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
+header={fftoken:1236c5d590a1dddf376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+愛爾達體育3,https://f26.duckinfoint.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+header={fftoken:995c26470c94b75c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 Z頻道,https://www.abouthomex.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-header={fftoken:8372237c1a64d541376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯魅力,https://f07.googleling.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
-header={fftoken:7a9cc0306a9ab8d5376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯高球2,https://f21.unityanuc.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
-header={fftoken:1ace2fc429c6676f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TRACE Sport Stars,https://f02.bootsaleuks.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
-header={fftoken:d5761b4047176961376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯運動1,https://f02.bootsaleuks.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
-header={fftoken:252d214df1dad2b1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-歐洲體育,https://f03.ccbookcohky.com/live/rx1/1342/d8fbb3572f00e9fc78e17ae331a15070/index.m3u8
-header={fftoken:62783534cbb5273b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
-header={fftoken:5f716e69ac31b5d0376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-魅力足球,https://f02.bootsaleuks.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8
-header={fftoken:7aee1b66b0dd9f26376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 2,https://f04.duckinfoint.com/live/rx1/2404/5e70650cf26abf3a6872d64d85df01eb/index.m3u8
-header={fftoken:c1820828a5726858376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 5,https://f09.ibmfocus.com/live/rx1/2407/ba657c8515b4abaa99f762cd34dc8137/index.m3u8
-header={fftoken:e99de8abc739d312376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 8,https://f05.eggonnetus.com/live/rx1/2410/6b2676b1d02ae33312ac27d8434e4db8/index.m3u8
-header={fftoken:b6e1ddbafd17d95e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 7,https://f21.unityanuc.com/live/rx1/2409/842455e8cc268995a43a4643e853840d/index.m3u8
-header={fftoken:662cafb3e703c70c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 6,https://f09.ibmfocus.com/live/rx1/2408/61f54a321b0d56fe352a261fed84d85b/index.m3u8
-header={fftoken:76fce0001bac0983376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 4,https://f07.googleling.com/live/rx1/2406/0d6e5a23366b7b64a59592242e4b7ca3/index.m3u8
-header={fftoken:88401e5df08f0f65376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport News,https://f03.ccbookcohky.com/live/rx1/2402/82bfbcf0a420ea71b5c73da9e02a0dcc/index.m3u8
-header={fftoken:c59d0f1ba9fe76e2376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 1,https://f07.googleling.com/live/rx1/2403/467f24fb7f04106e14a06c01da9cd5b5/index.m3u8
-header={fftoken:dea075279276dc07376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 11,https://f05.eggonnetus.com/live/rx2/2413/05b5ee96319dcbba0493e41fcc63d546/index.m3u8
-header={fftoken:0b8047b7455406e9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 9,https://f05.eggonnetus.com/live/rx1/2411/f73ff43fe67eaf88d521699151fc79c3/index.m3u8
-header={fftoken:facbba9ebda20c67376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 10,https://f05.eggonnetus.com/live/rx2/2412/d622225057e6c950d0b33dddbfdf7180/index.m3u8
-header={fftoken:fca85afd76fe6ab4376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 14,https://f06.fromonlinexcomf.com/live/rx2/2418/65e8024d57969cc51c2f02b541de56bf/index.m3u8
-header={fftoken:b913849a29548d34376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BeIN Sport 12,https://f05.eggonnetus.com/live/rx2/2414/9792d39fc7c32933e03565c729349313/index.m3u8
-header={fftoken:cac52d9286ac1a22376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 15,https://f05.eggonnetus.com/live/rx2/2416/15086dac1f6152c522783c3b0a1f2905/index.m3u8
-header={fftoken:0a21e82c52e6aa92376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-bt espn hd,https://f23.bootsaleuks.com/live/rx3/2790/307ab85822ddee4608c78c405dbbfc0f/index.m3u8
-header={fftoken:87596846f992e216376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-J SPORTS 2,https://f04.duckinfoint.com/live/rx3/130/e8bbacde39d30fabeff292d8833a077e/index.m3u8
-header={fftoken:2d0cbfb2d105fa03376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-KBSN Sports,https://f21.unityanuc.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
-header={fftoken:960e8213ac476525376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SBS Sports,https://f22.ccplay22aldrich.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
-header={fftoken:8f6638015406b776376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Spotv2,https://f21.unityanuc.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
-header={fftoken:82989c96d6cf980e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-J SPORTS 3,https://www.abouthomex.com/live/rx3/131/7ecc01571c6da60d6258d9acd447d003/index.m3u8
-header={fftoken:5c9dd1f9effdcded376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Spotv,https://f22.ccplay22aldrich.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
-header={fftoken:2e01ed55fec9b185376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-J SPORTS 4,https://f07.googleling.com/live/rx3/132/81e51b9ff9eaec81dd7648f80dbd7b81/index.m3u8
-header={fftoken:5b6976b992c65721376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-J SPORTS 1,https://f04.duckinfoint.com/live/rx3/129/55ea62ab23fbf0da09edfc1d7397d8a5/index.m3u8
-header={fftoken:c2f80d73aec0f629376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-ESPN 1,https://f21.unityanuc.com/live/rx3/1182/984c3ecef3210c1a2b6dc3d0270b28c9/index.m3u8
-header={fftoken:f0a86c828b052b2a376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-NBA,https://f23.bootsaleuks.com/live/rx3/2792/a45b6a248c85cb7a40047d98949197fd/index.m3u8
-header={fftoken:5405582ba56ae962376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-NBA TV US,https://f23.bootsaleuks.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
-header={fftoken:75b105732bba10fd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Fox體育1,https://f23.bootsaleuks.com/live/rx3/1186/302e1e2696167d721dbbcc25a83b96c8/index.m3u8
-header={fftoken:f078e9a526390690376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-ESPN 2,https://f23.bootsaleuks.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3u8
-header={fftoken:eb519592010ba947376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-ESPN 2,https://f23.bootsaleuks.com/live/rx3/2789/1935804dee7061e47eeeb005743f1eed/index.m3u8
-header={fftoken:b4d606adbbe147c3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TSN 1,https://www.abouthomex.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
-header={fftoken:53874f12433fcf31376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Fox體育2,https://f23.bootsaleuks.com/live/rx3/1187/ed3c0d073128e70635bb4b9ba5830e97/index.m3u8
-header={fftoken:25a0797ced05302b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TSN 2,https://f06.fromonlinexcomf.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
-header={fftoken:074fc93ced5ee891376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TSN 3,https://f07.googleling.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
-header={fftoken:3be2f5ec092e2bd9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TSN 4,https://f09.ibmfocus.com/live/rx4/1276/a7c1ab2dfcaaf81dcca82d246dcc8835/index.m3u8
-header={fftoken:618b21a453536994376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SportNet ON,https://f09.ibmfocus.com/live/rx4/1278/5e2c4c907f7563b11b2b15f1b926f214/index.m3u8
-header={fftoken:ab7383b15f807e7f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-TSN 5,https://f09.ibmfocus.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
-header={fftoken:b1693bf58b0cf626376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SportNet One,https://f23.bootsaleuks.com/live/rx4/1279/b2e08f6735b3fb85086bfcda061147ac/index.m3u8
-header={fftoken:edcfd13c59b40156376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SportNet World,https://f23.bootsaleuks.com/live/rx3/1280/2938972177ab24dc28df73782d6159af/index.m3u8
-header={fftoken:2b994ef63381157d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BT Sport 3,https://f21.unityanuc.com/live/rx3/167/1601116b8a0b8eaece0e35c2b553db53/index.m3u8
-header={fftoken:604757d0bc008ef8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BT Sport 2,https://f21.unityanuc.com/live/rx3/166/e3bf17a38883009e2a7302dbd0f84a4f/index.m3u8
-header={fftoken:b9615e911620efba376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SportNet 360,https://f23.bootsaleuks.com/live/rx4/1281/97cfb3f94b1210d05886f366fce921c2/index.m3u8
-header={fftoken:bf7c036ab7cc91a8376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Freesports,https://f21.unityanuc.com/live/rx3/1412/f96d3ffee37dc428113d9f1bb541839b/index.m3u8
-header={fftoken:572c8c7a4b8051f9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-E ent,https://f22.ccplay22aldrich.com/live/rx3/1392/3a48191154438e0265d88a6fcc430c20/index.m3u8
-header={fftoken:c6359776b3a67610376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-NBA CA,https://f23.bootsaleuks.com/live/rx4/1282/5528506edf31d6964f6855781bf66bd4/index.m3u8
-header={fftoken:f476a33678ed8cf1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sport 2,https://f21.unityanuc.com/live/rx3/171/c7fe6cdef7398ac4834a146dc22fed91/index.m3u8
-header={fftoken:c08c15302ff565c7376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sports 1,https://f24.ccbookcohky.com/live/rx3/172/7b06e5cc17b675777a0e729735ae479e/index.m3u8
-header={fftoken:ffe63638e46ab5f9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-BT Sport 1,https://f21.unityanuc.com/live/rx3/165/8ccc6a511a634d429b7662dd412ff14c/index.m3u8
-header={fftoken:f52799374305f6d9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sport 4,https://f21.unityanuc.com/live/rx3/417/f0f90facf91bf9d1e2882e091480d35c/index.m3u8
-header={fftoken:abe84ac81ff0a6af376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sports F1,https://f24.ccbookcohky.com/live/rx3/182/b8a7a83222a29d6f9b17aebea66aac0e/index.m3u8
-header={fftoken:954ba583bc72cf85376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sport 3,https://f24.ccbookcohky.com/live/rx3/183/61161b0114a2207f02825a930871e11e/index.m3u8
-header={fftoken:2ea3704a26d0196d376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky news hd,https://f21.unityanuc.com/live/rx3/2779/f25f886c9cb3e2c3b84a3865aa041c4f/index.m3u8
-header={fftoken:0f0afd9831232036376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky Sport 5,https://f24.ccbookcohky.com/live/rx3/418/1da52e134c1af98b189234d94da513aa/index.m3u8
-header={fftoken:127d0cecb8b69825376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports racing hd,https://f22.ccplay22aldrich.com/live/rx3/2778/9c652c2ea240653977fcc610062e0683/index.m3u8
-header={fftoken:98667700d84f6833376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports mix,https://f21.unityanuc.com/live/rx3/2780/b9140d9b6dc486fe87eae0ca11a1add9/index.m3u8
-header={fftoken:bd4a4b6291eb487c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports arena,https://f26.duckinfoint.com/live/rx3/2781/8ec2edfbc6692b293b9daa41093e160e/index.m3u8
-header={fftoken:250f560789803294376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports football,https://f26.duckinfoint.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
-header={fftoken:da956c71ea1be7e6376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports the open,https://f26.duckinfoint.com/live/rx3/2784/e32b44aae452b510488bcacb3d11f7ac/index.m3u8
-header={fftoken:e814c4d4b4105fda376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports premier league,https://f26.duckinfoint.com/live/rx3/2783/37cbc05cc5ecf56870eeef4608a13d3d/index.m3u8
-header={fftoken:b06b393e6e69481f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports action,https://f26.duckinfoint.com/live/rx3/2785/be5ca7bb3313efaf79329d995231ee0e/index.m3u8
-header={fftoken:2b43bb3fac9228eb376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports cricket,https://f26.duckinfoint.com/live/rx3/2786/17193ae25ae60386e99025e4ecee0e5e/index.m3u8
-header={fftoken:06c57b54fbdc9835376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-sky sports main event,https://f21.unityanuc.com/live/rx3/2787/b36ca34d30cea8854e589082cb2641f0/index.m3u8
-header={fftoken:2504cd1a479ca982376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 4 Max,https://f23.bootsaleuks.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
-header={fftoken:7192eb1f1c661665376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 1,https://f23.bootsaleuks.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
-header={fftoken:3573c2c9349f7dad376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 5 Max,https://f23.bootsaleuks.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
-header={fftoken:1f99178c0d56d77f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SKY F1,https://f22.ccplay22aldrich.com/live/rx4/2740/82c07313e28dd339bd674d69fe5f9a03/index.m3u8
-header={fftoken:648d8885c7048579376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SKY SPORT ARENA,https://f22.ccplay22aldrich.com/live/rx4/2739/600bc71354ec9dc7ea1d780bd8da2659/index.m3u8
-header={fftoken:239eecbfd9dd3487376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-SKY SPORT NBA,https://f22.ccplay22aldrich.com/live/rx4/2738/6b76bf51f583760b06a34d6ee263f659/index.m3u8
-header={fftoken:269f79689c800f13376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Bein Sport 3,https://f23.bootsaleuks.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
-header={fftoken:11da1a8e841707c1376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Rai Sport,https://f22.ccplay22aldrich.com/live/rx3/1613/6d9571af10a2d5522e50a221a5a79818/index.m3u8
-header={fftoken:4480687d412e962f376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Suria,https://f23.bootsaleuks.com/live/rx3/434/19d76612c149b5d957a155f5b3d881a7/index.m3u8
-header={fftoken:521e284e7dfbd39c376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sky sport uno,https://f22.ccplay22aldrich.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
-header={fftoken:1d0165b39b35c828376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-ASSP1_HD,https://f23.bootsaleuks.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-header={fftoken:b31c9dfe785f62d7376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Astro Sp2,https://f23.bootsaleuks.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
-header={fftoken:38f666689e4ce38b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-ASSP2_HD,https://f23.bootsaleuks.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-header={fftoken:e250aab4aaf09752376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Astro Sp4,https://f23.bootsaleuks.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
-header={fftoken:7694bd0155f1400e376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Astro Sp3,https://f23.bootsaleuks.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
-header={fftoken:45558064d2ef8c91376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sport TV 2,https://f26.duckinfoint.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
-header={fftoken:f07e2609abe08cc9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Astro Sp1,https://f23.bootsaleuks.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
-header={fftoken:1545b8e1cfb4c648376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Astro Sp5,https://f23.bootsaleuks.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
-header={fftoken:d3917b08ceee86ad376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sport TV 3,https://f23.bootsaleuks.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
-header={fftoken:9a9b17eb86c0c7bd376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-Sport TV 1,https://f23.bootsaleuks.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
-header={fftoken:c063fa6bbace86f3376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:6c56b6cd3420f38b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限2,https://f06.fromonlinexcomf.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
+header={fftoken:188144b63640c98c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限,https://f07.googleling.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
+header={fftoken:1853c1c161274b07376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯無限2,https://f06.fromonlinexcomf.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
+header={fftoken:66c56b10272e12fa376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 博斯無限,https://f07.googleling.com/live/rx1/2797/ec16777a438d2d0a2072dc4ff7bd1638/index.m3u8
-header={fftoken:33a31ffeca7c51a9376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+header={fftoken:33b0ee213aa3bee8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯高球1,https://www.abouthomex.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
+header={fftoken:27823127b231c8cb376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯高球2,https://f21.unityanuc.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
+header={fftoken:8db87b8fb81d5aac376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
 博斯網球,https://f09.ibmfocus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
-header={fftoken:2f073bfaaa7a446b376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
-緯來體育,https://f05.eggonnetus.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
+header={fftoken:28dfe73d44879d17376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯魅力,https://f07.googleling.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
+header={fftoken:b8e6c6bb871a70f0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+歐洲體育,https://f02.bootsaleuks.com/live/rx1/1342/d8fbb3572f00e9fc78e17ae331a15070/index.m3u8
+header={fftoken:b525c1fe2295265e376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TRACE Sport Stars,https://f02.bootsaleuks.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
+header={fftoken:cf154a6e3993e1c1376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport News,https://f03.ccbookcohky.com/live/rx1/2402/82bfbcf0a420ea71b5c73da9e02a0dcc/index.m3u8
+header={fftoken:10d160e516436626376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 1,https://f07.googleling.com/live/rx1/2403/467f24fb7f04106e14a06c01da9cd5b5/index.m3u8
+header={fftoken:f488ff018fd67faa376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+魅力足球,https://f02.bootsaleuks.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8
+header={fftoken:ff23a0c396424bd3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+header={fftoken:f4530ad061515a55376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 4,https://f07.googleling.com/live/rx1/2406/0d6e5a23366b7b64a59592242e4b7ca3/index.m3u8
+header={fftoken:4b526db7554af9de376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 6,https://f09.ibmfocus.com/live/rx1/2408/61f54a321b0d56fe352a261fed84d85b/index.m3u8
+header={fftoken:de5f2436bed04fce376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 2,https://f04.duckinfoint.com/live/rx1/2404/5e70650cf26abf3a6872d64d85df01eb/index.m3u8
+header={fftoken:5ca899fbb51d435d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 5,https://f09.ibmfocus.com/live/rx1/2407/ba657c8515b4abaa99f762cd34dc8137/index.m3u8
+header={fftoken:88fe8d645d0dfab8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 7,https://f21.unityanuc.com/live/rx1/2409/842455e8cc268995a43a4643e853840d/index.m3u8
+header={fftoken:2ae38092f5ea992a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 10,https://f05.eggonnetus.com/live/rx2/2412/d622225057e6c950d0b33dddbfdf7180/index.m3u8
+header={fftoken:8410afe64678ad57376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 15,https://f05.eggonnetus.com/live/rx2/2416/15086dac1f6152c522783c3b0a1f2905/index.m3u8
+header={fftoken:53b5b4f823e2e11c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 14,https://f06.fromonlinexcomf.com/live/rx2/2418/65e8024d57969cc51c2f02b541de56bf/index.m3u8
+header={fftoken:29e1bdaa447e16b0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 8,https://f05.eggonnetus.com/live/rx1/2410/6b2676b1d02ae33312ac27d8434e4db8/index.m3u8
+header={fftoken:abab95992ce1083b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 11,https://f05.eggonnetus.com/live/rx2/2413/05b5ee96319dcbba0493e41fcc63d546/index.m3u8
+header={fftoken:10723fde7afe35a2376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 12,https://f05.eggonnetus.com/live/rx2/2414/9792d39fc7c32933e03565c729349313/index.m3u8
+header={fftoken:f7e22163dd633fe8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BeIN Sport 9,https://f05.eggonnetus.com/live/rx1/2411/f73ff43fe67eaf88d521699151fc79c3/index.m3u8
+header={fftoken:67c36f4f4a3aae9a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+J SPORTS 1,https://f04.duckinfoint.com/live/rx3/129/55ea62ab23fbf0da09edfc1d7397d8a5/index.m3u8
+header={fftoken:d80c9436172b3ba5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+J SPORTS 3,https://www.abouthomex.com/live/rx3/131/7ecc01571c6da60d6258d9acd447d003/index.m3u8
+header={fftoken:2cffa6fab3506369376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+KBSN Sports,https://f21.unityanuc.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
+header={fftoken:d1a5302583059646376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+J SPORTS 4,https://f07.googleling.com/live/rx3/132/81e51b9ff9eaec81dd7648f80dbd7b81/index.m3u8
+header={fftoken:516fe888ba002ea7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Spotv,https://f22.ccplay22aldrich.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
+header={fftoken:9fa66bd2852741ba376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+J SPORTS 2,https://f04.duckinfoint.com/live/rx3/130/e8bbacde39d30fabeff292d8833a077e/index.m3u8
+header={fftoken:7cc3f8aa273a31d9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Spotv2,https://f21.unityanuc.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
+header={fftoken:7bf3ef1d4a6f11b1376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+bt espn hd,https://f23.bootsaleuks.com/live/rx3/2790/307ab85822ddee4608c78c405dbbfc0f/index.m3u8
+header={fftoken:caf47efc7aa55e5a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SBS Sports,https://f22.ccplay22aldrich.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
+header={fftoken:d070f559f911dd10376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+ESPN 1,https://f21.unityanuc.com/live/rx3/1182/984c3ecef3210c1a2b6dc3d0270b28c9/index.m3u8
+header={fftoken:28ce70322e7d718a376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+ESPN 2,https://f23.bootsaleuks.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3u8
+header={fftoken:0559282e59e809e5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+NBA,https://f23.bootsaleuks.com/live/rx3/2792/a45b6a248c85cb7a40047d98949197fd/index.m3u8
+header={fftoken:0dd75cce93e633c7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+ESPN 2,https://f23.bootsaleuks.com/live/rx3/2789/1935804dee7061e47eeeb005743f1eed/index.m3u8
+header={fftoken:7cab4017278529b3376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Fox Sport 1,https://f23.bootsaleuks.com/live/rx3/1186/302e1e2696167d721dbbcc25a83b96c8/index.m3u8
+header={fftoken:4fe31f5b544f64af376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Fox Sport 2,https://f23.bootsaleuks.com/live/rx3/1187/ed3c0d073128e70635bb4b9ba5830e97/index.m3u8
+header={fftoken:7aec36bfc8ad9479376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TSN 1,https://www.abouthomex.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
+header={fftoken:0d24d37be8a5a77d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+NBA TV US,https://f23.bootsaleuks.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
+header={fftoken:76a27540373d6509376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TSN 2,https://f06.fromonlinexcomf.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
+header={fftoken:5bc285545962e8b9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TSN 4,https://f09.ibmfocus.com/live/rx4/1276/a7c1ab2dfcaaf81dcca82d246dcc8835/index.m3u8
+header={fftoken:1ae1ef12e8f61608376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TSN 5,https://f09.ibmfocus.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
+header={fftoken:29591fcfdd527481376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+TSN 3,https://f07.googleling.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
+header={fftoken:67059e3832a1d2b9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SportNet World,https://f23.bootsaleuks.com/live/rx3/1280/2938972177ab24dc28df73782d6159af/index.m3u8
+header={fftoken:4f1a0d2eb1029fad376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SportNet One,https://f23.bootsaleuks.com/live/rx4/1279/b2e08f6735b3fb85086bfcda061147ac/index.m3u8
+header={fftoken:ea1bd0295ab8bcb4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SportNet ON,https://f09.ibmfocus.com/live/rx4/1278/5e2c4c907f7563b11b2b15f1b926f214/index.m3u8
+header={fftoken:6645beda98a5e7c9376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SportNet 360,https://f23.bootsaleuks.com/live/rx4/1281/97cfb3f94b1210d05886f366fce921c2/index.m3u8
+header={fftoken:d149e039e3b3d623376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+NBA(TW),https://www.abouthomex.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
+header={fftoken:c48fdf6b2d4fa2f7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+E ent,https://f22.ccplay22aldrich.com/live/rx3/1392/3a48191154438e0265d88a6fcc430c20/index.m3u8
+header={fftoken:d8e4e674dca9a632376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Freesports,https://f21.unityanuc.com/live/rx3/1412/f96d3ffee37dc428113d9f1bb541839b/index.m3u8
+header={fftoken:7c55eeb45b8ec20b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+NBA CA,https://f23.bootsaleuks.com/live/rx4/1282/5528506edf31d6964f6855781bf66bd4/index.m3u8
+header={fftoken:a556ee211268eec4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BT Sport 2,https://f21.unityanuc.com/live/rx3/166/e3bf17a38883009e2a7302dbd0f84a4f/index.m3u8
+header={fftoken:22dd4c1314bba46b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BT Sport 3,https://f21.unityanuc.com/live/rx3/167/1601116b8a0b8eaece0e35c2b553db53/index.m3u8
+header={fftoken:0665b493317ce488376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sports 1,https://f24.ccbookcohky.com/live/rx3/172/7b06e5cc17b675777a0e729735ae479e/index.m3u8
+header={fftoken:e6fec34aee89c692376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sports F1,https://f24.ccbookcohky.com/live/rx3/182/b8a7a83222a29d6f9b17aebea66aac0e/index.m3u8
+header={fftoken:28b75a43a9797423376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sport 3,https://f24.ccbookcohky.com/live/rx3/183/61161b0114a2207f02825a930871e11e/index.m3u8
+header={fftoken:fb69bb5b17d5141b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sport 5,https://f24.ccbookcohky.com/live/rx3/418/1da52e134c1af98b189234d94da513aa/index.m3u8
+header={fftoken:6e0b3262979e4197376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sport 4,https://f21.unityanuc.com/live/rx3/417/f0f90facf91bf9d1e2882e091480d35c/index.m3u8
+header={fftoken:aaf0782aded0d163376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports racing hd,https://f22.ccplay22aldrich.com/live/rx3/2778/9c652c2ea240653977fcc610062e0683/index.m3u8
+header={fftoken:f70aabd9fb8c463d376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky news hd,https://f21.unityanuc.com/live/rx3/2779/f25f886c9cb3e2c3b84a3865aa041c4f/index.m3u8
+header={fftoken:3ea7fbd12d359c5c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports mix,https://f21.unityanuc.com/live/rx3/2780/b9140d9b6dc486fe87eae0ca11a1add9/index.m3u8
+header={fftoken:d4bf804221c06b43376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky Sport 2,https://f21.unityanuc.com/live/rx3/171/c7fe6cdef7398ac4834a146dc22fed91/index.m3u8
+header={fftoken:2efea8fb0b6d4acd376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports arena,https://f26.duckinfoint.com/live/rx3/2781/8ec2edfbc6692b293b9daa41093e160e/index.m3u8
+header={fftoken:009cb2a86da81b54376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports football,https://f26.duckinfoint.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
+header={fftoken:738cea1bd2e21e79376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports the open,https://f26.duckinfoint.com/live/rx3/2784/e32b44aae452b510488bcacb3d11f7ac/index.m3u8
+header={fftoken:e953642b92ca2e6b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports action,https://f26.duckinfoint.com/live/rx3/2785/be5ca7bb3313efaf79329d995231ee0e/index.m3u8
+header={fftoken:9ec709210831bfb7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports cricket,https://f26.duckinfoint.com/live/rx3/2786/17193ae25ae60386e99025e4ecee0e5e/index.m3u8
+header={fftoken:d722d54e90feb756376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports main event,https://f21.unityanuc.com/live/rx3/2787/b36ca34d30cea8854e589082cb2641f0/index.m3u8
+header={fftoken:012e35ab34a49263376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+sky sports premier league,https://f26.duckinfoint.com/live/rx3/2783/37cbc05cc5ecf56870eeef4608a13d3d/index.m3u8
+header={fftoken:5160be6dff76c6da376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 4 Max,https://f23.bootsaleuks.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
+header={fftoken:edff7a1c86d132c7376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 5 Max,https://f23.bootsaleuks.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
+header={fftoken:636c43a8ecf1f656376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 1,https://f23.bootsaleuks.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
+header={fftoken:35530eaed6176555376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SKY SPORT NBA,https://f22.ccplay22aldrich.com/live/rx4/2738/6b76bf51f583760b06a34d6ee263f659/index.m3u8
+header={fftoken:24333a1e7bbf3f38376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Rai Sport,https://f22.ccplay22aldrich.com/live/rx3/1613/6d9571af10a2d5522e50a221a5a79818/index.m3u8
+header={fftoken:53e0428a63f2eb3b376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SKY SPORT ARENA,https://f22.ccplay22aldrich.com/live/rx4/2739/600bc71354ec9dc7ea1d780bd8da2659/index.m3u8
+header={fftoken:7e34a649abec6cf4376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Suria,https://f23.bootsaleuks.com/live/rx3/434/19d76612c149b5d957a155f5b3d881a7/index.m3u8
+header={fftoken:e8aaef71347d81ea376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Bein Sport 3,https://f23.bootsaleuks.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
+header={fftoken:1cdcf9a740e560ef376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Astro Sp1,https://f23.bootsaleuks.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
+header={fftoken:039cca5943c88616376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+SKY F1,https://f22.ccplay22aldrich.com/live/rx4/2740/82c07313e28dd339bd674d69fe5f9a03/index.m3u8
+header={fftoken:374b3280d40aa112376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sky sport uno,https://f22.ccplay22aldrich.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
+header={fftoken:d8fecf8406cd95b1376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Astro Sp2,https://f23.bootsaleuks.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
+header={fftoken:42bda7f3fc76c58c376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+ASSP2_HD,https://f23.bootsaleuks.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
+header={fftoken:ddc447491ab2c1a8376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+ASSP1_HD,https://f23.bootsaleuks.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+header={fftoken:746d55d46530e3f5376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Astro Sp3,https://f23.bootsaleuks.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
+header={fftoken:c0266ff22b4f1035376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Astro Sp5,https://f23.bootsaleuks.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
+header={fftoken:1fdb1155542acec0376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sport TV 1,https://f23.bootsaleuks.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
+header={fftoken:d522709cbcda0edb376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Astro Sp4,https://f23.bootsaleuks.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
+header={fftoken:4d19abe729dcfd02376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sport TV 2,https://f26.duckinfoint.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
+header={fftoken:a593ed94a5b3ac70376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+Sport TV 3,https://f23.bootsaleuks.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
+header={fftoken:3d7a9850f4d35458376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+博斯運動1,https://f02.bootsaleuks.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+header={fftoken:a8f31ae6e2cf92d6376db9ce5ef370db,playtoken:c748df49ba7f1426a04beba400d330c7}
+BT Sport 1,https://f21.unityanuc.com/live/rx3/165/8ccc6a511a634d429b7662dd412ff14c/index.m3u8
