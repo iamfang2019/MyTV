@@ -137,9 +137,9 @@ header={fftoken:1,playtoken:1}
 header={fftoken:1,playtoken:1}
 第一名電視,https://www.youtube.com/watch?v=fYjGQOT1Rlc
 header={fftoken:75bae7984565b476376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+三立新聞https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 header={fftoken:aeac3d4921b27b6f376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+三立新聞https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 header={fftoken:da1432dd05a69b00376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森新聞,https://www.readworlder.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 header={fftoken:1,playtoken:1}
@@ -169,7 +169,7 @@ header={fftoken:1,playtoken:1}
 header={fftoken:6975e11788f9f347376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森財經,https://www.readworlder.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 header={fftoken:2e3244c6841daa49376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+三立新聞https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
 header={fftoken:1,playtoken:1}
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 header={fftoken:1,playtoken:1}
@@ -359,7 +359,7 @@ header={fftoken:8597b8b4741b182a376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:0a9d686dec83d475376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 header={fftoken:1,playtoken:1}
-三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立新聞https://www.youtube.com/watch?v=FoBfXvlOR6I
 header={fftoken:03acad50d63e9da0376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 緯來體育,https://f06.fromonlinexcomf.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
 header={fftoken:26b2e714302ca380376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
