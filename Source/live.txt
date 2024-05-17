@@ -93,7 +93,7 @@ header={fftoken:6fb82cbada4c3d78376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:a8e4b41ec16ffd6a376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 靖天綜合,https://www.abouthomex.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
 header={fftoken:de5186789bc71f72376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-TVN台湾版,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+TVN,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 header={fftoken:243ea37424a1a3c5376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 中視經典,https://f02.bootsaleuks.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
 header={fftoken:b41e75160a38f087376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
