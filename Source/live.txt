@@ -199,11 +199,11 @@ header={fftoken:1151134121be1643376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:fb04f677cdce6466376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 台視財經,https://www.abouthomex.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
 header={fftoken:6a06451409fdeb50376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-壹新聞,https://www.ttfly19lili.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://www.ttfly19lili.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 header={fftoken:bff5b914ce9ea366376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 年代新聞,https://www.ttfly19lili.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 header={fftoken:ce0a823ae21b5948376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-壹新聞,https://www.readworlder.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://www.readworlder.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 header={fftoken:1,playtoken:1}
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
 header={fftoken:1018e9b8c2e784e6376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
@@ -227,7 +227,7 @@ header={fftoken:c41e969e2c3efe96376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:70c587f5ca1f5946376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森戲劇,https://f03.ccbookcohky.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
 header={fftoken:02d41a075f096575376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-HBO HD,https://f24.ccbookcohky.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
+HBO,https://f24.ccbookcohky.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
 header={fftoken:6f6363001a394464376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 CineMAX,https://f21.unityanuc.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 header={fftoken:da1ae5d438358e08376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
@@ -293,7 +293,7 @@ header={fftoken:7ee4d0a67d32f176376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:a8f1a4c2dc25e7ae376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 AXN亞洲,https://f06.fromonlinexcomf.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 header={fftoken:bb52326a37971e34376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-愛爾達體育3台,https://f09.ibmfocus.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+愛爾達體育3,https://f09.ibmfocus.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
 header={fftoken:0d55cf6c8ab216b7376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 header={fftoken:f601f9089a01e384376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
