@@ -426,7 +426,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -867,6 +868,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
@@ -2511,7 +2522,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -2952,6 +2964,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
@@ -4646,7 +4668,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -5087,6 +5110,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
@@ -6736,7 +6769,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -7177,6 +7211,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
@@ -8821,7 +8865,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -9262,6 +9307,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
@@ -10899,7 +10954,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
-愛爾達綜合,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
+
+愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -11340,6 +11396,16 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
+CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
+4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
 
