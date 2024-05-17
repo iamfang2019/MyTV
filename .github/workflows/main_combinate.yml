@@ -87,7 +87,7 @@ jobs:
 
                 
           # Create Generate TXT to m3u Source
-          grep -v 'test.m3u8' ./TW_allsource | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt      
+          grep -v 'test.m3u8' ./TW_allsource2 | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt      
 
           # TW_allsource Unify
           rm -rf ./TW_unify
