@@ -1,0 +1,50 @@
+#!/bin/csh -f
+
+
+
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
+   rm -rf parsing_TW.$type
+   touch parsing_TW.$type
+   cat $type | grep -v genre | cut -d "h" -f 1 > list
+   foreach chk ("`cat ./list`")
+     echo $chk
+     grep -B 1 -i $chk ./Source/live2.txt >> parsing_TW.$type  
+
+   end
+end
+
+rm -rf TW_allsource
+touch TW_allsource
+echo "新聞,#genre#" > a
+cat a parsing_TW.1_News >> TW_allsource
+echo "綜合,#genre#" > a
+cat a parsing_TW.2_Mix >> TW_allsource
+echo "電影,#genre#" > a
+cat a parsing_TW.3_Movie >> TW_allsource
+echo "體育,#genre#" > a
+cat a parsing_TW.4_Sport >> TW_allsource
+echo "親子,#genre#" > a
+cat a parsing_TW.5_child >> TW_allsource
+echo "廣播,#genre#" > a
+cat a parsing_TW.6_Radio >> TW_allsource
+echo "BGM,#genre#" > a
+cat a parsing_TW.7_BGM >> TW_allsource
+echo "其他,#genre#" > a
+cat a parsing_TW.9_other>> TW_allsource
+
+
+sed -i '/--/d' ./TW_allsource
+
+mv ./TW_allsource ./Source/UBSP
+
+## delete data
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
+   rm -rf parsing_TW.$type
+end
+
+rm -rf a 
+rm -rf list
+rm -rf chk
+
+
+
