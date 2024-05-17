@@ -146,8 +146,6 @@ header={fftoken:75bae7984565b476376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 三立新聞,https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 header={fftoken:aeac3d4921b27b6f376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 三立新聞,https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-header={fftoken:1,playtoken:1}
-三立新聞+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 header={fftoken:da1432dd05a69b00376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森新聞,https://www.readworlder.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 header={fftoken:1,playtoken:1}
@@ -166,8 +164,6 @@ header={fftoken:51f533a06214915f376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 東森新聞,https://www.readworlder.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 header={fftoken:59a9b5fdb0bec931376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 民視新聞,https://www.readworlder.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-header={fftoken:1,playtoken:1}
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 header={fftoken:eda9a7f19c580d58376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 TVBS新聞,https://www.ttfly19lili.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 header={fftoken:4c48fa1b39b5743a376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
