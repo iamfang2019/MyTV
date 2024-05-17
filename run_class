@@ -9,7 +9,7 @@ foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
      grep -B 1 -i $chk ./Source/live.txt >> parsing_TW2.$type  
 
      # Special source insert
-     if ($type=="1_News")  then
+     if ("$type"=="1_News")  then
         grep -B 1 -i $chk ./Source/live.txt >> parsing_TW.$type  
      endif
 
