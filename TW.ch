@@ -928,7 +928,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -3011,7 +3013,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -4322,11 +4326,13 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 三立台灣,https://test.m3u8
 三立都會,https://test.m3u8
 三立戲劇,https://test.m3u8
+韓國娛樂,https://test.m3u8
 華藝綜合,https://test.m3u8
 tvN,https://test.m3u8
 東森綜合,https://test.m3u8
 東森超視,https://test.m3u8
 愛爾達影劇,https://test.m3u8
+愛爾達娛樂,https://test.m3u8
 中天綜合,https://test.m3u8
 中天娛樂,https://test.m3u8
 東森戲劇,https://test.m3u8
@@ -4338,7 +4344,6 @@ TVBS,https://test.m3u8
 JET綜合,https://test.m3u8
 緯來日本,https://test.m3u8
 愛爾達綜合,https://test.m3u8
-愛爾達娛樂,https://test.m3u8
 國興衛視,https://test.m3u8
 靖天日本,https://test.m3u8
 靖天戲劇,https://test.m3u8
@@ -4353,11 +4358,9 @@ EYETV戲劇,https://test.m3u8
 民視台灣,https://test.m3u8
 大愛2,https://test.m3u8
 公視3,https://test.m3u8
-
 TVBS精彩,https://test.m3u8
 MTV,https://test.m3u8
-韓國娛樂,https://test.m3u8
-MoMo綜合,https://test.m3u8
+MOMO綜合,https://test.m3u8
 台視財經,https://test.m3u8
 非凡商業,https://test.m3u8
 好消息,https://test.m3u8
@@ -4377,9 +4380,7 @@ Lifetime,https://test.m3u8
 HGTV居家樂活,https://test.m3u8
 美麗人生,https://test.m3u8
 MezzoLive,https://test.m3u8
-CLASSICA古典樂,https://test.m3u8
 CMusic,https://test.m3u8
-達文西,https://test.m3u8
 TRACESportStars,https://test.m3u8
 TV5Monde,https://test.m3u8
 
@@ -5147,7 +5148,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -7235,7 +7238,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -9318,7 +9323,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
@@ -10627,6 +10634,7 @@ i-Fun動漫,https://test.m3u8
 靖洋卡通,https://test.m3u8
 NickJr.,https://test.m3u8
 Cbeebies,https://test.m3u8
+達文西,https://test.m3u8
 
 
 TVBS新聞,rtmp://twcdn.top/sat/tv551
@@ -11393,7 +11401,9 @@ TVBS,http://www.ubvip1688.com/ublive/a5d4526494070d45.m3u8
 博斯運動1,http://www.ubvip1688.com/ublive/df5ad9eae0f43ec0.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/ba905c80d71d9716.m3u8
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
-
+愛爾達體育1,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
+愛爾達體育2,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
+愛爾達體育3,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
 
 
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
