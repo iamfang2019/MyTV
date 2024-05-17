@@ -58,15 +58,6 @@ header={fftoken:59a9b5fdb0bec931376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 民視新聞,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A5322211653222116&ct=19669&tsum=255b505596375afee9be3255543388db
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
-header={fftoken:75bae7984565b476376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-header={fftoken:aeac3d4921b27b6f376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
---
-header={fftoken:2e3244c6841daa49376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立新聞,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
---
-header={fftoken:1,playtoken:1}
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8
 三立新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8
