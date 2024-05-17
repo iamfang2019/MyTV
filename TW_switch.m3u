@@ -1103,114 +1103,26 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/影迷數位電影.png" group-title="電影",影迷數位電影
 http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO1.png" group-title="電影",HBO1
-https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO2.png" group-title="電影",HBO2
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
 http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
 http://50.7.238.114:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
 http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
 http://198.16.100.90:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO家庭.png" group-title="電影",HBO家庭
-http://888.iptv543.com/Smartv.php?id=fyi_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO1.png" group-title="電影",HBO1
-https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO2.png" group-title="電影",HBO2
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://50.7.238.114:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
 http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://198.16.100.90:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO家庭.png" group-title="電影",HBO家庭
-http://888.iptv543.com/Smartv.php?id=fyi_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO1.png" group-title="電影",HBO1
-https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO2.png" group-title="電影",HBO2
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://50.7.238.114:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MFFF5369751153697511&ct=19669&tsum=aafd345e77ff8a742d8ddd9d100b3d4d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO強檔鉅獻.png" group-title="電影",HBO強檔鉅獻
-http://198.16.100.90:8278/hbohits_twn/playlist.m3u8?tid=MF8F8486085084860850&ct=19669&tsum=a676a9e4e4250b04fb2f0bb903d64baa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO原創鉅獻.png" group-title="電影",HBO原創鉅獻
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO家庭.png" group-title="電影",HBO家庭
-http://888.iptv543.com/Smartv.php?id=fyi_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來育樂.png" group-title="體育",緯來育樂
 rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來育樂.png" group-title="體育",緯來育樂
