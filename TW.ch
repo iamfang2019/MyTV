@@ -593,8 +593,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
@@ -2696,8 +2695,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
@@ -4849,8 +4847,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
@@ -6957,8 +6954,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
@@ -9060,8 +9056,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
@@ -11164,8 +11159,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+
 HBO溫馨家庭,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO原創鉅獻,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 
