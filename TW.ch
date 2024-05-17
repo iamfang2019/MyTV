@@ -6509,19 +6509,15 @@ HBO,https://test.m3u8
 東森洋片,https://test.m3u8
 AXN,https://test.m3u8
 好萊塢電影,https://test.m3u8
-
-
 CINEMAX,https://test.m3u8
-衛視西片,https://test.m3u8
-
+HBO溫馨家庭,https://test.m3u8
+HBO強檔鉅獻,https://test.m3u8
+HBO原創鉅獻,https://test.m3u8
 CinemaWorld,https://test.m3u8
 WARNERTV,https://test.m3u8
 AMC最愛電影,https://test.m3u8
 影迷數位電影,https://test.m3u8
-
-HBO溫馨家庭,https://test.m3u8
-HBO強檔鉅獻,https://test.m3u8
-HBO原創鉅獻,https://test.m3u8
+衛視西片,https://test.m3u8
 StarMovies,https://test.m3u8
 
 
