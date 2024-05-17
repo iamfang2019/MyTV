@@ -8,14 +8,8 @@ header={fftoken:083f43bb090819ef376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
 header={fftoken:b851d105142111d9376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 緯來綜合,https://f04.duckinfoint.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-header={fftoken:d2d5391def0b8ffe376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-台視,https://f21.unityanuc.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
-header={fftoken:37e4deb22762a1fb376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-中視,https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 header={fftoken:b15315cc30ba9457376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 客家電視,https://f22.ccplay22aldrich.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
-header={fftoken:5155e4c38f7d5801376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 header={fftoken:ba03224c083fab8e376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 好消息,https://f03.ccbookcohky.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
 header={fftoken:9e1df8d1aac7605b376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
@@ -175,7 +169,7 @@ header={fftoken:1,playtoken:1}
 header={fftoken:6975e11788f9f347376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森財經,https://www.readworlder.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 header={fftoken:2e3244c6841daa49376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-三立iNEWS,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+三立新聞,https://www.readworlder.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
 header={fftoken:1,playtoken:1}
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 header={fftoken:1,playtoken:1}
@@ -217,7 +211,7 @@ header={fftoken:6692c851e17896d9376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:1d964e5e085dfa2c376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 緯來電影,https://f21.unityanuc.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 header={fftoken:e4c0ef95bf76ec16376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-HBO HD,https://f09.ibmfocus.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+HBO,https://f09.ibmfocus.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 header={fftoken:c41e969e2c3efe96376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 緯來戲劇,https://www.abouthomex.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
 header={fftoken:70c587f5ca1f5946376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
@@ -247,7 +241,7 @@ header={fftoken:d64b7d6ddc6bec55376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 header={fftoken:3157166ee4f3aa04376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 HBOSignature,https://f07.googleling.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
 header={fftoken:1f26c10ffa23b157376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
-HBO Hits,https://f03.ccbookcohky.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+HBO強檔鉅獻,https://f03.ccbookcohky.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 header={fftoken:487ed0fd66276869376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 采昌影劇,https://f09.ibmfocus.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
 header={fftoken:de9de36096309493376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
