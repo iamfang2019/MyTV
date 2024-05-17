@@ -1,5 +1,8 @@
 #!/bin/csh -f
-  
+###
+# parsing_TW2.$type -> to translate m3u
+# parsing_TW.$type -> tvbox only
+
 foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
    rm -rf parsing_TW.$type
    touch parsing_TW.$type
@@ -10,7 +13,7 @@ foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
 
      # Special source insert
      if ( "$type" == "1_News" )  then
-        grep -B 1 -i $chk ./Source/live.txt >> parsing_TW.$type  
+        grep -B 1 -i $chk ./Source/live2.txt >> parsing_TW.$type  
      endif
 
      grep -i $chk ./TW >> parsing_TW.$type  
