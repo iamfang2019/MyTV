@@ -64,6 +64,9 @@ jobs:
           cat ./Source/rtmp ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
           sed -i '/genre/d' ./TW
 
+          chmod +x ./no_use
+          ./no_use
+
           chmod +x ./run_class
           ./run_class
 
