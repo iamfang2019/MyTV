@@ -12,28 +12,35 @@ foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
 end
 
 rm -rf TW_allsource
+rm -rf TW_allsource2
 touch TW_allsource
+touch TW_allsource2
 echo "新聞,#genre#" > a
+echo "新聞,#genre#" > b
 cat a parsing_TW.1_News >> TW_allsource
-cat a parsing_TW2.1_News >> TW_allsource2
+cat b parsing_TW2.1_News >> TW_allsource2
 echo "綜合,#genre#" > a
+echo "綜合,#genre#" > b
 cat a parsing_TW.2_Mix >> TW_allsource
-cat a parsing_TW2.2_Mix >> TW_allsource2
+cat b parsing_TW2.2_Mix >> TW_allsource2
 echo "電影,#genre#" > a
+echo "電影,#genre#" > b
 cat a parsing_TW.3_Movie >> TW_allsource
 cat a parsing_TW2.3_Movie >> TW_allsource2
 echo "體育,#genre#" > a
+echo "體育,#genre#" > b
 cat a parsing_TW.4_Sport >> TW_allsource
 cat a parsing_TW2.4_Sport >> TW_allsource2
 echo "親子,#genre#" > a
+echo "親子,#genre#" > b
 cat a parsing_TW.5_child >> TW_allsource
 cat a parsing_TW2.5_child >> TW_allsource2
 echo "廣播,#genre#" > a
 cat a parsing_TW.6_Radio >> TW_allsource
-cat a parsing_TW2.6_Radio >> TW_allsource2
 echo "BGM,#genre#" > a
 cat a parsing_TW.7_BGM >> TW_allsource
 echo "其他,#genre#" > a
+echo "其他,#genre#" > b
 cat a parsing_TW.9_other>> TW_allsource
 cat a parsing_TW2.9_other>> TW_allsource2
 
