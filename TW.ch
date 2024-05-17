@@ -880,7 +880,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
@@ -2976,7 +2983,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
@@ -5122,7 +5136,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
@@ -7223,7 +7244,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
@@ -9319,7 +9347,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
@@ -10690,6 +10725,14 @@ i-Fun動漫,https://test.m3u8
 NickJr.,https://test.m3u8
 Cbeebies,https://test.m3u8
 達文西,https://test.m3u8
+寶寶巴士,https://test.m3u8
+粉紅豬小妹,https://test.m3u8
+碰碰狐,https://test.m3u8
+貝樂虎,https://test.m3u8
+救援小英雄波力,https://test.m3u8
+汪汪隊立大功,https://test.m3u8
+兒童迪士尼,https://test.m3u8
+BeepBeep,https://test.m3u8
 
 
 TVBS新聞,rtmp://twcdn.top/sat/tv551
@@ -11408,7 +11451,14 @@ CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
 4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 
-
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
+碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
+貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
+救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
+汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
