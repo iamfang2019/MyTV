@@ -1,10 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:6a06451409fdeb50376db9ce5ef370db.png" group-title="新聞",header={fftoken:6a06451409fdeb50376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="新聞",壹電視新聞
+https://www.ttfly19lili.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:ce0a823ae21b5948376db9ce5ef370db.png" group-title="新聞",header={fftoken:ce0a823ae21b5948376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="新聞",壹電視新聞
+https://www.readworlder.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="新聞",壹電視新聞
 https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="新聞",壹電視新聞
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/壹電視新聞.png" group-title="新聞",壹電視新聞
 https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1151134121be1643376db9ce5ef370db.png" group-title="新聞",header={fftoken:1151134121be1643376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
+https://www.readworlder.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:bff5b914ce9ea366376db9ce5ef370db.png" group-title="新聞",header={fftoken:bff5b914ce9ea366376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
+https://www.ttfly19lili.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
@@ -23,6 +39,16 @@ http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&
 http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
 http://888.iptv543.com/Smartv.php?id=niandainews_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:da1432dd05a69b00376db9ce5ef370db.png" group-title="新聞",header={fftoken:da1432dd05a69b00376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
+https://www.readworlder.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:51f533a06214915f376db9ce5ef370db.png" group-title="新聞",header={fftoken:51f533a06214915f376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
+https://www.readworlder.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
 http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
@@ -47,10 +73,18 @@ http://livetv.skycf.eu.org/live.m3u8?c=9
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視新聞.png" group-title="新聞",華視新聞
 https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視新聞.png" group-title="新聞",華視新聞
 https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:59a9b5fdb0bec931376db9ce5ef370db.png" group-title="新聞",header={fftoken:59a9b5fdb0bec931376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
+https://www.readworlder.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
@@ -75,6 +109,16 @@ http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A5322211653222116&c
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
 http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:75bae7984565b476376db9ce5ef370db.png" group-title="新聞",header={fftoken:75bae7984565b476376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
+https://www.ttfly19lili.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:aeac3d4921b27b6f376db9ce5ef370db.png" group-title="新聞",header={fftoken:aeac3d4921b27b6f376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
+https://www.ttfly19lili.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
@@ -93,6 +137,16 @@ https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B
 https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
 http://livetv.skycf.eu.org/live.m3u8?c=12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:eda9a7f19c580d58376db9ce5ef370db.png" group-title="新聞",header={fftoken:eda9a7f19c580d58376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
+https://www.ttfly19lili.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:4c48fa1b39b5743a376db9ce5ef370db.png" group-title="新聞",header={fftoken:4c48fa1b39b5743a376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
+https://www.ttfly19lili.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
 rtmp://twcdn.top/sat/tv551
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
@@ -123,6 +177,14 @@ http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
 http://888.iptv543.com/Smartv.php?id=tvbs_n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:59efc437d2ed7e5f376db9ce5ef370db.png" group-title="新聞",header={fftoken:59efc437d2ed7e5f376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
+https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:c2c8a988b2acd7e3376db9ce5ef370db.png" group-title="新聞",header={fftoken:c2c8a988b2acd7e3376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
+https://f26.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
@@ -145,6 +207,8 @@ http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&t
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
 http://888.iptv543.com/Smartv.php?id=tvbs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
@@ -157,6 +221,8 @@ http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669
 http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
 http://888.iptv543.com/Smartv.php?id=ctinews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
 http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
@@ -185,6 +251,10 @@ http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=MA4A6092518160925181&ct=1
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
 http://888.iptv543.com/Smartv.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視新聞.png" group-title="新聞",台視新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視新聞.png" group-title="新聞",台視新聞
@@ -223,6 +293,12 @@ http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&c
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/非凡新聞.png" group-title="新聞",非凡新聞
 http://888.iptv543.com/Smartv.php?id=feifannews_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:6975e11788f9f347376db9ce5ef370db.png" group-title="新聞",header={fftoken:6975e11788f9f347376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
+https://www.readworlder.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
 rtmp://f13h.mine.nu:1935/sat/tv571
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
@@ -241,6 +317,10 @@ http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&
 http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
 http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:7f96f5d9b29d1ce6376db9ce5ef370db.png" group-title="新聞",header={fftoken:7f96f5d9b29d1ce6376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
+https://f03.ccbookcohky.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
 rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
@@ -265,6 +345,14 @@ http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=
 http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
 http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:083f43bb090819ef376db9ce5ef370db.png" group-title="新聞",header={fftoken:083f43bb090819ef376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
+https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:d2d5391def0b8ffe376db9ce5ef370db.png" group-title="新聞",header={fftoken:d2d5391def0b8ffe376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
+https://f21.unityanuc.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
@@ -289,6 +377,10 @@ https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:37e4deb22762a1fb376db9ce5ef370db.png" group-title="新聞",header={fftoken:37e4deb22762a1fb376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
+https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
@@ -315,6 +407,10 @@ http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&c
 http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 http://888.iptv543.com/Smartv.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:5155e4c38f7d5801376db9ce5ef370db.png" group-title="新聞",header={fftoken:5155e4c38f7d5801376db9ce5ef370db
+playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
+https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
@@ -355,6 +451,8 @@ http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=MFFF8863031988630319&ct=196
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛.png" group-title="新聞",大愛
 https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:1.png" group-title="新聞",header={fftoken:1
+playtoken:1}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="新聞",公視
 https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="新聞",公視
