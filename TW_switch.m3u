@@ -361,6 +361,10 @@ https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/header={fftoken:74230756f7dbf105376db9ce5ef370db.png" group-title="新聞",header={fftoken:74230756f7dbf105376db9ce5ef370db
+playtoken:b9e801f348a367332795d61326b0a272}
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
+https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視

@@ -49,6 +49,8 @@ header={fftoken:7f96f5d9b29d1ce6376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 民視,https://f03.ccbookcohky.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 header={fftoken:083f43bb090819ef376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:74230756f7dbf105376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+中視,https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 header={fftoken:1,playtoken:1}
 公視,https://www.youtube.com/watch?v=quwqlazU-c8
 綜合,#genre#
@@ -56,6 +58,8 @@ header={fftoken:7f96f5d9b29d1ce6376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 民視,https://f03.ccbookcohky.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 header={fftoken:083f43bb090819ef376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:74230756f7dbf105376db9ce5ef370db,playtoken:b9e801f348a367332795d61326b0a272}
+中視,https://f21.unityanuc.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 header={fftoken:1,playtoken:1}
 公視,https://www.youtube.com/watch?v=quwqlazU-c8
 header={fftoken:b851d105142111d9376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
@@ -77,6 +81,8 @@ header={fftoken:b41e75160a38f087376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25
 韓國娛樂,https://f05.eggonnetus.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 header={fftoken:33d3dbecf7754e55376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 華藝綜合,https://f07.googleling.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
+header={fftoken:de5186789bc71f72376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
+TVN,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 header={fftoken:8c6cc10cdb560263376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
 東森綜合,https://f05.eggonnetus.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
 header={fftoken:4d4e9f9fe47827c5376db9ce5ef370db,playtoken:1f9c79b5390c170e95b25c17b7a6f1bd}
