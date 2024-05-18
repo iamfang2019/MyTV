@@ -64,7 +64,7 @@ jobs:
 
           # Build Source 
           cp ./Old/rslt ./rslt
-          cat ./Source/rtmp ./UBSP ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
+          cat ./Source/rtmp  ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
           sed -i '/genre/d' ./TW
 
           chmod +x ./no_use
