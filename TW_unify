@@ -32,8 +32,6 @@ BestRadio好事935,http://live.cooltv.top/tv/bestradio_backup.php?id=4
 BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
 BestRadio港都983,http://live.cooltv.top/tv/bestradio_backup.php?id=3
 BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
-CATCHPLAY,https://f09.ibmfocus.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
-CATCHPLAY電影台,http://www.ubvip1688.com/ublive/51306c58d9e37e7e.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
@@ -58,7 +56,9 @@ CN卡通,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
 CN卡通,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+CatchPlay,https://f09.ibmfocus.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CatchPlay電影,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
+CatchPlay電影,http://www.ubvip1688.com/ublive/51306c58d9e37e7e.m3u8
 CatchPlay電影,http://www.ubvip1688.com/ublive/9561860b222a65c4.m3u8
 CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
@@ -94,6 +94,7 @@ ELEVEN體育2,p3p://108.181.20.159:09318/6025f1d0000440c783278efb13a4147e
 ELEVEN體育2,rtmp://f13h.mine.nu:1935/sat/tv741
 ELEVEN體育2,rtmp://twcdn.top/sat/tv741
 ELTV生活英語,http://www.ubvip1688.com/ublive/32eb1b45b6f09265.m3u8
+ELTV生活英語,http://www.ubvip1688.com/ublive/a6049b2363b0f481.m3u8
 ELTV生活英語,mitv://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
 ELTV生活英語,mitv://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
 ELTV生活英語,video://https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
@@ -245,6 +246,7 @@ TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496
 TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
 TVBS歡樂,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 TVBS歡樂,http://www.ubvip1688.com/ublive/4760cc635e088b87.m3u8
+TVBS歡樂,http://www.ubvip1688.com/ublive/74692e9766d57565.m3u8
 TVBS歡樂,https://f03.ccbookcohky.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 TVBS歡樂,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 TVBS歡樂,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
@@ -614,6 +616,8 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 博斯運動,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
 博斯運動,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
 博斯運動,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
+博斯運動,http://www.ubvip1688.com/ublive/32b1696a1ced386c.m3u8
+博斯運動,http://www.ubvip1688.com/ublive/9378c6f8685690c4.m3u8
 博斯運動,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
 博斯運動,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
@@ -794,6 +798,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 年代新聞,p3p://108.181.20.159:09318/5fe09fec000ac0127462c4ac6b1f16a3
 影迷數位電影,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
 影迷數位電影,http://www.ubvip1688.com/ublive/31d22433a62d3791.m3u8
+影迷數位電影,http://www.ubvip1688.com/ublive/df368a22eaefafbc.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/fa1d7d0c9e27391d.m3u8
 影迷數位電影,https://f05.eggonnetus.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
 影迷數位電影,https://f07.googleling.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
@@ -801,6 +806,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 影迷數位電影,p3p://108.181.20.159:09318/6223ae1b0007136f3e5c44280e3300fa
 影迷數位電影,video://https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
 復興電台,http://live.cooltv.top/tv/fhbs.php
+愛爾達娛樂,http://www.ubvip1688.com/ublive/9454b121a7539883.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/c95c282357e13278.m3u8
 愛爾達娛樂,https://f05.eggonnetus.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
@@ -878,6 +884,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 智林體育,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 智林體育,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f#P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 智林體育,http://www.ubvip1688.com/ublive/7859185bca107220.m3u8
+智林體育,http://www.ubvip1688.com/ublive/9b4fefd01ec1a8c5.m3u8
 智林體育,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 智林體育,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 智林體育,p3p://108.181.20.159:09318/62148d7e000079c103453a521daa6e9f
@@ -1206,6 +1213,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 達文西,mitv://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
+采昌影劇,http://www.ubvip1688.com/ublive/1639697c5f4de2b0.m3u8
 采昌影劇,http://www.ubvip1688.com/ublive/e481c07c8b0b2bee.m3u8
 采昌影劇,https://f06.fromonlinexcomf.com/live/rx1/2804/4919d2cc2740110f045fe9c49dfce484/index.m3u8
 采昌影劇,https://f09.ibmfocus.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
@@ -1229,6 +1237,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
 靖天卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
 靖天卡通,http://www.ubvip1688.com/ublive/2d6f54e6d6950e87.m3u8
+靖天卡通,http://www.ubvip1688.com/ublive/551a38542f14cf0b.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 靖天卡通,mitv://generationnexxxt.com:19806/0e27e5f319264b609ec810e126edf969
@@ -1241,6 +1250,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天國際,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC4C4774209747742097&ct=19669&tsum=c1ddabb0c97e09b0912fe2e26285edf4
 靖天國際,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC4C4774209747742097&ct=19669&tsum=c1ddabb0c97e09b0912fe2e26285edf4
 靖天國際,http://888.iptv543.com/Smartv.php?id=jingtianintl_twn
+靖天國際,http://www.ubvip1688.com/ublive/2f818e633fec0ffa.m3u8
 靖天國際,http://www.ubvip1688.com/ublive/74051736f4999c9b.m3u8
 靖天國際,https://f02.bootsaleuks.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 靖天國際,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
@@ -1250,6 +1260,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天國際,p3p://108.181.20.159:09318/612db8220006940e897960753ab534e9
 靖天國際,video://https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
 靖天國際,video://https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+靖天戲劇,http://www.ubvip1688.com/ublive/7160abec07024f8c.m3u8
 靖天戲劇,http://www.ubvip1688.com/ublive/81521da1ae2ae12d.m3u8
 靖天戲劇,https://f07.googleling.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
 靖天戲劇,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
@@ -1258,6 +1269,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 靖天戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 靖天日本,http://www.ubvip1688.com/ublive/158bba951794dd17.m3u8
+靖天日本,http://www.ubvip1688.com/ublive/22884bfb2e74d54e.m3u8
 靖天日本,https://f04.duckinfoint.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
@@ -1266,6 +1278,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天日本,p3p://108.181.20.159:09318/612db74f000c333c897629ac70920bef
 靖天日本,video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 靖天日本,video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+靖天綜合,http://www.ubvip1688.com/ublive/9446ec7a6996776d.m3u8
 靖天綜合,http://www.ubvip1688.com/ublive/aec4e1c245b98738.m3u8
 靖天綜合,https://www.abouthomex.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
 靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
@@ -1277,6 +1290,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天綜合,video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 靖天育樂,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
 靖天育樂,http://www.ubvip1688.com/ublive/21c0a74a579abc95.m3u8
+靖天育樂,http://www.ubvip1688.com/ublive/7bd6a1199b9f4f2e.m3u8
 靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 靖天育樂,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 靖天育樂,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
@@ -1286,6 +1300,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖天育樂,video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 靖天育樂,video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 靖天資訊,http://www.ubvip1688.com/ublive/777276b218482c70.m3u8
+靖天資訊,http://www.ubvip1688.com/ublive/a036083f55992ac8.m3u8
 靖天資訊,https://f04.duckinfoint.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
 靖天資訊,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
 靖天資訊,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
@@ -1304,6 +1319,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖洋卡通,video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 靖洋卡通,video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 靖洋戲劇,http://www.ubvip1688.com/ublive/4545e092209b87f9.m3u8
+靖洋戲劇,http://www.ubvip1688.com/ublive/549a2b901abdfb5e.m3u8
 靖洋戲劇,https://f07.googleling.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
@@ -1313,6 +1329,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 靖洋戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 靖洋戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 非凡商業,http://www.ubvip1688.com/ublive/3aadeb2e8a9c58e5.m3u8
+非凡商業,http://www.ubvip1688.com/ublive/45f634fa7b03f0d8.m3u8
 非凡商業,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 非凡商業,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 非凡商業,p3p://108.181.20.159:09318/621dbc3b00051ea5272370aa6e685347
@@ -1323,6 +1340,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 非凡新聞,http://888.iptv543.com/Smartv.php?id=feifannews_twn
+非凡新聞,http://www.ubvip1688.com/ublive/a36f422b759d232d.m3u8
 非凡新聞,http://www.ubvip1688.com/ublive/ee49c86977b9bb9d.m3u8
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
@@ -1357,6 +1375,7 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 龍華戲劇,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MFAF2923637229236372&ct=19669&tsum=d4597b8d4aab922aa0781d04911d9e84
 龍華戲劇,http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 龍華戲劇,http://www.ubvip1688.com/ublive/3e9781654f8dfbaf.m3u8
+龍華戲劇,http://www.ubvip1688.com/ublive/59bcabc87179cf45.m3u8
 龍華戲劇,https://f07.googleling.com/live/rx1/2796/984f753d16f195e08fb13cd5554aed4f/index.m3u8
 龍華戲劇,https://f21.unityanuc.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
