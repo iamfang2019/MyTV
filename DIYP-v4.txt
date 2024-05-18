@@ -1304,23 +1304,31 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 
 🦄4K-8K频道,#genre#
 北京纪实科教-8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-FTV-UHD 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV-4K 超高清,http://101.33.225.246:9999/iptv?type=cctv4k
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
-库尔德电影台4k,http://39.77.153.241:9981/stream/channelid/918481593?profile=pass
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-咪咕直播1-4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+北京IPTV淘电影,https://epg.pw/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
+欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 Loupe-4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Love Nrture-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion-4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Clarity-4K (2160p)HD,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 Fashion-4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-4K-UHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-4K-UHD,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 苏州-4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州-4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+
+CCTV3-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+BesTV-4K[IPV6],http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+爱上4K[IPV6],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+咪咕直播1-4K[IPV6],http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+CCTV8K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+江苏8K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+4K[IPV6],http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?blog.ntnas.top
+BesTV-4K[IPV6],http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+4K-UHD[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+4K-UHD[IPV6],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
 🦄国内体育,#genre#
