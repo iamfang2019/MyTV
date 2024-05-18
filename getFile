@@ -50,7 +50,7 @@ sed -n '/安博台灣/,//p' ./live.txt > UBSP
 set FP = "./UBSP"
 
 foreach file (./UBSP ./Source/ubvip1688)
-
+$FP = $file
 sed -i '/#genre#/d' $FP
 sed -i 's/台,/,/' $FP
 sed -i 's/TVN台灣版/tvN/' $FP
