@@ -59,6 +59,7 @@ sed -i 's/壹新聞/壹電視新聞/' $FP
 sed -i 's/一,/1,/' $FP
 sed -i 's/二,/2,/' $FP
 sed -i 's/CATCHPLAY/CatchPlay/' $FP
+sed -i 's/CatchPlay,/CatchPlay電影/' $FP
 sed -i 's/CineMAX/CINEMAX/' $FP
 
 
