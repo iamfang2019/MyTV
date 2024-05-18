@@ -18,7 +18,7 @@ foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
         #grep -B 1 -i $chk ./Source/UBSP_manual >> parsing_TW.$type  
          grep -B 1 -i $chk ./UBSP >> parsing_TW.$type
      #endif
-
+     grep -i $chk ./Source/ubvip1688 >> parsing_TW.$type
      grep -i $chk ./TW >> parsing_TW.$type  
    end
 end
