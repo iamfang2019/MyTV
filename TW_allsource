@@ -1240,7 +1240,7 @@ header={fftoken:ae87e1a91b8ecb87376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 好萊塢電影,http://888.iptv543.com/Smartv.php?id=hollywoodmovies_twn
 好萊塢電影,p3p://108.181.20.159:09318/62cee8b3000ea6aedb30a55616047866
 header={fftoken:38bd2c26dc8bc8d1376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
-CineMAX,https://f21.unityanuc.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://f21.unityanuc.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
@@ -1424,8 +1424,6 @@ header={fftoken:cdd0055e110fcc71376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 愛爾達體育4,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 愛爾達體育4,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 愛爾達體育4,p3p://108.181.20.159:09318/6561b7fc0008015996e9acc674481614
-博斯運動,http://www.ubvip1688.com/ublive/32b1696a1ced386c.m3u8
-博斯運動,http://www.ubvip1688.com/ublive/9378c6f8685690c4.m3u8
 博斯運動,P2p://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
 博斯運動,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
 博斯運動,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
@@ -1438,6 +1436,7 @@ header={fftoken:cdd0055e110fcc71376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 header={fftoken:53c4adc8ae1880e5376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+博斯運動2,http://www.ubvip1688.com/ublive/9378c6f8685690c4.m3u8
 博斯運動2,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
 博斯運動2,mitv://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
 博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MD9D1183485411834854&ct=19669&tsum=bec9cdaa7194d5d15f9e5bfd1c7ac23f
