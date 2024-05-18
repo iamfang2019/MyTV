@@ -48,9 +48,13 @@ echo "親子,#genre#" > b
 cat a parsing_TW.5_child >> TW_allsource
 cat a parsing_TW2.5_child >> TW_allsource2
 echo "廣播,#genre#" > a
+echo "廣播,#genre#" > b
 cat a parsing_TW.6_Radio >> TW_allsource
+cat b parsing_TW2.6_Radio >> TW_allsource2
 echo "BGM,#genre#" > a
+echo "BGM,#genre#" > b
 cat a parsing_TW.7_BGM >> TW_allsource
+cat b parsing_TW2.7_BGM >> TW_allsource2
 echo "其他,#genre#" > a
 echo "其他,#genre#" > b
 cat a parsing_TW.9_other>> TW_allsource
