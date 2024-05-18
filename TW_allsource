@@ -19,8 +19,8 @@
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 年代新聞,http://888.iptv543.com/Smartv.php?id=niandainews_twn
 年代新聞,p3p://108.181.20.159:09318/5fe09fec000ac0127462c4ac6b1f16a3
+東森新聞,http://www.ubvip1688.com/ublive/3c901afa4e46f8cc.m3u8
 東森新聞,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-東森新聞,http://www.ubvip1688.com/ublive/cb35d54b5ee491b8.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
@@ -124,6 +124,7 @@ header={fftoken:5d346a7740030fe0376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
 header={fftoken:3e845ea640c15635376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 TVBS,https://f04.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS,http://www.ubvip1688.com/ublive/36a8c1ce633dccfd.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
@@ -233,6 +234,7 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 東森財經,p3p://108.181.20.159:09318/61468bd70005123dea7373f226636dba
 header={fftoken:2e99745781fcd46d376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 民視,https://f02.bootsaleuks.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+民視,http://www.ubvip1688.com/ublive/f6638cb49f36d23d.m3u8
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
 民視,rtmp://twcdn.top/sat/tv051
@@ -259,6 +261,7 @@ header={fftoken:c28054879f85f0b4376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 台視,https://f22.ccplay22aldrich.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 header={fftoken:9c76a31f7e08223c376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 台視,https://f06.fromonlinexcomf.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+台視,http://www.ubvip1688.com/ublive/14f079f2b5e497b6.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
 台視,rtmp://twcdn.top/sat/tv071
@@ -281,6 +284,7 @@ header={fftoken:9c76a31f7e08223c376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 header={fftoken:2e7934a2d52fd0fe376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+中視,http://www.ubvip1688.com/ublive/fa8cb662041f7c41.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
 中視,rtmp://twcdn.top/sat/tv091
@@ -311,6 +315,7 @@ header={fftoken:2e7934a2d52fd0fe376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 header={fftoken:2bf8a2f330d69dcf376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
+華視,http://www.ubvip1688.com/ublive/0543dfc698258e3a.m3u8
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 華視,rtmp://220.130.201.73/sat/tv111
 華視,rtmp://twcdn.top/sat/tv111
@@ -373,6 +378,7 @@ header={fftoken:1,playtoken:1}
 綜合,#genre#
 header={fftoken:2e99745781fcd46d376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 民視,https://f02.bootsaleuks.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+民視,http://www.ubvip1688.com/ublive/f6638cb49f36d23d.m3u8
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
 民視,rtmp://twcdn.top/sat/tv051
@@ -399,6 +405,7 @@ header={fftoken:c28054879f85f0b4376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 台視,https://f22.ccplay22aldrich.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 header={fftoken:9c76a31f7e08223c376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 台視,https://f06.fromonlinexcomf.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+台視,http://www.ubvip1688.com/ublive/14f079f2b5e497b6.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
 台視,rtmp://twcdn.top/sat/tv071
@@ -421,6 +428,7 @@ header={fftoken:9c76a31f7e08223c376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 header={fftoken:2e7934a2d52fd0fe376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+中視,http://www.ubvip1688.com/ublive/fa8cb662041f7c41.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
 中視,rtmp://twcdn.top/sat/tv091
@@ -451,6 +459,7 @@ header={fftoken:2e7934a2d52fd0fe376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 header={fftoken:2bf8a2f330d69dcf376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
+華視,http://www.ubvip1688.com/ublive/0543dfc698258e3a.m3u8
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 華視,rtmp://220.130.201.73/sat/tv111
 華視,rtmp://twcdn.top/sat/tv111
@@ -756,6 +765,7 @@ header={fftoken:5d346a7740030fe0376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb
 TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
 header={fftoken:3e845ea640c15635376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 TVBS,https://f04.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS,http://www.ubvip1688.com/ublive/36a8c1ce633dccfd.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
@@ -978,6 +988,7 @@ MOMO綜合,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 MOMO綜合,mitv://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 Momo綜合,p3p://108.181.20.159:09318/621e17750005eaa02887cb6e61ea2a58
+台視財經,http://www.ubvip1688.com/ublive/6d99ca326f1d43b8.m3u8
 台視財經,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
 台視財經,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
 台視財經,http://www.ubvip1688.com/ublive/79a23bd41e3c43c1.m3u8
@@ -1110,6 +1121,7 @@ TV5MONDE,https://www.abouthomex.com/live/rx1/389/9e350a9c37c460a8fc1f3fe527b678d
 壹電影,p3p://108.181.20.159:09318/651c3a7e00035f9e8778a18d0aeb27f1
 header={fftoken:aa93cae35bcdb64d376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 CATCHPLAY,https://f09.ibmfocus.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CATCHPLAY電影台,http://www.ubvip1688.com/ublive/51306c58d9e37e7e.m3u8
 CatchPlay電影,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8'
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
@@ -1545,6 +1557,7 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 靖天卡通,video://https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
 靖天卡通,http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
 靖天卡通,p3p://108.181.20.159:09318/625b6d3800022fe9181c1ee5362c159d
+靖洋卡通,http://www.ubvip1688.com/ublive/d6f914cd27787a33.m3u8
 靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 靖洋卡通,mitv://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
 靖洋卡通,video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
@@ -1644,6 +1657,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 其他,#genre#
 header={fftoken:cb35c63531b9be27376db9ce5ef370db,playtoken:7a80967c96c8731ef82bb75dd777c64c}
 豬哥亮歌廳秀,https://f06.fromonlinexcomf.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
+豬哥亮歌廳秀,http://www.ubvip1688.com/ublive/892857692f3414f5.m3u8
 豬哥亮歌廳秀,http://www.ubvip1688.com/ublive/68b7f71b404dfaf0.m3u8
 豬哥亮歌廳秀,http://www.ubvip1688.com/ublive/0e1ccd9a6f04994b.m3u8
 豬哥亮歌廳秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
