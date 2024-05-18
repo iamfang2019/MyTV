@@ -63,5 +63,6 @@ sed -i 's/CATCHPLAY/CatchPlay/' $FP
 
 end
 
-mv ./upvip1688 ./Source/upvip1688
+mv ./ubvip1688 ./Source/ubvip1688
+rm -rf ./ubvip1688
 
