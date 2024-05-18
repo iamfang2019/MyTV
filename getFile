@@ -58,7 +58,10 @@ sed -i 's/ELTA/愛爾達/' $FP
 sed -i 's/壹新聞/壹電視新聞/' $FP
 sed -i 's/一,/,/' $FP
 sed -i 's/二,/,/' $FP
+sed -i 's/CATCHPLAY/CatchPlay/' $FP
 
 
 end
+
+mv ./upvip1688 ./Source/upvip1688
 
