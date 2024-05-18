@@ -1365,6 +1365,134 @@ http://www.ubvip1688.com/ublive/a88ca9c70803020e.m3u8
 http://www.ubvip1688.com/ublive/86af261c65940dd1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖洋卡通.png" group-title="親子",靖洋卡通
 https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM北部.png" group-title="廣播",HitFM北部
+http://live.cooltv.top/tv/hitfm_backup.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BestRadio好事989.png" group-title="廣播",BestRadio好事989
+http://live.cooltv.top/tv/bestradio_backup.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ICRT英語廣播電台.png" group-title="廣播",ICRT英語廣播電台
+http://live.leanstream.co/ICRTFM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM中部.png" group-title="廣播",HitFM中部
+http://live.cooltv.top/tv/hitfm_backup.php?id=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/KissRadio大眾廣播.png" group-title="廣播",KissRadio大眾廣播
+http://live.cooltv.top/tv/kissradio_backup.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中廣音樂網.png" group-title="廣播",中廣音樂網
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/PopRadio台北流行廣播.png" group-title="廣播",PopRadio台北流行廣播
+http://live.cooltv.top/tv/popradio_backup.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BestRadio好事903.png" group-title="廣播",BestRadio好事903
+http://live.cooltv.top/tv/bestradio_backup.php?id=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BestRadio港都983.png" group-title="廣播",BestRadio港都983
+http://live.cooltv.top/tv/bestradio_backup.php?id=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BestRadio好事935.png" group-title="廣播",BestRadio好事935
+http://live.cooltv.top/tv/bestradio_backup.php?id=4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM南部.png" group-title="廣播",HitFM南部
+http://live.cooltv.top/tv/hitfm_backup.php?id=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM宜蘭.png" group-title="廣播",HitFM宜蘭
+http://live.cooltv.top/tv/hitfm_backup.php?id=4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM花東.png" group-title="廣播",HitFM花東
+http://live.cooltv.top/tv/hitfm_backup.php?id=5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/PopRadio好聽廣播.png" group-title="廣播",PopRadio好聽廣播
+http://live.cooltv.top/tv/popradio_backup.php?id=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/PulseFM心動音樂電台.png" group-title="廣播",PulseFM心動音樂電台
+http://live.cooltv.top/tv/pulsefm.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/A-LineRadio網路音樂台.png" group-title="廣播",A-LineRadio網路音樂台
+http://live.cooltv.top/tv/alineradio_backup.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CityFM台南知音.png" group-title="廣播",CityFM台南知音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CityFM城市廣播.png" group-title="廣播",CityFM城市廣播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/南投廣播.png" group-title="廣播",南投廣播
+http://fm997.cityfm.tw:8080/997a.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台灣古典音樂台.png" group-title="廣播",台灣古典音樂台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BravoFM台北都會音樂台.png" group-title="廣播",BravoFM台北都會音樂台
+https://onair.bravo913.com.tw:9130/live.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台中古典音樂台.png" group-title="廣播",台中古典音樂台
+https://onair.family977.com.tw:8977/live.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/光華之聲.png" group-title="廣播",光華之聲
+http://live.cooltv.top/tv/kwongwah.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/漢聲廣播電台FM.png" group-title="廣播",漢聲廣播電台FM
+http://live.cooltv.top/tv/voh.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/漢聲廣播電台AM.png" group-title="廣播",漢聲廣播電台AM
+http://live.cooltv.top/tv/voh.php?id=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/復興電台.png" group-title="廣播",復興電台
+http://live.cooltv.top/tv/fhbs.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/環宇廣播.png" group-title="廣播",環宇廣播
+http://stream.rcs.revma.com/srn5f9kmwxhvv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/M-Radio全國廣播.png" group-title="廣播",M-Radio全國廣播
+http://stream.rcs.revma.com/044q61ha7a0uv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中廣新聞網.png" group-title="廣播",中廣新聞網
+http://n12.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中廣流行網.png" group-title="廣播",中廣流行網
+http://n14.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFM亞洲電台.png" group-title="廣播",AsiaFM亞洲電台
+http://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/News98新聞台.png" group-title="廣播",News98新聞台
+http://n12.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/飛碟電台.png" group-title="廣播",飛碟電台
+http://n08.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/全國治安交通台.png" group-title="廣播",全國治安交通台
+http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播高雄分台.png" group-title="廣播",警察廣播高雄分台
+http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播台北分台.png" group-title="廣播",警察廣播台北分台
+http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播台中分台.png" group-title="廣播",警察廣播台中分台
+http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播台南分台.png" group-title="廣播",警察廣播台南分台
+http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播台東分台.png" group-title="廣播",警察廣播台東分台
+http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播新竹分台.png" group-title="廣播",警察廣播新竹分台
+http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播花蓮分台.png" group-title="廣播",警察廣播花蓮分台
+http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/警察廣播宜蘭分台.png" group-title="廣播",警察廣播宜蘭分台
+http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/國立教育電台.png" group-title="廣播",國立教育電台
+http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台北廣播電台FM93.1.png" group-title="廣播",台北廣播電台FM93.1
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台北廣播電台AM1134.png" group-title="廣播",台北廣播電台AM1134
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台中廣播電台.png" group-title="廣播",台中廣播電台
+http://211.20.119.101:8081
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/正聲綜合.png" group-title="廣播",正聲綜合
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/正聲FM104.1.png" group-title="廣播",正聲FM104.1
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/澳門電台.png" group-title="廣播",澳門電台
+https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/輕鬆電台.png" group-title="廣播",輕鬆電台
+http://stream.rcs.revma.com/k41z6wadu5hvv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/寶島聯播網|寶島新聲.png" group-title="廣播",寶島聯播網|寶島新聲
+http://stream.superfm99-1.com.tw:8555
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/寶島聯播網|大千電台.png" group-title="廣播",寶島聯播網|大千電台
+http://stream.superfm99-1.com.tw:8554
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/RTI國語.png" group-title="廣播",RTI國語
+http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/飛特電台.png" group-title="廣播",飛特電台
+https://phate.io/listen.ogg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/正義電台.png" group-title="廣播",正義電台
+http://211.20.119.103:8081
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/太陽電台.png" group-title="廣播",太陽電台
+http://211.20.119.102:8081
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/青春線上.png" group-title="廣播",青春線上
+http://live.cooltv.top/tv/young.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFMHD音樂台.png" group-title="廣播",AsiaFMHD音樂台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFM亞洲熱歌台.png" group-title="廣播",AsiaFM亞洲熱歌台
+http://asiafm.net:8000/asiafmhot
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFM亞洲音樂台.png" group-title="廣播",AsiaFM亞洲音樂台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFM亞洲經典台.png" group-title="廣播",AsiaFM亞洲經典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaFM亞洲天空台.png" group-title="廣播",AsiaFM亞洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CafeMusicBGM.png" group-title="BGM",CafeMusicBGM
+https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HawaiianBGM.png" group-title="BGM",HawaiianBGM
+https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/豬哥亮歌廳秀.png" group-title="其他",豬哥亮歌廳秀
 http://www.ubvip1688.com/ublive/68b7f71b404dfaf0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/豬哥亮歌廳秀.png" group-title="其他",豬哥亮歌廳秀
