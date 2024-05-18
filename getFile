@@ -5,7 +5,7 @@ rm -rf ./live.txt
 
 wget https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live.txt
           
-
+grep -i "ubvip1688" ./Source/ubvip1688
 
 
 
@@ -49,6 +49,8 @@ sed -n '/安博台灣/,//p' ./live.txt > UBSP
 
 set FP = "./UBSP"
 
+foreach file (./UBSP ./Source/ubvip1688)
+
 sed -i '/#genre#/d' $FP
 sed -i 's/台,/,/' $FP
 sed -i 's/TVN台灣版/tvN/' $FP
@@ -56,4 +58,7 @@ sed -i 's/ELTA/愛爾達/' $FP
 sed -i 's/壹新聞/壹電視新聞/' $FP
 sed -i 's/一,/,/' $FP
 sed -i 's/二,/,/' $FP
+
+
+end
 
