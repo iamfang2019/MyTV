@@ -49,7 +49,10 @@ jobs:
 
          
           #./run_class
-          
+
+          #### 
+          chmod +x ./getFile
+          ./getFile
           
           #cat ./MYTV > ./MYTVs_t
           #cat ./MYTVs_t UBTV18 > ./MYTVs
@@ -61,11 +64,13 @@ jobs:
 
           # Build Source 
           cp ./Old/rslt ./rslt
-          cat ./Source/rtmp ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
+          cat ./Source/rtmp ./UBSP ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
           sed -i '/genre/d' ./TW
 
           chmod +x ./no_use
           ./no_use
+      
+
 
           chmod +x ./run_class
           ./run_class
