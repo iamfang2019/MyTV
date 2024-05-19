@@ -21,8 +21,6 @@ https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
 http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596&ct=19669&tsum=cda3508009cf499b0a6a27caa6002e2c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/年代新聞.png" group-title="新聞",年代新聞
-http://888.iptv543.com/Smartv.php?id=niandainews_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森新聞.png" group-title="新聞",東森新聞
@@ -69,8 +67,6 @@ http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A5322211653222116&ct
 http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A5322211653222116&ct=19669&tsum=255b505596375afee9be3255543388db
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視新聞.png" group-title="新聞",民視新聞
-http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png" group-title="新聞",三立新聞
@@ -117,8 +113,6 @@ http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&
 http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MDCD1752870117528701&ct=19669&tsum=b561100ade65f564e002eba32302dde8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png" group-title="新聞",TVBS新聞
-http://888.iptv543.com/Smartv.php?id=tvbs_n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
@@ -141,8 +135,6 @@ http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&ts
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="新聞",TVBS
-http://888.iptv543.com/Smartv.php?id=tvbs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
@@ -153,8 +145,6 @@ http://livetv.skycf.eu.org/live.m3u8?c=7
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
 http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天新聞.png" group-title="新聞",中天新聞
-http://888.iptv543.com/Smartv.php?id=ctinews
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
 http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
@@ -181,8 +171,6 @@ http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049
 http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=MA4A6092518160925181&ct=19669&tsum=5993390bf2bc1873e7dd4ffa99e8ebfc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視新聞.png" group-title="新聞",中視新聞
-http://888.iptv543.com/Smartv.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視新聞.png" group-title="新聞",台視新聞
 https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視新聞.png" group-title="新聞",台視新聞
@@ -219,8 +207,6 @@ http://www.ubvip1688.com/ublive/ee49c86977b9bb9d.m3u8
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/非凡新聞.png" group-title="新聞",非凡新聞
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MECE1295189112951891&ct=19669&tsum=bde430213cfa7c4e5772c37ffccc302b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/非凡新聞.png" group-title="新聞",非凡新聞
-http://888.iptv543.com/Smartv.php?id=feifannews_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
 rtmp://f13h.mine.nu:1935/sat/tv571
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
@@ -237,8 +223,6 @@ https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
 http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森財經.png" group-title="新聞",東森財經
-http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
 rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
@@ -263,8 +247,6 @@ https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
 http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="新聞",民視
-http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="新聞",台視
@@ -317,8 +299,6 @@ https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u
 http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
 http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="新聞",中視
-http://888.iptv543.com/Smartv.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
@@ -343,8 +323,6 @@ https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MFEF8590668885906688&ct=19669&tsum=f1aef5fd420ae4ee57ec8d0f70238ed1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
 http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MFEF8590668885906688&ct=19669&tsum=f1aef5fd420ae4ee57ec8d0f70238ed1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="新聞",華視
-http://888.iptv543.com/Smartv.php?id=ctshd_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛.png" group-title="新聞",大愛
 http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=MFFF8863031988630319&ct=19669&tsum=e15e09d96e238344e97a1672eca33cb5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛.png" group-title="新聞",大愛
@@ -373,8 +351,6 @@ https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="新聞",公視
 http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="新聞",公視
-http://888.iptv543.com/Smartv.php?id=ctv_taiwan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="綜合",民視
 rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="綜合",民視
@@ -399,8 +375,6 @@ https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="綜合",民視
 http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視.png" group-title="綜合",民視
-http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/台視.png" group-title="綜合",台視
@@ -453,8 +427,6 @@ https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u
 http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
 http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視.png" group-title="綜合",中視
-http://888.iptv543.com/Smartv.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="綜合",華視
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="綜合",華視
@@ -479,8 +451,6 @@ https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MFEF8590668885906688&ct=19669&tsum=f1aef5fd420ae4ee57ec8d0f70238ed1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="綜合",華視
 http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MFEF8590668885906688&ct=19669&tsum=f1aef5fd420ae4ee57ec8d0f70238ed1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華視.png" group-title="綜合",華視
-http://888.iptv543.com/Smartv.php?id=ctshd_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛.png" group-title="綜合",大愛
 http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=MFFF8863031988630319&ct=19669&tsum=e15e09d96e238344e97a1672eca33cb5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛.png" group-title="綜合",大愛
@@ -509,8 +479,6 @@ https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="綜合",公視
 http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/公視.png" group-title="綜合",公視
-http://888.iptv543.com/Smartv.php?id=ctv_taiwan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來綜合.png" group-title="綜合",緯來綜合
 https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來綜合.png" group-title="綜合",緯來綜合
@@ -533,8 +501,6 @@ http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=196
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大第一.png" group-title="綜合",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大第一.png" group-title="綜合",八大第一
-http://888.iptv543.com/Smartv.php?id=badafirst
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大綜合.png" group-title="綜合",八大綜合
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大綜合.png" group-title="綜合",八大綜合
@@ -553,8 +519,6 @@ http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=1
 http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MD4D5370566053705660&ct=19669&tsum=67561057f5713bb97c63281807a11364
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大綜合.png" group-title="綜合",八大綜合
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大綜合.png" group-title="綜合",八大綜合
-http://888.iptv543.com/Smartv.php?id=badazhonghe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立台灣.png" group-title="綜合",三立台灣
 https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立台灣.png" group-title="綜合",三立台灣
@@ -597,8 +561,6 @@ http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MEFE2533125325331253&ct
 http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MEFE2533125325331253&ct=19669&tsum=da7eb6c2ccede07a40e6f0bbefa14d05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立戲劇.png" group-title="綜合",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/三立戲劇.png" group-title="綜合",三立戲劇
-http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/韓國娛樂.png" group-title="綜合",韓國娛樂
 https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華藝綜合.png" group-title="綜合",華藝綜合
@@ -625,8 +587,6 @@ https://z88.ubtvfans.com/live/rx1/372/0c714ce5b680b8d96604ec36804f1f86/index.m3u
 http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森綜合.png" group-title="綜合",東森綜合
 http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森綜合.png" group-title="綜合",東森綜合
-http://888.iptv543.com/Smartv.php?id=ettvzhonghe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森超視.png" group-title="綜合",東森超視
 rtmp://f13h.mine.nu:1935/sat/tv331
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森超視.png" group-title="綜合",東森超視
@@ -647,8 +607,6 @@ http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=196
 http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=19669&tsum=6a4d4ee150db69023af59ea067f116ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森超視.png" group-title="綜合",東森超視
 http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森超視.png" group-title="綜合",東森超視
-http://888.iptv543.com/Smartv.php?id=ettvsuper
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達影劇.png" group-title="綜合",愛爾達影劇
 http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=MC4C4531871445318714&ct=19669&tsum=636d7429c84f97e97fba49027358951a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達影劇.png" group-title="綜合",愛爾達影劇
@@ -687,8 +645,6 @@ https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天綜合.png" group-title="綜合",中天綜合
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天綜合.png" group-title="綜合",中天綜合
-http://888.iptv543.com/Smartv.php?id=ctizhonghe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天娛樂.png" group-title="綜合",中天娛樂
 http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天娛樂.png" group-title="綜合",中天娛樂
@@ -703,8 +659,6 @@ https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天娛樂.png" group-title="綜合",中天娛樂
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中天娛樂.png" group-title="綜合",中天娛樂
-http://888.iptv543.com/Smartv.php?id=ctient
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森戲劇.png" group-title="綜合",東森戲劇
 http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森戲劇.png" group-title="綜合",東森戲劇
@@ -719,8 +673,6 @@ https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MD1D6099891960998919&ct=19669&tsum=2dcc084ffef9ad5a15ddb627e93ef0a8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森戲劇.png" group-title="綜合",東森戲劇
 http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MD1D6099891960998919&ct=19669&tsum=2dcc084ffef9ad5a15ddb627e93ef0a8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森戲劇.png" group-title="綜合",東森戲劇
-http://888.iptv543.com/Smartv.php?id=ettvdrama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大戲劇.png" group-title="綜合",八大戲劇
 http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大戲劇.png" group-title="綜合",八大戲劇
@@ -739,8 +691,6 @@ http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=196
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大戲劇.png" group-title="綜合",八大戲劇
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/八大戲劇.png" group-title="綜合",八大戲劇
-http://888.iptv543.com/Smartv.php?id=badadrama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS歡樂.png" group-title="綜合",TVBS歡樂
 rtmp://f13h.mine.nu:1935/sat/tv421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS歡樂.png" group-title="綜合",TVBS歡樂
@@ -757,8 +707,6 @@ https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS歡樂.png" group-title="綜合",TVBS歡樂
 http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS歡樂.png" group-title="綜合",TVBS歡樂
-http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="綜合",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="綜合",TVBS
@@ -781,8 +729,6 @@ http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&ts
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="綜合",TVBS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS.png" group-title="綜合",TVBS
-http://888.iptv543.com/Smartv.php?id=tvbs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來戲劇.png" group-title="綜合",緯來戲劇
 https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來戲劇.png" group-title="綜合",緯來戲劇
@@ -847,8 +793,6 @@ http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&c
 http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/EYETV戲劇.png" group-title="綜合",EYETV戲劇
 http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/EYETV戲劇.png" group-title="綜合",EYETV戲劇
-http://888.iptv543.com/Smartv.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍華戲劇.png" group-title="綜合",龍華戲劇
 https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍華戲劇.png" group-title="綜合",龍華戲劇
@@ -863,8 +807,6 @@ https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MFAF2923637229236372&ct=19669&tsum=d4597b8d4aab922aa0781d04911d9e84
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍華戲劇.png" group-title="綜合",龍華戲劇
 http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MFAF2923637229236372&ct=19669&tsum=d4597b8d4aab922aa0781d04911d9e84
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/龍華戲劇.png" group-title="綜合",龍華戲劇
-http://888.iptv543.com/Smartv.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視經典.png" group-title="綜合",中視經典
 https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視經典.png" group-title="綜合",中視經典
@@ -877,8 +819,6 @@ https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u
 http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視經典.png" group-title="綜合",中視經典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視經典.png" group-title="綜合",中視經典
-http://888.iptv543.com/Smartv.php?id=zhongshi_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視菁采.png" group-title="綜合",中視菁采
 https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/中視菁采.png" group-title="綜合",中視菁采
@@ -905,8 +845,6 @@ https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
 http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MFFF6400821264008212&ct=19669&tsum=d84df001b6a0178d0b831108abf1fdf2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視第一.png" group-title="綜合",民視第一
 http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MFFF6400821264008212&ct=19669&tsum=d84df001b6a0178d0b831108abf1fdf2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視第一.png" group-title="綜合",民視第一
-http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視台灣.png" group-title="綜合",民視台灣
 https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/民視台灣.png" group-title="綜合",民視台灣
@@ -993,8 +931,6 @@ https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC4C4774209747742097&ct=19669&tsum=c1ddabb0c97e09b0912fe2e26285edf4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天國際.png" group-title="綜合",靖天國際
 http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC4C4774209747742097&ct=19669&tsum=c1ddabb0c97e09b0912fe2e26285edf4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天國際.png" group-title="綜合",靖天國際
-http://888.iptv543.com/Smartv.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天育樂.png" group-title="綜合",靖天育樂
 https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天育樂.png" group-title="綜合",靖天育樂
@@ -1015,6 +951,8 @@ http://www.ubvip1688.com/ublive/9561860b222a65c4.m3u8
 http://www.ubvip1688.com/ublive/d7568c127ceedca2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大爱2台.png" group-title="電影",大爱2台
+http://23.224.232.221:81/kk.php?id=catchplay_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
@@ -1025,8 +963,6 @@ https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森電影.png" group-title="電影",東森電影
-http://888.iptv543.com/Smartv.php?id=ettvmovie
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="電影",緯來電影
 https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來電影.png" group-title="電影",緯來電影
@@ -1087,8 +1023,6 @@ https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
 http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
-http://888.iptv543.com/Smartv.php?id=axn_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="電影",好萊塢電影
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="電影",好萊塢電影
@@ -1097,8 +1031,6 @@ http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F686236416862
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="電影",好萊塢電影
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/好萊塢電影.png" group-title="電影",好萊塢電影
-http://888.iptv543.com/Smartv.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
@@ -1110,7 +1042,7 @@ http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
-http://888.iptv543.com/Smartv.php?id=cinemax_twn
+http://23.224.232.221:81/kk.php?id=cinemax_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
@@ -1191,8 +1123,6 @@ http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育1.png" group-title="體育",ELEVEN體育1
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育1.png" group-title="體育",ELEVEN體育1
-http://888.iptv543.com/Smartv.php?id=golfchannel_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育2.png" group-title="體育",ELEVEN體育2
 rtmp://f13h.mine.nu:1935/sat/tv741
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育2.png" group-title="體育",ELEVEN體育2
@@ -1207,10 +1137,6 @@ https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u
 http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育1.png" group-title="體育",愛爾達體育1
 https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育1.png" group-title="體育",愛爾達體育1
-http://888.iptv543.com/Smartv.php?id=eltasport2_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育1.png" group-title="體育",愛爾達體育1
-http://888.iptv543.com/Smartv.php?id=eltasport_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育2.png" group-title="體育",愛爾達體育2
 http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育2.png" group-title="體育",愛爾達體育2
@@ -1221,8 +1147,6 @@ http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
 http://50.7.238.114:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育2.png" group-title="體育",愛爾達體育2
 http://198.16.100.90:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育2.png" group-title="體育",愛爾達體育2
-http://888.iptv543.com/Smartv.php?id=eltasport2_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育3.png" group-title="體育",愛爾達體育3
 rtmp://f13h.mine.nu:1935/sat/md051
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育3.png" group-title="體育",愛爾達體育3
@@ -1271,8 +1195,6 @@ https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MD9D1183485411834854&ct=19669&tsum=bec9cdaa7194d5d15f9e5bfd1c7ac23f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯運動2.png" group-title="體育",博斯運動2
 http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=MD9D1183485411834854&ct=19669&tsum=bec9cdaa7194d5d15f9e5bfd1c7ac23f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯運動2.png" group-title="體育",博斯運動2
-http://888.iptv543.com/Smartv.php?id=bosisport2_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯高球.png" group-title="體育",博斯高球
 http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&ct=19669&tsum=fff9c937a1847e23614b3936a0ecd27d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯高球.png" group-title="體育",博斯高球
@@ -1289,8 +1211,6 @@ http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&c
 http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯高球2.png" group-title="體育",博斯高球2
 http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯高球2.png" group-title="體育",博斯高球2
-http://888.iptv543.com/Smartv.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯網球.png" group-title="體育",博斯網球
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯網球.png" group-title="體育",博斯網球
@@ -1299,8 +1219,6 @@ http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯網球.png" group-title="體育",博斯網球
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯網球.png" group-title="體育",博斯網球
-http://888.iptv543.com/Smartv.php?id=bositennis_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯魅力.png" group-title="體育",博斯魅力
 rtmp://f13h.mine.nu:1935/sat/md031
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯魅力.png" group-title="體育",博斯魅力
@@ -1355,8 +1273,6 @@ https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天卡通.png" group-title="親子",靖天卡通
 http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖天卡通.png" group-title="親子",靖天卡通
-http://888.iptv543.com/Smartv.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖洋卡通.png" group-title="親子",靖洋卡通
 https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖洋卡通.png" group-title="親子",靖洋卡通
