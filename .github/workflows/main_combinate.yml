@@ -92,6 +92,7 @@ jobs:
           rm -rf TW4
           rm -rf TW5
           rm -rf ./rslt
+          rm -rf ./live.txt
 
                 
           # Create Generate TXT to m3u Source
