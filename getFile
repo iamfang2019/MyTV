@@ -70,4 +70,5 @@ end
 
 mv ./ubvip1688 ./Source/ubvip1688
 rm -rf ./ubvip1688
+rm -rf ./6df8af2d858ae0c4
 
