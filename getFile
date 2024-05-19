@@ -6,6 +6,7 @@ rm -rf ./live.txt
 #wget https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live.txt
 wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76c053b24/6df8af2d858ae0c4
 
+mv 6df8af2d858ae0c4 live.txt
 
 grep -i "ubvip1688" ./live.txt > ./ubvip1688
 
