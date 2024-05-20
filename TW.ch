@@ -1038,43 +1038,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -2242,6 +2212,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 新聞,#genre#
 壹電視新聞,https://test.m3u8
@@ -3138,43 +3126,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -4342,6 +4300,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 綜合,#genre#
 民視,https://test.m3u8
@@ -5289,43 +5265,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -6493,6 +6439,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 電影,#genre#
 壹電影,https://test.m3u8
@@ -7390,43 +7354,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -8594,6 +8528,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 體育,#genre#
 緯來育樂,https://test.m3u8
@@ -9490,43 +9442,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -10694,6 +10616,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 親子,#genre#
 CN卡通,https://test.m3u8
@@ -11591,43 +11531,13 @@ MOMO購物2,https://www.youtube.com/watch?v=xbNWkUyxQGM
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoroStudio,https://www.youtube.com/watch?v=zaXULnWg2C4
-
-TheGoodLife,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxingJazz,https://www.youtube.com/watch?v=tvuOE6Jdw9E
-CoffeeWorkspace,https://www.youtube.com/watch?v=xSLfb3xGUy0
-4KScenicRelaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
-
-
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=MldHzq1ff1Y
-碰碰狐,https://www.youtube.com/watch?v=eoNVlLsYzQ8
-貝樂虎,https://www.youtube.com/watch?v=00xkH3L1v7Y
-救援小英雄波力,https://www.youtube.com/watch?v=vF64_PaOh5M
-汪汪隊立大功,https://www.youtube.com/watch?v=2_vVCIHRQJ0
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
 
 
 
 
 
 //UBTV
-
-
-
-
-
-
-
-
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -12795,6 +12705,24 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=k8e4MjVKFZc
+YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
+MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=-VBxijFm50Y
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
+GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
+BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeWorkspace,https://www.youtube.com/watch?v=rLLdzwlefsI
+4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
