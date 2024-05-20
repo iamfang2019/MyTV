@@ -1,5 +1,6 @@
 AXN,http://23.224.232.221:81/kk.php?id=axn_twn
 CINEMAX,http://23.224.232.221:81/kk.php?id=cinemax_twn
+CatchPlay電影,http://23.224.232.221:81/kk.php?id=catchplay_twn
 EYETV戲劇,http://23.224.232.221:81/kk.php?id=eyetvxiju_twn
 EYETV旅遊,http://23.224.232.221:81/kk.php?id=eyetvtravel_twn
 HBO,http://23.224.232.221:81/kk.php?id=hbohd_twn
@@ -37,7 +38,6 @@ Taiwan,#genre#
 台視新聞,http://23.224.232.221:81/kk.php?id=ttvnews_twn
 台視綜合,http://23.224.232.221:81/kk.php?id=ttvzhonghe_twn
 大愛1,http://23.224.232.221:81/kk.php?id=daai_twn
-大愛2,http://23.224.232.221:81/kk.php?id=catchplay_twn
 好消息2,http://23.224.232.221:81/kk.php?id=goods_twn
 好萊塢電影,http://23.224.232.221:81/kk.php?id=hollywoodmovies_twn
 寰宇新聞,http://23.224.232.221:81/kk.php?id=huanyuxinwen_twn

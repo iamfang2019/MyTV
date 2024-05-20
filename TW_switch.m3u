@@ -1006,8 +1006,6 @@ http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛2.png" group-title="綜合",大愛2
 http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛2.png" group-title="綜合",大愛2
-http://23.224.232.221:81/kk.php?id=catchplay_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛2.png" group-title="綜合",大愛2
 http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛2.png" group-title="綜合",大愛2
 http://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -1103,7 +1101,7 @@ https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3
 http://www.ubvip1688.com/ublive/aadb298d651c7234.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/大愛2.png" group-title="電影",大愛2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 http://23.224.232.221:81/kk.php?id=catchplay_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8

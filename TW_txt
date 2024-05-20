@@ -503,7 +503,6 @@ EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC922446
 民視台灣,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MC5C8343639283436392&ct=19669&tsum=6719775e0c2ba669393ffffc9a4725bb
 大愛2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛2,http://23.224.232.221:81/kk.php?id=catchplay_twn
 大愛2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 公視3,https://lsj.37o.xyz/histar.php?id=pts-3
@@ -553,7 +552,7 @@ ELTV生活英語,http://www.ubvip1688.com/ublive/d71aadfadad6b617.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 CatchPlay電影,http://www.ubvip1688.com/ublive/aadb298d651c7234.m3u8
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
-大愛2,http://23.224.232.221:81/kk.php?id=catchplay_twn
+CatchPlay電影,http://23.224.232.221:81/kk.php?id=catchplay_twn
 CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
