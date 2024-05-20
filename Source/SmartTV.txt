@@ -80,3 +80,4 @@ EYETV戲劇,http://23.224.232.221:81/kk.php?id=eyetvxiju_twn
 愛爾達體育2,http://23.224.232.221:81/kk.php?id=eltasport2_twn
 愛爾達體育3,http://23.224.232.221:81/kk.php?id=eltasport3_twn
 亞洲旅遊,http://23.224.232.221:81/kk.php?id=asiatravel_twn
+StarMovies,http://23.224.232.221:81/kk.php?id=starmovies_raj
