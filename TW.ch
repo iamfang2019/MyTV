@@ -2212,11 +2212,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -2227,7 +2231,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
@@ -4300,11 +4304,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -4315,7 +4323,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
@@ -6439,11 +6447,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -6454,7 +6466,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
@@ -8528,11 +8540,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -8543,7 +8559,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
@@ -10616,11 +10632,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -10631,7 +10651,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
@@ -12705,11 +12725,15 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=5OBjRatrCXk
+粉紅豬小妹,https://www.youtube.com/watch?v=YB-8Ohla_QA
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -12720,7 +12744,7 @@ GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
 BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=_TuNmPoYvPg
+CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
 CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 安博,#genre#
@@ -13177,6 +13201,9 @@ AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 BGM,#genre#
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 
 
 UBTV18,#genre#
