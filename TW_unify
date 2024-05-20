@@ -1,6 +1,8 @@
 A-LineRadio網路音樂台,http://live.cooltv.top/tv/alineradio_backup.php
 AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC最愛電影,http://www.ubvip1688.com/ublive/a690e14ce93de161.m3u8
+AMC最愛電影,https://f07.googleling.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
@@ -12,6 +14,7 @@ AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=
 AXN,http://23.224.232.221:81/kk.php?id=axn_twn
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
+AXN,https://f06.fromonlinexcomf.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
@@ -101,6 +104,7 @@ EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC922446
 EYETV戲劇,http://23.224.232.221:81/kk.php?id=eyetvxiju_twn
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
+EYETV戲劇,https://f07.googleling.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
 EYETV戲劇,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 EYETV戲劇,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
@@ -254,6 +258,7 @@ TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS精彩,p3p://108.181.20.159:09318/61efd0a100047e1a7f9fa38d29f5746d
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
+WARNERTV,https://f04.duckinfoint.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
@@ -261,6 +266,7 @@ WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,p3p://108.181.20.159:09318/623a7c43000859b0977039e0175b0470
 header={fftoken:05acfb93bcdd3bd2376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:0661fe044d6880ec376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
+header={fftoken:08d2b82217baff21376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:0b620c9cf74372d5376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:0cab1700726d642a376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:0d371ae48f9e8a3a376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
@@ -281,12 +287,14 @@ header={fftoken:3c891073317543eb376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8
 header={fftoken:3e962c8bda8b706b376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:3fcd7a88de672896376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:3ff20c910f4d8509376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
+header={fftoken:41a8298fb41729fb376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:49312422b1461703376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:4ad1c245a4ce254d376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:4b8e93875107e54a376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:505af66658cc6028376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:50d783099f5793f8376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:51bce60a2800949c376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
+header={fftoken:5231eba5327f2080376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:53969ea69b466b1f376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:55edec5399005d18376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:582e9cbfc341bf52376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
@@ -325,6 +333,7 @@ header={fftoken:b99c423d36dc83bb376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8
 header={fftoken:bf4fe97e651bcb7d376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:c016d40c48325cea376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:c2226a051726206f376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
+header={fftoken:c54b42e014c5e859376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:ccc050e82c5aa01d376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:ce42e04fe4d02876376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
 header={fftoken:cfecccb5c2e1efe7376db9ce5ef370db,playtoken:a1478f3738d243fb59cb8675d3cbcd5e}
