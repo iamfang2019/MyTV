@@ -2220,7 +2220,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -2232,7 +2231,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 新聞,#genre#
@@ -4312,7 +4311,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -4324,7 +4322,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 綜合,#genre#
@@ -6455,7 +6453,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -6467,7 +6464,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 電影,#genre#
@@ -8548,7 +8545,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -8560,7 +8556,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 體育,#genre#
@@ -10640,7 +10636,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -10652,7 +10647,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 親子,#genre#
@@ -12733,7 +12728,6 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-貝樂虎,https://www.youtube.com/watch?v=A199_hkWA3A
 救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
@@ -12745,7 +12739,7 @@ BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
 CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=VMiro4QBoQs
-CoffeeWorkspace,https://www.youtube.com/watch?v=YLYQ4n-Dxkk
+CoffeeWorkspace,https://www.youtube.com/watch?v=D8ZZA6XyyAY
 4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
