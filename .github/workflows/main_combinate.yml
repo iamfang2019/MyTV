@@ -64,7 +64,7 @@ jobs:
 
           # Build Source 
           cp ./Old/rslt ./rslt
-          cat ./Source/rtmp  ./Source/P2P ./rslt ./Source/SmartTV.txt ./Source/histar ./tw.src  ./Source/P3P ./Source/radio ./Source/BGM > TW
+          cat ./Source/rtmp  ./Source/P2P ./rslt ./Source/SmartTV.txt ./Source/histar ./tw.src  ./Source/P3P ./Source/radio ./Source/BGM ./child.c ./music.c > TW
           sed -i '/genre/d' ./TW
 
           #chmod +x ./no_use
@@ -93,6 +93,7 @@ jobs:
           rm -rf TW5
           rm -rf ./rslt
           rm -rf ./live.txt
+          rm -rf *.c
 
                 
           # Create Generate TXT to m3u Source
