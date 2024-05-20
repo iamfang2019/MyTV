@@ -34,7 +34,7 @@ echo $keyLineNum
 
 sed -n '/安博台灣/,//p' ./live.txt > UBSP
 
-sed -i 's/HBO Hits,/HBO強檔鉅獻,/' ./UBSP
+sed -i 's/HBO Hits #330,/HBO強檔鉅獻,/' ./UBSP
 sed -i 's/HBOSignature,/HBO原創鉅獻,/'.UBSP
 
 sed -i '/探索科學/d' ./UBSP
@@ -81,6 +81,7 @@ sed -i 's/AXN亞洲,/AXN,/' $FP
 sed -i 's/AMC,/AMC最愛電影,/' $FP
 sed -i 's/AMC電影,/AMC最愛電影,/' $FP
 sed -i 's/華納電影,/WARNERTV,/' $FP
+sed -i 's/八大第1,/八大第一,/' $FP
 
 
 
