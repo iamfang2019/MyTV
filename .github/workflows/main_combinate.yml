@@ -64,7 +64,7 @@ jobs:
 
           # Build Source 
           cp ./Old/rslt ./rslt
-          cat ./Source/rtmp  ./Source/P2P ./rslt ./tw.src ./Source/SmartTV.txt  ./Source/P3P ./Source/radio ./Source/BGM > TW
+          cat ./Source/rtmp  ./Source/P2P ./rslt ./Source/SmartTV.txt ./Source/histar ./tw.src  ./Source/P3P ./Source/radio ./Source/BGM > TW
           sed -i '/genre/d' ./TW
 
           #chmod +x ./no_use
@@ -84,7 +84,7 @@ jobs:
           cat ./5_child ./TW > TW5
 
           # Cascade all 
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P ./Source/bsexSmartTV ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
           rm -rf TW0
           rm -rf TW1
           rm -rf TW2
