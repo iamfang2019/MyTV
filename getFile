@@ -10,6 +10,9 @@ mv ./6df8af2d858ae0c4 ./live.txt
 
 grep -i "ubvip1688" ./live.txt > ./ubvip1688
 
+sed -n '/兒童頻道/,/台灣電視/p' ./live.txt > ./child.c
+sed -n '/音樂串流/,/即時影像/p' ./live.txt > ./music.c
+
 
 
 #set lineEndNum = `wc -l ./live.txt`
