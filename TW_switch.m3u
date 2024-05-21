@@ -1348,6 +1348,8 @@ https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育4.png" group-title="體育",愛爾達體育4
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MAAA1894400518944005&ct=19669&tsum=6bb5ed729263ca3e4af7e1c03fb9cd4b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育4.png" group-title="體育",愛爾達體育4
+http://23.224.232.221:81/kk.php?id=natgeowild_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育4.png" group-title="體育",愛爾達體育4
 https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/博斯運動.png" group-title="體育",博斯運動
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
@@ -1467,6 +1469,150 @@ http://www.ubvip1688.com/ublive/a2b1d38b38532a9a.m3u8
 https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/靖洋卡通.png" group-title="親子",靖洋卡通
 https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://23.224.232.221:81/kk.php?id=animalplanet_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryAsia.png" group-title="知旅",DiscoveryAsia
+http://23.224.232.221:81/kk.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryHD.png" group-title="知旅",DiscoveryHD
+http://23.224.232.221:81/kk.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaTravel.png" group-title="知旅",AsiaTravel
+http://23.224.232.221:81/kk.php?id=asiatravel_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/NatGeoWildHD.png" group-title="知旅",NatGeoWildHD
+http://23.224.232.221:81/kk.php?id=Natgeowild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthHD.png" group-title="知旅",BBCEarthHD
+http://23.224.232.221:81/kk.php?id=bbcearth_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthLifestyle.png" group-title="知旅",BBCEarthLifestyle
+http://23.224.232.221:81/kk.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthHD.png" group-title="知旅",BBCEarthHD
+http://23.224.232.221:81/kk.php?id=bbcearth_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthLifestyle.png" group-title="知旅",BBCEarthLifestyle
+http://23.224.232.221:81/kk.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/TLC.png" group-title="知旅",TLC
+http://23.224.232.221:81/kk.php?id=Tlc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲美食.png" group-title="知旅",亞洲美食
+http://23.224.232.221:81/kk.php?id=afc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲美食.png" group-title="知旅",亞洲美食
+http://23.224.232.221:81/kk.php?id=afc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://23.224.232.221:81/kk.php?id=foodplanet_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://23.224.232.221:81/kk.php?id=foodplanet_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/美食星球.png" group-title="知旅",美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://www.ubvip1688.com/ublive/08d9c6745272d7d3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=tlc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=asiatravel_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=tlc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=asiatravel_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://www.ubvip1688.com/ublive/08d9c6745272d7d3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=tlc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=asiatravel_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=tlc_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://23.224.232.221:81/kk.php?id=asiatravel_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/亞洲旅遊.png" group-title="知旅",亞洲旅遊
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MCAC9181306891813068&ct=19669&tsum=9fef2cc65947fb4aabef93864043af60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/FashionTV.png" group-title="知旅",FashionTV
+http://23.224.232.221:81/kk.php?id=fashiontv_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/FashionTV.png" group-title="知旅",FashionTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/時尚台FTV.png" group-title="知旅",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/FashionTV.png" group-title="知旅",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTVLive.png" group-title="知旅",MTVLive
+http://23.224.232.221:81/kk.php?id=mtvhd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTVLive.png" group-title="知旅",MTVLive
+http://23.224.232.221:81/kk.php?id=mtvhd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/FoodnetworkHd.png" group-title="知旅",FoodnetworkHd
+http://23.224.232.221:81/kk.php?id=Foodnetwork_mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CRIME.png" group-title="知旅",CRIME
+http://23.224.232.221:81/kk.php?id=ci_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/History.png" group-title="知旅",History
+http://23.224.232.221:81/kk.php?id=History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/outdoor.png" group-title="知旅",outdoor
+https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Outdoor.png" group-title="知旅",Outdoor
+http://23.224.232.221:81/kk.php?id=Natgeo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HGTV.png" group-title="知旅",HGTV
+http://23.224.232.221:81/kk.php?id=HGTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DMAX.png" group-title="知旅",DMAX
+http://23.224.232.221:81/kk.php?id=natgeohd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DMAX.png" group-title="知旅",DMAX
+https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM北部.png" group-title="廣播",HitFM北部
 http://live.cooltv.top/tv/hitfm_backup.php?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BestRadio好事989.png" group-title="廣播",BestRadio好事989
