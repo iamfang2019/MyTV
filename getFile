@@ -40,7 +40,8 @@ sed -i 's/HBOSignature,/HBO原創鉅獻,/'.UBSP
 #sed -i '/探索科學/d' ./UBSP
 sed -i 's/探索科學/DiscorveryScience/' ./UBSP
 #sed -i '/探索頻道/d' ./UBSP
-sed -i 's/探索頻道/DiscoveryHD/' ./UBSP
+sed -i 's/探索頻道 #1035,/DiscoveryHD/' ./UBSP
+sed -i 's/探索頻道 #2817,/DiscoveryHD/' ./UBSP
 sed -i '/CBN歡笑劇場/d' ./UBSP
 sed -i '/天映經典/d' ./UBSP
 sed -i '/靖天映畫/d' ./UBSP
