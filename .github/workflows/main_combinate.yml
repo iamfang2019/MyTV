@@ -105,7 +105,7 @@ jobs:
 
           LANG=GBK; sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
 
-          #rm -rf ./UBSP
+          rm -rf ./UBSP
 
 
       - name: Set up Python
