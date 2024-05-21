@@ -38,7 +38,7 @@ sed -i 's/HBO Hits #330,/HBO強檔鉅獻,/' ./UBSP
 sed -i 's/HBOSignature,/HBO原創鉅獻,/'.UBSP
 
 #sed -i '/探索科學/d' ./UBSP
-sed -i 's/DiscorveryScience/' ./UBSP
+sed -i 's/探索科學/DiscorveryScience/' ./UBSP
 #sed -i '/探索頻道/d' ./UBSP
 sed -i 's/探索頻道/DiscoveryHD/' ./UBSP
 sed -i '/CBN歡笑劇場/d' ./UBSP
