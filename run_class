@@ -5,7 +5,7 @@
 
 #wget https://raw.githubusercontent.com/linitfor/taclive/main/UBSP
 
-foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Know 6_Radio 7_BGM 9_other)
    rm -rf parsing_TW.$type
    touch parsing_TW.$type
    cat $type | grep -v genre | cut -d "h" -f 1 > list
@@ -48,10 +48,10 @@ echo "親子,#genre#" > a
 echo "親子,#genre#" > b
 cat a parsing_TW.5_child >> TW_allsource
 cat a parsing_TW2.5_child >> TW_allsource2
-#echo "知旅,#genre#" > a
-#echo "知旅,#genre#" > b
-#cat a parsing_TW.6_Know >> TW_allsource
-#cat b parsing_TW2.6_Know >> TW_allsource2
+echo "知旅,#genre#" > a
+echo "知旅,#genre#" > b
+cat a parsing_TW.6_Know >> TW_allsource
+cat b parsing_TW2.6_Know >> TW_allsource2
 echo "廣播,#genre#" > a
 echo "廣播,#genre#" > b
 cat a parsing_TW.6_Radio >> TW_allsource
@@ -69,7 +69,7 @@ sed -i 's/\.\/TW://' ./TW_allsource
 sed -i 's/--//' ./TW_allsource2
 
 ## delete data
-foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 7_BGM 9_other)
+foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Know 6_Radio 7_BGM 9_other)
    rm -rf parsing_TW.$type
    rm -rf parsing_TW2.$type
 end
