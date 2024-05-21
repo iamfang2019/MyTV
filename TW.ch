@@ -2242,11 +2242,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
@@ -4359,11 +4359,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
@@ -6527,11 +6527,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
@@ -8645,11 +8645,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
@@ -10762,11 +10762,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
@@ -12880,11 +12880,11 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=SflrovSJGgE
+粉紅豬小妹,https://www.youtube.com/watch?v=38XeurKPY8g
 YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
 MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=5k8wUxdxJBA
+救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
 汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=pklKPUm03Po
