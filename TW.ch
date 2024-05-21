@@ -1027,6 +1027,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -3145,6 +3151,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -5314,6 +5326,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -7433,6 +7451,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -9551,6 +9575,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
@@ -11670,6 +11700,12 @@ MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
 //Youtube
+header={fftoken:1,playtoken:1}
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+header={fftoken:1,playtoken:1}
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+header={fftoken:1,playtoken:1}
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8
 民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
