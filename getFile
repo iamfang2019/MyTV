@@ -8,15 +8,20 @@ wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76
 
 mv ./6df8af2d858ae0c4 ./live.txt
 
-grep -i "ubvip1688" ./live.txt > ./ubvip1688
+grep -i "ubvip1688" ./live.txt > ./ubvip1689
 
+sed -n '/即時新聞/,/綜合直播/p' ./live.txt > ./news.c
 sed -n '/兒童頻道/,/台灣電視/p' ./live.txt > ./child.c
 sed -n '/音樂串流/,/即時影像/p' ./live.txt > ./music.c
 
+
+
+sed -i 's/ //' ./news.c
 sed -i 's/ //' ./child.c
 sed -i 's/ //' ./music.c
 
-
+cat ./news.c ./ubvip1689 > ubvip1688
+rm -rf ./ubvip1689
 
 #set lineEndNum = `wc -l ./live.txt`
 #echo $lineEndNum
