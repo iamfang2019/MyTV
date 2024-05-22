@@ -69,13 +69,29 @@ jobs:
           # Re-target M3U
           mv ./TW_allsource2 ./m3u.src
 
+          ####################################
+          ## Copy parsing script
+          ####################################
+          cp ./Type/0_TW ./0_TW
+          cp ./Type/1_News ./1_News
+          cp ./Type/2_Mix ./2_Mix 
+          cp ./Type/3_Movie ./3_Movie
+          cp ./Type/4_Sport ./4_Sport
+          cp ./Type/5_child ./5_child
+          cp ./Type/6_Radio ./6_Radio
+          cp ./Type/6_Know ./6_Know
+          cp ./Type/7_BGM ./7_BGM
+          cp ./Type/9_other ./9_other
+          
+          
+
           # add catagory for Smart parsing
-          cat ./Type/0_TW ./TW > TW0
-          cat ./Type/1_News ./TW > TW1
-          cat ./Type/2_Mix ./TW > TW2
-          cat ./Type/3_Movie ./TW > TW3
-          cat ./Type/4_Sport ./TW > TW4
-          cat ./Type/5_child ./TW > TW5
+          cat ./0_TW ./TW > TW0
+          cat ./1_News ./TW > TW1
+          cat ./2_Mix ./TW > TW2
+          cat ./3_Movie ./TW > TW3
+          cat ./4_Sport ./TW > TW4
+          cat ./5_child ./TW > TW5
 
           # Cascade all for smart parsing
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
@@ -94,7 +110,8 @@ jobs:
           rm -rf *.c
 
           rm -rf ./UBSP
-          rm -rf ./Source/UBSP                
+          rm -rf ./Source/UBSP  
+          rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child
              
 
       - name: Set up Python
