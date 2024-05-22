@@ -9,9 +9,9 @@ from queue import Queue
 from datetime import datetime
 
 #  获取远程直播源文件
-url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
-r = requests.get(url)
-open('DIYP-v4.txt', 'wb').write(r.content)
+#url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
+#r = requests.get(url)
+#open('DIYP-v4.txt', 'wb').write(r.content)
 
 
 def txt_to_m3u(input_file, output_file):
