@@ -70,12 +70,12 @@ jobs:
           mv ./TW_allsource2 ./m3u.src
 
           # add catagory for Smart parsing
-          cat ./0_TW ./TW > TW0
-          cat ./1_News ./TW > TW1
-          cat ./2_Mix ./TW > TW2
-          cat ./3_Movie ./TW > TW3
-          cat ./4_Sport ./TW > TW4
-          cat ./5_child ./TW > TW5
+          cat ./Type/0_TW ./TW > TW0
+          cat ./Type/1_News ./TW > TW1
+          cat ./Type/2_Mix ./TW > TW2
+          cat ./Type/3_Movie ./TW > TW3
+          cat ./Type/4_Sport ./TW > TW4
+          cat ./Type/5_child ./TW > TW5
 
           # Cascade all for smart parsing
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
