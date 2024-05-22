@@ -1572,6 +1572,7 @@ CN卡通,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 CN卡通,http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 CN卡通,p3p://108.181.20.159:09318/61ded38e000d52023d43f93e0ee00012
+MOMO親子,https://www.youtube.com/watch?v=R3PZkCUJSbQ
 MOMO親子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 MOMO親子,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -1629,6 +1630,13 @@ i-Fun動漫,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 達文西,mitv://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
 達文西,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
+寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
+粉紅豬小妹,https://www.youtube.com/watch?v=IHYJHVKiOS8
+碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
+救援小英雄波力,https://www.youtube.com/watch?v=x9ed7_wpvtk
+汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
+兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
+BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
 知旅,#genre#
 header={fftoken:c538d15704b62050376db9ce5ef370db,playtoken:8a6a653d725b531882a737b67c77e809}
 動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
@@ -1833,7 +1841,11 @@ BGM,#genre#
 CafeMusicBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+CoffeeWorkspace,https://www.youtube.com/watch?v=xs87nMeHZtU
+輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
+放鬆音樂,https://www.youtube.com/watch?v=udQuRYjdOEU
 CLASSICA古典樂,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 CLASSICA古典樂,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
