@@ -2248,24 +2248,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 新聞,#genre#
 壹電視新聞,https://test.m3u8
@@ -4372,24 +4354,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 綜合,#genre#
 民視,https://test.m3u8
@@ -6547,24 +6511,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 電影,#genre#
 壹電影,https://test.m3u8
@@ -8672,24 +8618,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 體育,#genre#
 緯來育樂,https://test.m3u8
@@ -10796,24 +10724,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 
 親子,#genre#
 CN卡通,https://test.m3u8
@@ -12921,24 +12831,6 @@ HawaiianBGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_
 starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_great_music.m3u8
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
-寶寶巴士,https://www.youtube.com/watch?v=03m6p_tExJo
-粉紅豬小妹,https://www.youtube.com/watch?v=PAQiW1JrQ6g
-YOYOTV,https://www.youtube.com/watch?v=YOOQXWYym5g
-MOMO親子台,https://www.youtube.com/watch?v=R3PZkCUJSbQ
-碰碰狐,https://www.youtube.com/watch?v=ErcST3M5Ev8
-救援小英雄波力,https://www.youtube.com/watch?v=4tSHubR6IVQ
-汪汪隊立大功,https://www.youtube.com/watch?v=JbRxvUv1mhg
-兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
-BeepBeep,https://www.youtube.com/watch?v=GY5C3hIkua4
-輕柔旋律,https://www.youtube.com/watch?v=trbQx6CwCzw
-放鬆音樂,https://www.youtube.com/watch?v=BQ4Zjd4cRg0
-GhibliMusic,https://www.youtube.com/watch?v=gWwaA5jGYSc
-BGMTotoro Studio,https://www.youtube.com/watch?v=zaXULnWg2C4
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-TheGood Life,https://www.youtube.com/watch?v=36YnV9STBqc
-CoffeeRelaxing Jazz,https://www.youtube.com/watch?v=o3glLeXxH-o
-CoffeeWorkspace,https://www.youtube.com/watch?v=aTAbQVjhQpE
-4KScenic Relaxation,https://www.youtube.com/watch?v=VJLaSy0hlVI
 安博,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
