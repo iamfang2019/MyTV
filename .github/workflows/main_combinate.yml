@@ -34,8 +34,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "AutoRobot@gmail.com"
-          git config --global user.name "AutoRobot"
+          git config --global user.email "GeniusWorker@gmail.com"
+          git config --global user.name "GeniusWorker"
       
       - name: Install csh
         run: |
@@ -59,10 +59,17 @@ jobs:
           cat ./Source/rtmp  ./Source/P2P ./rslt ./Source/SmartTV.txt ./Source/histar ./tw.src  ./Source/P3P ./Source/radio ./Source/BGM > TW
           sed -i '/genre/d' ./TW
 
+          ##-----------------------------------------------##
+          # Deliver : TW_allsorce (TVBox)
+          # Deliver : TW_allsorce2 (M3U)
+          ##-----------------------------------------------##
           chmod +x ./run_class
           ./run_class
 
-          # add catagory
+          # Re-target M3U
+          mv ./TW_allsorce2 ./m3u.src
+
+          # add catagory for Smart parsing
           cat ./0_TW ./TW > TW0
           cat ./1_News ./TW > TW1
           cat ./2_Mix ./TW > TW2
@@ -72,6 +79,10 @@ jobs:
 
           # Cascade all for smart parsing
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
+               
+               
+      - name: Remove redundancy
+        run: |
           rm -rf TW0
           rm -rf TW1
           rm -rf TW2
@@ -82,17 +93,9 @@ jobs:
           rm -rf ./live.txt
           rm -rf *.c
 
-                
-     
-          # TW_allsource Unify
-          rm -rf ./TW_unify
-          LANG=GBK; grep -v "#genre#" ./TW_allsource | sort -u | uniq -u > TW_unify
-
-          LANG=GBK; sort ./Source/SmartTV.txt | uniq | sed /^$/d > smartTV
-
           rm -rf ./UBSP
-          rm -rf ./Source/UBSP
-
+          rm -rf ./Source/UBSP                
+             
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -106,7 +109,7 @@ jobs:
         run: |
           # Create Generate TXT to m3u Source
           
-          cat ./TW_allsource2 | grep -v 'test.m3u8' | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt      
+          cat ./m3u.src | grep -v 'test.m3u8' | grep -v "youtube.com" | grep -v "mitv:" | grep -v "P2p:" | grep -v "video:" | grep -v "p2p" | grep -v "p3p" > TW_txt      
 
           # Parsing script
           python ${{ github.workspace }}/txt2m3u.py
