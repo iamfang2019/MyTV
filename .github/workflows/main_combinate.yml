@@ -61,13 +61,13 @@ jobs:
 
           ##-----------------------------------------------##
           # Deliver : TW_allsorce (TVBox)
-          # Deliver : TW_allsorce2 (M3U)
+          # Deliver : TW_allsource2 (M3U)
           ##-----------------------------------------------##
           chmod +x ./run_class
           ./run_class
 
           # Re-target M3U
-          mv ./TW_allsorce2 ./m3u.src
+          mv ./TW_allsource2 ./m3u.src
 
           # add catagory for Smart parsing
           cat ./0_TW ./TW > TW0
