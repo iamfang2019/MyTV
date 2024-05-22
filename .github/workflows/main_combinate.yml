@@ -60,8 +60,8 @@ jobs:
       - name: Get Source
         run: |
           #### Deliver UBSP ubvip1688
-          chmod +x ./wolf.src
-          ./wolf.src
+          chmod +x ./run_wolf
+          ./run_wolf
 
 
       - name: Smart Parsing
