@@ -5,21 +5,39 @@
 
 #wget https://raw.githubusercontent.com/linitfor/taclive/main/UBSP
 
+#################################
+## Control file data
+#################################
+rm -rf UBSP
+touch UBSP
+rm -rf ubvip1688
+touch ubvip1688
+
+#################################
+## Start Parsing classify
+#################################
 foreach type (1_News 2_Mix 3_Movie 4_Sport 5_child 6_Know 6_Radio 7_BGM 9_other)
    rm -rf parsing_TW.$type
    touch parsing_TW.$type
    cat $type | grep -v genre | cut -d "h" -f 1 > list
    foreach chk ("`cat ./list`")
      echo $chk
-      grep -i $chk ./Source/ubvip1688 >> parsing_TW2.$type
+
+     ##############################
+     ### For m3u data
+     ##############################
+     grep -i $chk ./Source/ubvip1688 >> parsing_TW2.$type
      grep -i $chk ./TW >> parsing_TW2.$type  
 
+     ##############################
+     ### For TVBOX data
+     ##############################
      # Special source insert
-     #if ( "$type" == "1_News" )  then
-        #grep -B 1 -i $chk ./Source/UBSP_manual >> parsing_TW.$type  
-         grep -B 1 -i $chk ./UBSP >> parsing_TW.$type
-     #endif
-     grep -i $chk ./Source/ubvip1688 >> parsing_TW.$type
+     #grep -B 1 -i $chk ./UBSP >> parsing_TW.$type
+     # Second priority insert
+     #grep -i $chk ./Source/ubvip1688 >> parsing_TW.$type
+
+     # Genernal Parse
      grep -i $chk ./TW >> parsing_TW.$type  
    end
 end
