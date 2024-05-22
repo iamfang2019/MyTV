@@ -20,7 +20,7 @@ sed -i 's/ //' ./news.c
 sed -i 's/ //' ./child.c
 sed -i 's/ //' ./music.c
 
-cat ./ubvip1689 ./news.c  > ubvip1688
+cat ./ubvip1689 ./news.c ./child.c ./music.c > ubvip1688
 rm -rf ./ubvip1689
 
 #set lineEndNum = `wc -l ./live.txt`
