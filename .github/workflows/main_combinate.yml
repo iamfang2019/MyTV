@@ -40,10 +40,25 @@ jobs:
       - name: Install csh
         run: |
           sudo apt install csh
-      
+
+      - name: Prepare Script
+        run: |
+          ####################################
+          ## Copy parsing script
+          ####################################
+          cp ./Type/0_TW ./0_TW
+          cp ./Type/1_News ./1_News
+          cp ./Type/2_Mix ./2_Mix 
+          cp ./Type/3_Movie ./3_Movie
+          cp ./Type/4_Sport ./4_Sport
+          cp ./Type/5_child ./5_child
+          cp ./Type/6_Radio ./6_Radio
+          cp ./Type/6_Know ./6_Know
+          cp ./Type/7_BGM ./7_BGM
+          cp ./Type/9_other ./9_other
+          
       - name: Get Source
         run: |
-
           #### Deliver UBSP ubvip1688
           chmod +x ./wolf.src
           ./wolf.src
@@ -69,19 +84,6 @@ jobs:
           # Re-target M3U
           mv ./TW_allsource2 ./m3u.src
 
-          ####################################
-          ## Copy parsing script
-          ####################################
-          cp ./Type/0_TW ./0_TW
-          cp ./Type/1_News ./1_News
-          cp ./Type/2_Mix ./2_Mix 
-          cp ./Type/3_Movie ./3_Movie
-          cp ./Type/4_Sport ./4_Sport
-          cp ./Type/5_child ./5_child
-          cp ./Type/6_Radio ./6_Radio
-          cp ./Type/6_Know ./6_Know
-          cp ./Type/7_BGM ./7_BGM
-          cp ./Type/9_other ./9_other
           
           
 
@@ -99,19 +101,14 @@ jobs:
                
       - name: Remove redundancy
         run: |
-          rm -rf TW0
-          rm -rf TW1
-          rm -rf TW2
-          rm -rf TW3
-          rm -rf TW4
-          rm -rf TW5
+          rm -rf TW0 TW1 TW2 TW3 TW4 TW5
           rm -rf ./rslt
           rm -rf ./live.txt
           rm -rf *.c
 
           rm -rf ./UBSP
           rm -rf ./Source/UBSP  
-          rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child
+          rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 6_Know 7_BGM 9_other
              
 
       - name: Set up Python
