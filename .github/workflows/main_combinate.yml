@@ -98,17 +98,7 @@ jobs:
           # Cascade all for smart parsing
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 > TW.ch
                
-               
-      - name: Remove redundancy
-        run: |
-          rm -rf TW0 TW1 TW2 TW3 TW4 TW5
-          rm -rf ./rslt
-          rm -rf ./live.txt
-          rm -rf *.c
 
-          rm -rf ./UBSP
-          rm -rf ./Source/UBSP  
-          rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 6_Know 7_BGM 9_other
              
 
       - name: Set up Python
@@ -127,6 +117,23 @@ jobs:
 
           # Parsing script
           python ${{ github.workspace }}/txt2m3u.py
+
+                     
+      - name: Remove redundancy
+        run: |
+          rm -rf TW0 TW1 TW2 TW3 TW4 TW5
+          rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 6_Know 7_BGM 9_other
+          rm -rf TW TW_txt
+          
+          rm -rf ./rslt
+          rm -rf ./live.txt
+          rm -rf *.c
+
+          rm -rf ./UBSP
+          rm -rf ./Source/UBSP  
+          
+          
+          rm -rf ./m3u.src
   
       - name: UpdateChannel Time 
         run: |
