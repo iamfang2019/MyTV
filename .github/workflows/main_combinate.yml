@@ -51,8 +51,8 @@ jobs:
           #./run_class
 
           #### 
-          chmod +x ./getFile
-          ./getFile
+          #chmod +x ./getFile
+          #./getFile
           
           #cat ./MYTV > ./MYTVs_t
           #cat ./MYTVs_t UBTV18 > ./MYTVs
