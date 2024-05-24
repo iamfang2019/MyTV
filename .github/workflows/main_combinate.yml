@@ -131,6 +131,8 @@ jobs:
 
           rm -rf ./UBSP
           rm -rf ./Source/UBSP  
+          rm -rf ./Source/ubvip1688
+          
           
           
           rm -rf ./m3u.src
