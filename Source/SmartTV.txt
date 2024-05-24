@@ -1,19 +1,14 @@
-Taiwan,#genre#
+無線,#genre#
 民視,http://23.224.232.221:81/kk.php?id=ftvhd_taiwan
 台視,http://23.224.232.221:81/kk.php?id=ttv_taiwan
 中視,http://23.224.232.221:81/kk.php?id=zhongshihd_twn
 華視,http://23.224.232.221:81/kk.php?id=ctshd_twn
 公視,http://23.224.232.221:81/kk.php?id=ctv_taiwan
 
-亞洲美食,http://23.224.232.221:81/kk.php?id=afc_twn
-美食星球,http://23.224.232.221:81/kk.php?id=foodplanet_twn
-亞洲旅遊,http://23.224.232.221:81/kk.php?id=tlc_twn
-EYETV旅遊,http://23.224.232.221:81/kk.php?id=eyetvtravel_twn
-亞洲旅遊,http://23.224.232.221:81/kk.php?id=asiatravel_twn
-
+親子,#genre#
 東森幼幼,http://23.224.232.221:81/kk.php?id=yoyo_twn
 靖天卡通,http://23.224.232.221:81/kk.php?id=jingtiancartoon_twn
-
+綜合,#genre#
 緯來綜合,http://23.224.232.221:81/kk.php?id=videolandzonghe
 八大第一,http://23.224.232.221:81/kk.php?id=badafirst
 八大綜合,http://23.224.232.221:81/kk.php?id=badazhonghe
@@ -32,13 +27,14 @@ EYETV旅遊,http://23.224.232.221:81/kk.php?id=eyetvtravel_twn
 中天亞洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn
 東森戲劇,http://23.224.232.221:81/kk.php?id=ettvdrama
 八大戲劇,http://23.224.232.221:81/kk.php?id=badadrama
-
 TVBS歡樂台,http://23.224.232.221:81/kk.php?id=tvbshuanle_twn
+緯來日本,http://23.224.232.221:81/kk.php?id=videolandjapan
 龍華戲劇,http://23.224.232.221:81/kk.php?id=lunghuaxiju_twn
 龍華戲劇,http://23.224.232.221:81/kk.php?id=lunghuaxiju_twn
 龍華經典,http://23.224.232.221:81/kk.php?id=lunghuajingdian_twn
 龍華偶像,http://23.224.232.221:81/kk.php?id=lunghuaidol_twn
 EYETV戲劇,http://23.224.232.221:81/kk.php?id=eyetvxiju_twn
+新聞,#genre#
 年代新聞,http://23.224.232.221:81/kk.php?id=niandainews_twn
 東森新聞,http://23.224.232.221:81/kk.php?id=ettvnews
 民視新聞,http://23.224.232.221:81/kk.php?id=ftvnew_taiwan
@@ -53,7 +49,7 @@ TVBS,http://23.224.232.221:81/kk.php?id=tvbs
 中視新聞,http://23.224.232.221:81/kk.php?id=zhongshinews_twn
 民視台灣,http://23.224.232.221:81/kk.php?id=ftvtaiwan_twn
 台視綜合,http://23.224.232.221:81/kk.php?id=ttvzhonghe_twn
-
+電影,#genre#
 CatchPlay電影,http://23.224.232.221:81/kk.php?id=catchplay_twn
 東森電影,http://23.224.232.221:81/kk.php?id=ettvmovie
 緯來電影,http://23.224.232.221:81/kk.php?id=videolandmovie_twn
@@ -68,7 +64,8 @@ AXN,http://23.224.232.221:81/kk.php?id=axn_twn
 美亞電影,http://23.224.232.221:81/kk.php?id=meiyamovie_twn
 龍華洋片,http://23.224.232.221:81/kk.php?id=lunghuawestern_twn
 
-緯來日本,http://23.224.232.221:81/kk.php?id=videolandjapan
+體育,#genre#
+
 緯來育樂,http://23.224.232.221:81/kk.php?id=videolandyule
 緯來體育,http://23.224.232.221:81/kk.php?id=videolandsport
 愛爾達體育2,http://23.224.232.221:81/kk.php?id=eltasport2_twn
@@ -80,16 +77,6 @@ AXN,http://23.224.232.221:81/kk.php?id=axn_twn
 博斯網球,http://23.224.232.221:81/kk.php?id=bositennis_twn
 博斯無限,http://23.224.232.221:81/kk.php?id=bosiunlimited_twn
 
-其他,#genre#
-MTVLive,http://23.224.232.221:81/kk.php?id=mtvhd_twn
-
-阿里郎,http://23.224.232.221:81/kk.php?id=arirang_twn
-StarMovies,http://23.224.232.221:81/kk.php?id=starmovies_raj
-緯來精彩,http://23.224.232.221:81/kk.php?id=videolandspecial_twn
-大愛1,http://23.224.232.221:81/kk.php?id=daai_twn
-靖天國際,http://23.224.232.221:81/kk.php?id=jingtianintl_twn
-好消息2,http://23.224.232.221:81/kk.php?id=goods_twn
-星衛電影,http://23.224.232.221:81/kk.php?id=xingwei_movie
 
 知旅,#genre#
 
@@ -105,6 +92,7 @@ TLC,http://23.224.232.221:81/kk.php?id=Tlc
 美食星球,http://23.224.232.221:81/kk.php?id=foodplanet_twn
 亞洲旅遊,http://23.224.232.221:81/kk.php?id=tlc_twn
 亞洲旅遊,http://23.224.232.221:81/kk.php?id=asiatravel_twn
+EYETV旅遊,http://23.224.232.221:81/kk.php?id=eyetvtravel_twn
 
 FashionTV,http://23.224.232.221:81/kk.php?id=fashiontv_twn
 MTVLive,http://23.224.232.221:81/kk.php?id=mtvhd_twn
@@ -116,3 +104,16 @@ History,http://23.224.232.221:81/kk.php?id=History
 Outdoor,http://23.224.232.221:81/kk.php?id=Natgeo
 HGTV,http://23.224.232.221:81/kk.php?id=HGTV
 DMAX,http://23.224.232.221:81/kk.php?id=natgeohd_twn
+
+
+
+其他,#genre#
+MTVLive,http://23.224.232.221:81/kk.php?id=mtvhd_twn
+
+阿里郎,http://23.224.232.221:81/kk.php?id=arirang_twn
+StarMovies,http://23.224.232.221:81/kk.php?id=starmovies_raj
+緯來精彩,http://23.224.232.221:81/kk.php?id=videolandspecial_twn
+大愛1,http://23.224.232.221:81/kk.php?id=daai_twn
+靖天國際,http://23.224.232.221:81/kk.php?id=jingtianintl_twn
+好消息2,http://23.224.232.221:81/kk.php?id=goods_twn
+星衛電影,http://23.224.232.221:81/kk.php?id=xingwei_movie
