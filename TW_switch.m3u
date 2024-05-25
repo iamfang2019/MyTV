@@ -656,6 +656,8 @@ http://23.224.232.221:81/kk.php?id=weishichinese_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/華藝綜合.png" group-title="綜合",華藝綜合
 https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/tvN.png" group-title="綜合",tvN
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/tvN.png" group-title="綜合",tvN
 https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/東森綜合.png" group-title="綜合",東森綜合
 http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
@@ -1015,6 +1017,8 @@ https://lsj.37o.xyz/histar.php?id=pts-3
 http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTV.png" group-title="綜合",MTV
 http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/�拙𤙴憡曹��� KMTV.png" group-title="綜合",�拙𤙴憡曹��� KMTV
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTV.png" group-title="綜合",MTV
 http://50.7.238.114:8278/mtvhd_twn/playlist.m3u8?tid=MC8C4687698646876986&ct=19669&tsum=235b0164c651512e1d924bdffc5d9796
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTV.png" group-title="綜合",MTV
@@ -1188,6 +1192,8 @@ http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=1966
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
 http://23.224.232.221:81/kk.php?id=axn_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
 https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AXN.png" group-title="電影",AXN
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
@@ -1211,6 +1217,8 @@ http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=1
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
 http://23.224.232.221:81/kk.php?id=cinemax_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
 http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
@@ -1505,6 +1513,8 @@ http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct
 http://23.224.232.221:81/kk.php?id=bbcearth_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthLifestyle.png" group-title="知旅",BBCEarthLifestyle
 http://23.224.232.221:81/kk.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
 http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
@@ -1517,6 +1527,8 @@ http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct
 http://23.224.232.221:81/kk.php?id=bbcearth_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarthLifestyle.png" group-title="知旅",BBCEarthLifestyle
 http://23.224.232.221:81/kk.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBCEarth.png" group-title="知旅",BBCEarth
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
 http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC Earth.png" group-title="知旅",BBC Earth
@@ -1587,6 +1599,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 http://23.224.232.221:81/kk.php?id=mtvhd_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTVLive.png" group-title="知旅",MTVLive
 http://23.224.232.221:81/kk.php?id=mtvhd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MTVLive.png" group-title="知旅",MTVLive
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/FoodnetworkHd.png" group-title="知旅",FoodnetworkHd
 http://23.224.232.221:81/kk.php?id=Foodnetwork_mega
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CRIME.png" group-title="知旅",CRIME
@@ -1601,6 +1615,8 @@ http://23.224.232.221:81/kk.php?id=Natgeo
 http://23.224.232.221:81/kk.php?id=HGTV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DMAX.png" group-title="知旅",DMAX
 http://23.224.232.221:81/kk.php?id=natgeohd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DMAX.png" group-title="知旅",DMAX
+https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DMAX.png" group-title="知旅",DMAX
 https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HitFM北部.png" group-title="廣播",HitFM北部

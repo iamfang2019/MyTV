@@ -1029,6 +1029,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
+
 //Youtube
 header={fftoken:1,playtoken:1}
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -3137,6 +3602,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 視納華仁紀實頻道,https://lsj.37o.xyz/histar.php?id=cnex
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
+
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
 
 //Youtube
 header={fftoken:1,playtoken:1}
@@ -5298,6 +6228,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
+
 //Youtube
 header={fftoken:1,playtoken:1}
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -7408,6 +8803,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
+
 //Youtube
 header={fftoken:1,playtoken:1}
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -9516,6 +11376,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 視納華仁紀實頻道,https://lsj.37o.xyz/histar.php?id=cnex
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
+
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
 
 //Youtube
 header={fftoken:1,playtoken:1}
@@ -11627,6 +13952,471 @@ TVBS臺劇,https://lsj.37o.xyz/histar.php?id=tvbs-taiju
 MTV Live HD 頻道,https://lsj.37o.xyz/histar.php?id=mtv
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
 
+
+
+TVB 蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=feicui
+TVB �删瑪�圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-news
+TVB PLUS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-plus
+TVB 暺��蝧∠���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-jade
+TVB 暺���𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=golden-chinese-drama
+TVB ��戍蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-classic
+TVB 蝎方祗��蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-yueyu
+TVB ��眾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-xinghe
+TVB 鈭𡁏散�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-asia-drama
+TVB 憡曹��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=TVB ylxw
+J2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=j2
+TVB �𡒊���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pearl
+TVB �舘祗�批蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-drama
+�文墖�怨� 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-info
+�文墖�怨� 銝剜���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-cn
+�文墖�怨� 擐蹱葛��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=phtv-hk
+HOY 韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-info
+HOY TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoytv
+HOY�賡�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hoy-ibc
+ViuTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv
+ViuTV6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=viutv6
+憭拇�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=celestial
+憭拇�蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cccm
+Thrill,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=thrill
+�毺征�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=star-xing-kong
+擐蹱葛�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hks
+瞉喃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mastv
+瞉喲秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mstv
+瞉喲秄�脰��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lotustv
+瞉喲秄韏�悖,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm-information
+瞉唾�瞉喲秄,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tdm
+HKC 18��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hkc18
+皜臬蝱�菔� 31,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk31
+皜臬蝱�菔� 32,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rthk32
+Now 韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-finance
+Now ��健��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=baogu-movies
+Now �笔蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-baogu-superstars
+Now �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-news
+Now �湔偘��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-direct
+Now�乩遠��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-data
+Now jelli蝝恍��賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-jelli
+Now�𤾸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-chinese-drama
+HBO Now115,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=Now-HBO
+Now HBO Hits,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-hits
+Now HBO Family,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbof-amily
+Now HBO Signature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-hbo-signature
+MovieMovie,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moviemovie
+NowViu�折���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-viu-drama
+Now Sports 641,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports641
+Now NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-nba
+Now Sports蝎暸��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-prime
+Now Sports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-1
+Now Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-2
+Now Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-3
+Now Sports 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-4
+Now Sports 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-5
+Now Sports 6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-6
+Now Sports 7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-7
+Now Sports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-plus
+Now Sports �梯�1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league1
+Now Sports �梯�2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league2
+Now Sports �梯�3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league3
+Now Sports �梯�4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league4
+Now Sports �梯�5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league5
+Now Sports �梯�6,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports1
+Now beIN SPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports2
+Now beIN SPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-bein-sports3
+Now 668,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-668
+Now Golf 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf2
+Now Golf 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=now-golf3
+瘞𤏸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv
+瘞𤏸��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-tw
+瘞𤏸�蝚砌���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-one
+蝥祆䔉�交𧋦,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-japan
+蝥祆䔉蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland
+�怠之蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv28
+�怠之蝚砌�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv27
+TVBS 蝎暸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-jc
+TVBS 甈Ｖ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-huanle
+TVBS Asia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-asia
+銝厩��唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-taiwan
+銝厩�蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-zonghe
+�啗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv
+銝𨀣ㄝ頞��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-super
+銝𨀣ㄝ蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-ettv
+銝剛�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv
+銝剛������,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bravo
+銝剖予鈭𡁏散,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-asia
+銝剖予蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctitv36
+�舘�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts
+LiveABC 鈭鍦𢆡�梯祗憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liveabc
+憟賣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=goodtv
+KLT-�硋予�賡���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtgj
+ELTA蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-zonghe
+�祈�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts
+�祈�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-3
+�祈��啗祗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=pts-ty
+�硋予蝏澆���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzh
+�硋予�交𧋦��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtrb
+摰Ｗ振�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hakkatv
+憭抒�銝���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai1
+憭抒�鈭�蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=daai2
+ARIRANG �輸��𡡞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arirang
+銝剖予�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-news
+TVBS �圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-news
+TVBS HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-hd
+銝𨀣ㄝ�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-news
+銝𨀣ㄝ韐Ｙ��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-finance
+撖啣��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news
+撖啣�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-finance
+撖啣��圈鉟�唳嗾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=global-news-tw
+憯寞鰵�� HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nexttv
+銝厩��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-news
+銝厩�iNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-inews
+銝剛��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-news
+�𧼮𥣞�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=unique-business-news
+撟港誨�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=era-news
+瘞𤏸��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-news
+�啗��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ttv-news
+�𦦵㩞閫�鰵�餃蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mnews
+�舘��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cts-news
+�𠰴��賡��圈鉟��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=aljazeera
+SBN �函�韐Ｙ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbn
+�硋予韏�悖��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtzx
+蝥祆䔉�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-movie
+蝥祆䔉�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-drama
+TVBS蝏潸䰾��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-zongyi
+TVBS�啣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvbs-taiju
+樴嗵孕�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lstime
+樴坔��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-movies
+樴坔��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-xiju
+樴坔��仿畆��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ltv-rihan
+銝𨀣ㄝ�萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-movie
+銝𨀣ㄝ�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-drama
+銝𨀣ㄝ瘣讠�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-emovie
+�怠之蝎曉蔗��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-jct
+�怠之�誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-41
+�怠之憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gtv-86
+�怠之蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=grt
+���敶勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=caichang
+蝢𦒘��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=meiah-movies
+�芸𢬢鈭格����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zglgtx
+瘞𤏸�蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-reality
+瘞𤏸�敶勗�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-drama
+銝厩��賭���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-city
+銝厩��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=settv-drama
+銝剛�蝏誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ctv-classic
+銝剖予憡曹�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cti-yule
+�𡝗��誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jyxj
+�硋予�删𤫇,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyh
+�硋予�萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtdy
+�硋予�誩���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtxjt
+�拙𤙴憡曹��� KMTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kmtv
+�祈��誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gsxj
+敶梯蕙�唬�蝥芸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ymswjst
+敶梯蕙�啣��萄蔣��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fans-cinema
+閫�熙�𦒘�蝥芸�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnex
+MTV Live HD 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtv
+ELTA 憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-ylt
+CCTV-1 蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv1
+CCTV-2 韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv2
+CCTV-3 蝏潸䰾,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv3
+CCTV-4 銝剜��賡�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv4
+CCTV-5 雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5
+CCTV-5+ 雿栞�韏𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv5plus
+CCTV-6 �萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv6
+CCTV-7 �賡俈�𥕢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv7
+CCTV-8 �菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv8
+CCTV-9 蝥芸�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv9
+CCTV-10 蝘烐�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv10
+CCTV-11 �𤩺𤩅,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv11
+CCTV-12 蝷曆�銝擧�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv12
+CCTV-13 �圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv13
+CCTV-14 撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv14
+CCTV-15 �喃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv15
+CCTV-16 憟交��孵�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv16
+CCTV-17 �靝��𨀣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cctv17
+CHC摰嗅滬敶梢堺,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-jtyy
+CHC�其��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-dzdy
+CHC擃䀹��萄蔣,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chc-gqdy
+�齿萱蝏誩�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cwjd
+CCTV1瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv1
+CCTV2瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv2
+CCTV3瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv3
+CCTV4瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv4
+CCTV5瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testcctv5
+Astro AEC瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testaec
+Astro QJ瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testqj
+Channel 5 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel5
+Channel 8 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testchannel8
+SPOTV 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testsportv
+SPOTV 2 瘚贝�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testspotv2
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=testdwqws
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hunan
+瘚蹱��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zhejiang
+銝𨀣䲮�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongfang
+瘙蠘��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangsu
+�𦯀漪�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beijing
+瘛勗裵�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shenzhen
+撟蹂��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangdong
+憭扳嗾�箏㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdwqws
+�滚��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=chongqing
+銝𨅯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dongnan
+撟輯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guangxi
+韐萄��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=guizhou
+瘚瑕��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hainan
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hebei
+暺煾�瘙笔㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=heilongjiang
+皝硋��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubei
+瘙蠘正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jiangxi
+�㗇��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jilin
+颲賢��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=liaoning
+����文㪗閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=neimenggu
+摰���怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ningxia
+�閗正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shaanxi
+撅曹��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shandong
+撅梯正�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shanxi
+�𥕦��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sichuan
+憭拇揖�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tianjin
+�阡秄�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xiamen
+�啁��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xinjiang
+镼輯��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=xizang
+鈭穃��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yunnan
+摰匧噬�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=anhui
+瘝喳��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=henan
+�埝絲�怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=qinghai
+�䁅��怨�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gansu
+Channel 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-5
+Channel 8,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel8
+Channel U,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channel-u
+8TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=8tv
+TV9,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv9
+CM+,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cm-plus
+E銋�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=singtel-tv
+TV1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv1-my
+TV2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv2-my
+TV3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv3-my
+ChannelNewsAsia,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=channelnewsasia
+OKEY,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=okey
+TVB Magic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvb-magic
+tvN Movies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn-movies
+AXN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=axn
+TV Alhijrah,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-alhijrah
+ColorsHindi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorshindi
+TVS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvs
+tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
+BeritaRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beritartm
+SukanRTM,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sukanrtm
+HITSMovies,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hitsmovies
+ShowCase,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=showcase
+BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbcearth
+Mediacorp Suria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-suria
+Mediacorp Vasantham,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mediacorp-vasantham
+Gem,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gem
+GlobalTrekker,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=globaltrekker
+DramaSangat,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dramasangat
+SunTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=suntv
+SunMusic,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunmusic
+SunNews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunnews
+AwesomeTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=awesometv
+DidikTV7,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=didiktv7
+Adithya,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=adithya
+KTVHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ktvhd
+SunLife,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sunlife
+StarVijay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=starvijay
+ColorsTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=colorstamil
+ZeeTamil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeetamil
+ZeeCinemaHD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zeecinemahd
+Boo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boo
+MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mtvlive
+Bernama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bernama
+Moonbug,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=moonbug
+Hub�賭�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubECity
+Hub憡勗振,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=HubVVDrama
+HubSports 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports1
+HubSports2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports2
+HubSports3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports3
+HubSport4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports4
+HubSports Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubsports-plus
+Hub Premier 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier1
+HubPremier2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier2
+HubPremier3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier3
+HubPremier 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier4
+HubPremier 5,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hubpremier5
+Hub Sensasi,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hub-sensasi
+tvn HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvnhd
+AstroWarna Hub��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna-hub
+ONEMalay,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=one-malay
+Astro AEC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aec
+Astro 甈Ｗ���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-huaheedai
+Astro SuperSport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports1
+Astro SuperSport 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports2
+Astro SuperSport 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports3
+Astro SuperSport 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=super-sports4
+Arena Bola,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola
+Arena Bola2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=arena-bola2
+Astro �勗���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-iqiyi
+Astro AOD 311 �質祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod
+Astro AOD 311 蝎方祗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aod-311-hk
+Astro QJ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-quanjia
+Astro Awani,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-awani
+Astro Arena HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena-hd
+Astro Arena 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-arena2
+Astro Citra,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-citra
+Astro Prima,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-prima
+Astro Aura,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-aura
+Astro RIA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ria
+Astro ONE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-one
+AstroPremier,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astropremier
+Astro Ceria,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-ceria
+Astro Vaanavil,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vaanavil
+Astro Vinmeen,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vinmeen
+Astro Warna,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-warna
+Astro Vellithirai,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-vellithirai
+Astro Rania,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-rania
+Astro Oasis,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-oasis
+Astro TUTOR TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-tutor-tv
+Astro GolfChannel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=astro-golfchannel
+beIN Sports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports
+beIN Sports 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports2
+beIN Sports 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=beinsports3
+ELTA 雿栞�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport1
+ELTA 雿栞�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport2
+ELTA 雿栞�-3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport3
+ELTA雿栞�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-sport4
+�𡁏鱻蝵𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-tennis
+�𡁏鱻餈𣂼𢆡-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast1
+�𡁏鱻餈𣂼𢆡-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast2
+�𡁏鱻�𣳇�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-wx
+�𡁏鱻擃条�-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf1
+�𡁏鱻擃条�-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-golf2
+�𡁏鱻擳��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sportcast-meili
+ESPN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn
+ESPN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn2
+ESPN 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn3
+ESPN 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=espn4
+myTV SUPER�湔偘頞喟�1��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer1
+myTV SUPER�湔偘頞喟�2��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer2
+myTV SUPER�湔偘頞喟�3��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer3
+myTV SUPER�湔偘頞喟�4��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytv-super-soccer4
+myTV SUPER 18,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mytvsuper-18
+蝥祆䔉雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=videoland-sport
+NBA,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nba
+WWE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wwe
+DAZN 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport1
+DAZN 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eleven-sport2
+Eurosports-1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eurosports-1
+SPOTV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv
+SPOTV-2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=spotv2
+�嗅�餈𣂼𢆡 X,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ssydx
+GINX Esports TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ginx-esports
+Tech Storm,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tech-storm
+TRACE Sport Stars,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=trace-sport-stars
+W-Sport,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=w-sport
+PremierSports,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=premiersports
+�箸�雿栞���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=zl-sports
+�唳𧒄隞�㩞閫�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv
+�唳𧒄隞�㩞閫����,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fairchildtv2
+�𤾸��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=talentvisiontv
+HBO HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hd
+HBO Hits HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-hits-hd
+HBO Family HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-family
+HBO Signature HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hbo-signature
+Cinemax,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
+CNN International,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-international
+憟質𡟹�䂿㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hollywood-movie
+ROCK Action,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-action
+ROCK Entertainment,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rock-entertaiment
+Bloomberg,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bloomberg
+amc ���梁㩞敶�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=amc-movie
+蝢𤾸𤙴銝剜��菔�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sinovision
+Lifetime 憡曹�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lifetime
+HLN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn-hln
+fun �Ｙ揣憡曹���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=festival4k
+Euronews,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=euronews
+MyCinema Europe HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=mycinema-europe
+VOA 蝢𤾸𤙴銋钅𨺗,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=voa
+DW 敺瑕𤙴銋见ㄟ,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dw
+CNN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnn
+ABC News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=abc-news
+BBC World News,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=bbc-world-news
+CNBC,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cnbc
+銝𦠜絲�賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shds
+銝𦠜絲�圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=shxw
+鈭娍�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=wxty
+�脩�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jbty
+撟蹂�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdty
+蝚砌�韐Ｙ�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=yicai
+颲賢�雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnty
+憭拇揖雿栞�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tjty
+撟蹂��䭾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdzj
+瘝喳�璇典𤋮,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hnly
+颲賢��賢�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnds
+颲賢�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=lnys
+暺煾�瘙罸�撣�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=hljds
+撟踹�蝏澆�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzzh
+撟踹�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzys
+撟踹�蝡噼�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gzjs
+撟蹂�敶梯�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdys
+撟蹂��圈鉟,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdxw
+撟蹂�瘞𤑳�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdms
+撟蹂�撠穃�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=gdse
+餈芸ㄚ撠潮���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=disney
+Animax �⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animax-cartoon
+DreamWorks 璇血極��𢆡��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dreamworks
+撠誩側�钅���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nick-jr
+撠澆��輻咱憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nickelodeon
+MOMO 鈭脣���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=momo-kids
+銝𨀣ㄝ撟澆匱��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ebc-yoyo
+CN�⊿��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cn-cartoon
+�硋予�⊿�𡁜蝱,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtkt
+�硋予�脖���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jtyl
+i-Fun �冽憤��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=i-fun
+ELTV��暑�梯���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eltv
+Boomerang HD,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=boomerang-hd
+�𡝗��⊿�� NiceBingo,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nice-bingo
+颲暹�镼輸���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=da-vinci
+�Ｙ揣憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery
+�Ｙ揣蝘穃郎憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-sci
+�Ｙ揣鈭𡁏散憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=discovery-asia
+DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
+History 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history
+History-2 憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=history-2
+Love Nature,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=love-nature
+�賢振�啁� �𡒊�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=natgeo-wild
+瘞𤏸���虜,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ftv-travel
+蝢𡡞��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=food-planet
+EYE ��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=eye-travel
+ELTA ��暑��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=elta-lifetravel
+頧西蕙TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=motorvision
+�函��毺�憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=animal-planet
+TLC ��虜��暑�駁�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tlc
+鈭𡁏散��虜��,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asia-travel
+Asian Food Network,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=asian-food-network
+CI 蝵芣�靘行䰻憸煾�,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=ci
+皛𡁜𢆡�� rollor,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=rollor
+LUXE TV Channel,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=luxe-tv
+NHK General,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-g
+NHK Education,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nhk-e
+�交𧋦�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=nippon-tv
+TBS TV,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tbs-tv
+撖�ㄚ�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=fujitv
+�脲𠯫�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-asahi
+銝靝漪�菔���,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tv-tokyo
+JSPORTS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports1
+JSPORTS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports2
+JSPORTS 3,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports3
+JSPORTS 4,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=jsports4
+KBS 1,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-1
+KBS 2,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-2
+KBS Drama,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-drama
+KBS Story,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-story
+KBS Life,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-life
+KBS Joy,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-joy
+KBS Kids,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-kids
+KBSWorld,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbsworld
+KBS NEWS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=kbs-news
+SBS,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs
+SBS Plus,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-plus
+SBS funE,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-fune
+SBS M,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=sbs-m
+
 //Youtube
 header={fftoken:1,playtoken:1}
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -13360,73 +16150,71 @@ PLAYBOY,mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
 🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
 安博私密,#genre#
-header={fftoken:b09dade9243c346b376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:d582782520a59a12376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:126c22892f5de2dd376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:4f54a2caf2226c91376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:2250f6fa4aab6fa6376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:6b913791319a00e9376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:2659409ac9fa9eb8376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:f3d238c63c43d817376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:966fe5d5932f75d2376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:c9cb50455b21d8b9376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:fb38c67dac850a0d376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:e5691931dce34523376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:3e9ff59ed77c08c3376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:7480533ab061fb0c376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:774cdd640f59700a376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:9120ad1635bd905d376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:0fedc590e1313102376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:3aee6e18adad255e376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:8424188915b67ccb376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:80f3ad1e407465b6376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:5f07018a33511682376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:c2eb3f1ec39ebd79376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:a5a3f56576355398376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:e0a9479ed22a03fc376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:2035575796f8c3d1376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:b7288754f867fa44376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:0928a6cb074d3952376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:222c255ae3754c37376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:b280e4e23e99c4d9376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:de61b9eb8eb7de6f376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:fb0c7f4e9f27d66c376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:22b3e8685ab42f38376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 LOOK #2933,https://f26.duckinfoint.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
-header={fftoken:39512650e419ebe0376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:447825bc7dc17a14376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:14c76729f102f8c5376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:2138b2b9d013957d376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:73602cce55fc1944376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:3904348e98bd42af376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:780041a81a882d91376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:22fb2b781484587a376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:9e005a7f80b5df29376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:a0e58e6ba26a39a8376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:687f55abf484cdb3376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:df328cdd7633227f376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:744b591102d392d8376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:595a10b7cb1bf6cf376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 奧視頻道 #2915,https://f21.unityanuc.com/live/rx3/2915/b0e4b35993fb8c49770cf499f5566de5/index.m3u8
-header={fftoken:a703e4ef90efd959376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:fda156699e247782376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:1ec750ee6cb7740e376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:0a5cbbadc754b55b376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:1472946b5364e8f5376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:c0a4183ee3b76402376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 彩虹K #2910,https://f21.unityanuc.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
-header={fftoken:99b89b233e6910f9376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:8c7d35dbca2e5d37376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:d0047ad9616f6a1d376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:e1b260e7cf0b7d5f376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 彩虹電影 #413,https://f21.unityanuc.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-header={fftoken:5a9b408abd9db6b2376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:17a6570b41e32486376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:acf86565d8348801376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:afd1512220c31b27376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:b83ce0f526f96a78376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:13ef3c8864d857cb376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:333358184f3c47a7376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:56b36ca5d07695a1376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:9bbece88679e784c376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:767fba54dde0c6ca376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:9751a96c0147e87b376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
-波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:70d13c8657309f9f376db9ce5ef370db,playtoken:34591fee533f7a34eb53396a5a94df27}
+header={fftoken:00d5f44ac6fcbe87376db9ce5ef370db,playtoken:0452ae49deb93a65060747ed48f8065a}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
