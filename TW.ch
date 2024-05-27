@@ -16161,65 +16161,65 @@ Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/in
 Hustler,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
 SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
 安博私密,#genre#
-header={fftoken:be79bfe9b9d79a75376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:5f0b7c7ba8ff5021376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:b861ff6486d44208376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:d388fa44930aafef376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:bd502c9091af9165376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:ab3510c8815ba9d8376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:b48ac4e840c805eb376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:5fe09cd715bc8c60376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:5c73f4a48a1d00ed376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:4f1c10dab10344e9376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:35cfc0b307693d66376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:ae96946a424dbf67376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:d5ab89a9dcdc5595376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:3e8e4652a36cab2a376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:d87b434e3dbc7989376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:2b77d5f17bf94559376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:1a33c77d6b1e289f376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:ddc0d7a745fcb4a1376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:3a9354a7d5f20617376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:45a2cf867466c0fc376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:30378dadd6800bd8376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:9bf9cd0573a19966376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:8787052260c89dce376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:9c73c8117bd0815f376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:be2045e12dea5713376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:e30a7570113ae52e376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:5823b92528cabfb2376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:889676b00a5a6ab7376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:12f0a56248f768f8376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:491a4fa7f0ebbe13376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:7d9b973c3e43892c376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:b74af92fd1332328376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:c857b181829f3a91376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:5aca79acc64323dc376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:abab4a518924ed17376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:4a31e6b97fb5e95a376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:14c1a7ab8065b308376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:cb582b1b5ee779c9376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:90b50ef3e27c2283376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:43f92e2429e19d79376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:93df729656b65c7a376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:620008d71a398401376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:549941dd8bfb5756376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:9f9dd0f59ead926c376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:be311e372de90b72376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:5d422a81f094dac4376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:46deb17306322cd8376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:4e3d931c2ca3088e376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:872d9de55cec06fd376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
-松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:717a687c26ef3b44376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:f637cecd07f8fa72376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:2384395b58bf3e45376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
-松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:f1f0041fff65b4f9376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:8420df1c81f2a812376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
+松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+header={fftoken:3eef14347be0d73c376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:951912265fd9594a376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:fc02f907f68ee978376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
+松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+header={fftoken:a43d67f48e32197b376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:c8277666c8f50414376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:8903452fcf5f1315376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:f04f947053f00f43376db9ce5ef370db,playtoken:6aec5f6361f7cdb835ae8142644b250e}
+header={fftoken:74630821b75c41de376db9ce5ef370db,playtoken:4ed77c6f2985a9605ddfad57f210be06}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
