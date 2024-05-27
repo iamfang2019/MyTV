@@ -75,7 +75,7 @@ jobs:
           sed -i '/genre/d' ./TW
 
           ##-----------------------------------------------##
-          # Deliver : TW_allsorce (TVBox)
+          # Deliver : TW_allsource (TVBox)
           # Deliver : TW_allsource2 (M3U)
           ##-----------------------------------------------##
           chmod +x ./run_class
@@ -100,11 +100,11 @@ jobs:
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 ./d919fe9602ad13f7 > TW.ch
             
           # Add 18channel
-          mv ./TW_allsorce ./TW_allsorce_tmp
+          mv ./TW_allsource ./TW_allsource_tmp
           
           sed -i 's/安博私密,#genre#//' ./d919fe9602ad13f7
           sed -i 's/ #\(\d+)//' ./d919fe9602ad13f7
-          cat ./TW_allsorce_tmp ./UBTV18 ./d919fe9602ad13f7 > ./TW_allsorce
+          cat ./TW_allsource_tmp ./UBTV18 ./d919fe9602ad13f7 > ./TW_allsource
           rm -rf ./d919fe9602ad13f7
              
 
