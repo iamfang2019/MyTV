@@ -5,7 +5,7 @@ name: Combinate
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '1 5,9,13,17,21 * * *'
+    - cron: '0 5,9,13,17,21 * * *'
     
   pull_request:
     branches:
