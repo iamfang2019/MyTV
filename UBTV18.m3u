@@ -1,79 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UBTV18",松視1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UB18",松視1
 http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UBTV18",松視2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UB18",松視2
 http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視3.png" group-title="UBTV18",松視3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視3.png" group-title="UB18",松視3
 http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UBTV18",彩虹電影
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UB18",彩虹電影
 http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UBTV18",彩虹電影
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UB18",彩虹電影
 https://epg.pw/stream/8f647a29253c5b46f20972beade6fdda0a9b75d6e91b847c39c20b95ce97e78a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UBTV18",彩虹K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UB18",彩虹K
 http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UBTV18",彩虹K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UB18",彩虹K
 https://epg.pw/stream/244b0669ae93adbdd7f3b0a57daeafdf90f7b716fe663fc02d0fcf34a6b057c7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UBTV18",彩虹E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UB18",彩虹E
 http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UBTV18",彩虹E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UB18",彩虹E
 https://epg.pw/stream/39d8f414d724fb9b7c2b1d6ae39871850ff5cf78d9db0ef0a2b8eea8ed84a39a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷臺.png" group-title="UBTV18",驚艷臺
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷臺.png" group-title="UB18",驚艷臺
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉臺.png" group-title="UBTV18",香蕉臺
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉臺.png" group-title="UB18",香蕉臺
 http://125.227.210.55:8159/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷臺.png" group-title="UBTV18",驚艷臺
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷臺.png" group-title="UB18",驚艷臺
 https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UBTV18",潘朵拉
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UB18",潘朵拉
 https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UBTV18",潘朵拉
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UB18",潘朵拉
 http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UBTV18",潘朵拉
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵拉.png" group-title="UB18",潘朵拉
 https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉臺.png" group-title="UBTV18",香蕉臺
-https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/兔子台.png" group-title="UBTV18",兔子台
-http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Babestv.png" group-title="UBTV18",Babestv
-http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Hustler.png" group-title="UBTV18",Hustler
-http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/SEX Action.png" group-title="UBTV18",SEX Action
-http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/極限.png" group-title="UBTV18",極限
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/極限.png" group-title="UB18",極限
 http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UBTV18",松視1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UB18",松視1
 https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UBTV18",松視2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UB18",松視2
 https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UBTV18",松視1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UB18",松視1
 mitv://ns1.hellotvvod.com:9906/1dd11855e43142d6aec1b7f824097388
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UBTV18",松視2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UB18",松視2
 mitv://ns1.hellotvvod.com:9906/c76a909ae59d4e82ad59a3bc6cb09663
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視3.png" group-title="UBTV18",松視3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視3.png" group-title="UB18",松視3
 mitv://ns1.hellotvvod.com:9906/deceaed6309f406a8670002cf2ce7b9d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘多拉玩美台.png" group-title="UBTV18",潘多拉玩美台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘多拉玩美台.png" group-title="UB18",潘多拉玩美台
 mitv://ns1.hellotvvod.com:9906/eecd1c81c5cf469fbb58fda5f0569f07
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵啦粉紅台.png" group-title="UBTV18",潘朵啦粉紅台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/潘朵啦粉紅台.png" group-title="UB18",潘朵啦粉紅台
 mitv://ns1.hellotvvod.com:9906/74d29e2d271948bfa7644c1af47e3b83
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UBTV18",彩虹K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹K.png" group-title="UB18",彩虹K
 mitv://ns1.hellotvvod.com:9906/0e5867d2753148c6ae0d8aecaec1f1c4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UBTV18",彩虹E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹E.png" group-title="UB18",彩虹E
 mitv://ns1.hellotvvod.com:9906/eb7a0e51d5204093925f38e0fd298b1b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UBTV18",彩虹電影
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/彩虹電影.png" group-title="UB18",彩虹電影
 mitv://ns1.hellotvvod.com:9906/c151f129e31846f691cd2b3ae554d4d1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉台.png" group-title="UBTV18",香蕉台
-mitv://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Happy.png" group-title="UBTV18",Happy
-mitv://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Look TV.png" group-title="UBTV18",Look TV
-mitv://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/JS極限電影.png" group-title="UBTV18",JS極限電影
-mitv://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/PLAYBOY.png" group-title="UBTV18",PLAYBOY
-mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/👅奧視🔞3.png" group-title="UBTV18",👅奧視🔞3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/👅奧視🔞3.png" group-title="UB18",👅奧視🔞3
 http://125.227.210.55:8917/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/🔮奧視2.png" group-title="UBTV18",🔮奧視2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/🔮奧視2.png" group-title="UB18",🔮奧視2
 http://125.227.210.55:55643/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/💖Sex ❌Girl.png" group-title="UBTV18",💖Sex ❌Girl
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/💖Sex ❌Girl.png" group-title="UB18",💖Sex ❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉台.png" group-title="UB18",香蕉台
+mitv://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Happy.png" group-title="UB18",Happy
+mitv://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Look TV.png" group-title="UB18",Look TV
+mitv://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/JS極限電影.png" group-title="UB18",JS極限電影
+mitv://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/PLAYBOY.png" group-title="UB18",PLAYBOY
+mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉臺.png" group-title="UB18",香蕉臺
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/兔子台.png" group-title="UB18",兔子台
+http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Babestv.png" group-title="UB18",Babestv
+http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Hustler.png" group-title="UB18",Hustler
+http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/SEX Action.png" group-title="UB18",SEX Action
+http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8

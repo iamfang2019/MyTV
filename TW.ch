@@ -16098,7 +16098,7 @@ LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_h
 
 
 
-UBTV18,#genre#
+UB18,#genre#
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
@@ -16118,12 +16118,7 @@ UBTV18,#genre#
 潘朵拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 潘朵拉,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
 潘朵拉,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
-香蕉臺,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 
-兔子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
-Hustler,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
-SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
 
 極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 
@@ -16139,16 +16134,25 @@ SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca
 彩虹K,mitv://ns1.hellotvvod.com:9906/0e5867d2753148c6ae0d8aecaec1f1c4
 彩虹E,mitv://ns1.hellotvvod.com:9906/eb7a0e51d5204093925f38e0fd298b1b
 彩虹電影,mitv://ns1.hellotvvod.com:9906/c151f129e31846f691cd2b3ae554d4d1
+
+
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+
+
 香蕉台,mitv://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a
 Happy,mitv://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718
 Look TV,mitv://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0
 JS極限電影,mitv://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80
 PLAYBOY,mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
 
+香蕉臺,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+兔子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+Hustler,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
 安博私密,#genre#
 header={fftoken:7c9eaaee17d6e32a376db9ce5ef370db,playtoken:1a1f43dcc37f9f6bce3d9da2f107fd5e}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
