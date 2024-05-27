@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/驚艷臺.png" group-title="UB18",驚艷臺
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/香蕉臺.png" group-title="UB18",香蕉臺
+http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/奧視2.png" group-title="UB18",奧視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/奧視3.png" group-title="UB18",奧視3
+http://125.227.210.55:8917/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/SexGirl.png" group-title="UB18",SexGirl
+http://125.227.210.55:62698/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視1.png" group-title="UB18",松視1
 http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/松視2.png" group-title="UB18",松視2
