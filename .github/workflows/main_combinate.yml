@@ -84,7 +84,7 @@ jobs:
           # Re-target M3U
           mv ./TW_allsource2 ./m3u.src
 
-          
+
           
 
           # add catagory for Smart parsing
@@ -98,8 +98,14 @@ jobs:
           # Cascade all for smart parsing
           wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76c053b24/d919fe9602ad13f7
           cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 ./d919fe9602ad13f7 > TW.ch
-          rm -rf ./d919fe9602ad13f7     
-
+            
+          # Add 18channel
+          mv ./TW_allsorce ./TW_allsorce_tmp
+          
+          sed -i 's/安博私密,#genre#//' ./d919fe9602ad13f7
+          sed -i 's/ #\(\d+)//' ./d919fe9602ad13f7
+          cat ./TW_allsorce_tmp ./UBTV18 ./d919fe9602ad13f7 > ./TW_allsorce
+          rm -rf ./d919fe9602ad13f7
              
 
       - name: Set up Python
@@ -118,6 +124,8 @@ jobs:
 
           # Parsing script
           python ${{ github.workspace }}/txt2m3u.py
+
+        
 
                      
       - name: Remove redundancy
