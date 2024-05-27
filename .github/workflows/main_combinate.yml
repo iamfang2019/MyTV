@@ -103,7 +103,7 @@ jobs:
           mv ./TW_allsource ./TW_allsource_tmp
           
           sed -i 's/安博私密,#genre#//' ./d919fe9602ad13f7
-          sed -i 's/ #\(\d+)//' ./d919fe9602ad13f7
+          #sed -n 's/ #\(\d+)//' ./d919fe9602ad13f7
           cat ./TW_allsource_tmp ./UBTV18 ./d919fe9602ad13f7 > ./TW_allsource
           rm -rf ./d919fe9602ad13f7
              
