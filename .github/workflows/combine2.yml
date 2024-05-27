@@ -157,5 +157,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Link updated"
+          git commit -m "combine2 Link updated"
           git push
