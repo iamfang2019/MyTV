@@ -1804,6 +1804,7 @@ header={fftoken:f8f60db6ad211fd2376db9ce5ef370db,playtoken:7031bfaa8ed2b11353c61
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 動物星球,p3p://108.181.20.159:09318/6214894b0007e3120334d50a59d03689
 header={fftoken:eedac8ae8b291eb3376db9ce5ef370db,playtoken:7031bfaa8ed2b11353c618fa8affb5cd}
 國家野生,https://f21.unityanuc.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
@@ -1812,7 +1813,9 @@ DiscoveryAsia,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591
 DiscoveryAsia,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 DiscoveryAsia,http://23.224.232.221:81/kk.php?id=discoverytwn_twn
 DiscoveryAsia,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
+DiscoveryAsia,http://61.221.215.25:8800/hls/50/index.m3u8
 DiscoveryHD,http://23.224.232.221:81/kk.php?id=discoveryhd_twn
+DiscoveryHD,http://61.221.215.25:8800/hls/1/index.m3u8
 AsiaTravel,http://23.224.232.221:81/kk.php?id=asiatravel_twn
 NatGeoWildHD,http://23.224.232.221:81/kk.php?id=Natgeowild
 BBCEarth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5

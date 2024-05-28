@@ -1799,10 +1799,16 @@ http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243
 http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/動物星球.png" group-title="知旅",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryAsia.png" group-title="知旅",DiscoveryAsia
 http://23.224.232.221:81/kk.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryAsia.png" group-title="知旅",DiscoveryAsia
+http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryHD.png" group-title="知旅",DiscoveryHD
 http://23.224.232.221:81/kk.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/DiscoveryHD.png" group-title="知旅",DiscoveryHD
+http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/AsiaTravel.png" group-title="知旅",AsiaTravel
 http://23.224.232.221:81/kk.php?id=asiatravel_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/NatGeoWildHD.png" group-title="知旅",NatGeoWildHD
