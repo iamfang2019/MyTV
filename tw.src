@@ -1790,7 +1790,7 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 //61.221.215.25
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
-探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+DiscoveryHD,http://61.221.215.25:8800/hls/1/index.m3u8
+DiscoveryAsia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 
