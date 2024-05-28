@@ -132,7 +132,7 @@ jobs:
         run: |
           rm -rf TW0 TW1 TW2 TW3 TW4 TW5
           rm -rf 0_TW 1_News 2_Mix 3_Movie 4_Sport 5_child 6_Radio 6_Know 7_BGM 9_other
-          rm -rf TW TW_txt
+          rm -rf TW TW_txt TW_allsource_tmp
           
           rm -rf ./rslt
           rm -rf ./live.txt
