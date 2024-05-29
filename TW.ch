@@ -1641,7 +1641,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -1675,8 +1675,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -1703,7 +1703,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -1750,7 +1750,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -2323,8 +2323,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -5065,7 +5065,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -5099,8 +5099,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -5127,7 +5127,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -5174,7 +5174,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -5747,8 +5747,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -8540,7 +8540,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -8574,8 +8574,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -8602,7 +8602,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -8649,7 +8649,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -9222,8 +9222,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -11965,7 +11965,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -11999,8 +11999,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -12027,7 +12027,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -12074,7 +12074,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -12647,8 +12647,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -15389,7 +15389,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -15423,8 +15423,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -15451,7 +15451,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -15498,7 +15498,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -16071,8 +16071,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -18814,7 +18814,7 @@ HBO,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/inde
 東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CINEMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -18848,8 +18848,8 @@ Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710f
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-Eleven體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+ELEVEN體育1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 愛爾達體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -18876,7 +18876,7 @@ Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
+EYETV旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Globetrotter環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
@@ -18923,7 +18923,7 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+CatchPlay電影,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CHC高畫質電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
@@ -19496,8 +19496,8 @@ HTV7,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/ind
 HTV9,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
 HTV1,https://z88.ubtvfans.com/live/rx4/2254/bfb4f1fecc5555ea06b811541c7608e1/index.m3u8
 HTV2,https://z88.ubtvfans.com/live/rx4/2255/2bdd74e548e1269b44f649659bfe7f23/index.m3u8
-Max by HBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
-Disney Chanel,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
+MaxbyHBO,https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 Bóng Đá TV,https://z88.ubtvfans.com/live/rx4/2263/d7c0eb4127bb0316bf60852fab2cf30b/index.m3u8
 QRT,https://z88.ubtvfans.com/live/rx4/1294/ebed5233186b20de996f04ff6d18b223/index.m3u8
 ANTV,https://z88.ubtvfans.com/live/rx4/1300/33bab39afa98f7d53c0beb1f564f7505/index.m3u8
@@ -21300,65 +21300,65 @@ FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d2267
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 安博私密,#genre#
-header={fftoken:8c64d223429b7933376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:10528a7fbe59ce6d376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:adefc39b760b2a88376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:fc8c03f146b8de32376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:1a658e6db681f1a1376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:686c5ac383dc8c38376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:f0b5070cc44c5b6b376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:196896e75a3a8638376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:1b277623a8e96d40376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:ec8d6d4d032ccf76376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:3e7484444ab23519376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:eae7addb718cc23d376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:c836eed8047f3a5a376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:21c1fc4e147704c0376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:c7bc7772384fbf19376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:77554e3656c2e745376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:0155866e2debbb44376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:8fdc978c591524ff376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:2940b1bb2cf019ab376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:2e895d3635490c3f376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:f63929d69717f346376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:046e859c2b280a3f376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:62e553b7f1e208d9376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:1ae38f63c236a1fc376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:b60956280e4fac59376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:4c82cda08ee15bb6376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:1df9ce150fc658b9376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:034d58291f172965376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:9d25b37e1a5cfe96376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:b631b3d37104c712376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:9d7c8de93f1b705e376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:30b5c7707ab80b82376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:5256de4ea3d64686376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:3307f1a5ad4398c5376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:d45ad8c353890a8d376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:070c59799d1491bd376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:7033782a56691855376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:2a45f7fd44d6ae2b376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:af9892454b40cb26376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:e52ae764b3561d88376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:aa310a08a312da77376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:242e9cd6f78e58f1376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:3faeb7be662988b3376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:a981484e9f8688a5376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:a651f48bf03d82cb376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:a7334809fa489675376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:e26d95b868347dc9376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:8ca6d617c5150428376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:1ee830c8377ebda6376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
-松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:23dbf03af5297dad376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:02725e97ee7a0ea5376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:7ae4e3f88b59546d376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
-松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:8c8f5c4b2f931818376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:9a86468e4499b25b376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
+松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+header={fftoken:81e3482cbc336f56376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:7dac6a4b8780d42d376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:93b68c09bd2c1b68376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
+松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+header={fftoken:a977b6641536df0f376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:a1ac17e2cfecc958376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:62f44f7b72fc3391376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:a1fb3f5513da8d17376db9ce5ef370db,playtoken:70991fe1299cc51567a20705650f3dcd}
+header={fftoken:a8ddb9ca43b85ed3376db9ce5ef370db,playtoken:24aa797c76d96a0b1d47dcccc2ca3b1c}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8

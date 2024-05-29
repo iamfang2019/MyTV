@@ -1293,7 +1293,7 @@ http://www.ubvip1688.com/ublive/47aaf1797deedfdb.m3u8
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 http://23.224.232.221:81/kk.php?id=catchplay_twn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CATCHPLAY.png" group-title="電影",CATCHPLAY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CatchPlay電影.png" group-title="電影",CatchPlay電影
 https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
@@ -1361,7 +1361,7 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
 https://z88.ubtvfans.com/live/rx4/2975/8390c59c4f230d80da53979ba4f0d123/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Max by HBO.png" group-title="電影",Max by HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MaxbyHBO.png" group-title="電影",MaxbyHBO
 https://z88.ubtvfans.com/live/rx4/2261/3a522b4a8ad972f4fe640412b53561f5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO.png" group-title="電影",HBO
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
@@ -1431,7 +1431,7 @@ http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=
 http://23.224.232.221:81/kk.php?id=cinemax_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
 https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
 https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
 https://z88.ubtvfans.com/live/rx3/1518/782d29517c7946020aa8d6052cee6357/index.m3u8
@@ -1543,7 +1543,7 @@ rtmp://f13h.mine.nu:1935/sat/tv731
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育1.png" group-title="體育",ELEVEN體育1
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Eleven體育1.png" group-title="體育",Eleven體育1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育1.png" group-title="體育",ELEVEN體育1
 https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育1.png" group-title="體育",ELEVEN體育1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=ME8E1688448716884487&ct=19669&tsum=11bb8f975e846dd914931fbbf927dc0d
@@ -1555,7 +1555,7 @@ rtmp://f13h.mine.nu:1935/sat/tv741
 rtmp://twcdn.top/sat/tv741
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育2.png" group-title="體育",ELEVEN體育2
 rtmp://f13h.mine.nu:1935/sat/tv741
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Eleven體育2.png" group-title="體育",Eleven體育2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/ELEVEN體育2.png" group-title="體育",ELEVEN體育2
 https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/愛爾達體育1.png" group-title="體育",愛爾達體育1
 rtmp://twcdn.top/sat/md051
@@ -1713,6 +1713,8 @@ http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19
 https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Disney.png" group-title="親子",Disney
 https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Disney.png" group-title="親子",Disney
+https://z88.ubtvfans.com/live/rx4/2262/46f6c40eae0d82356657c37e69d7ccf0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MOMO親子.png" group-title="親子",MOMO親子
 http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/MOMO親子.png" group-title="親子",MOMO親子
