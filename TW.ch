@@ -2615,8 +2615,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -2698,8 +2698,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -2781,8 +2781,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -2864,8 +2864,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -6451,8 +6451,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -6534,8 +6534,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -6617,8 +6617,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -6700,8 +6700,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -10338,8 +10338,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -10421,8 +10421,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -10504,8 +10504,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -10587,8 +10587,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -14175,8 +14175,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -14258,8 +14258,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -14341,8 +14341,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -14424,8 +14424,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -18011,8 +18011,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -18094,8 +18094,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -18177,8 +18177,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -18260,8 +18260,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -21848,8 +21848,8 @@ TVBS,https://z1.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z1.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z1.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z1.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z1.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z1.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -21931,8 +21931,8 @@ TVBS,https://z2.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z2.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z2.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z2.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z2.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z2.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -22014,8 +22014,8 @@ TVBS,https://z3.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z3.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z3.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z3.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z3.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z3.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -22097,8 +22097,8 @@ TVBS,https://z4.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.
 非凡新聞,https://z4.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新聞,https://z4.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
-壹新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+壹電視新聞,https://z4.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 中視,https://z4.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視經典,https://z4.ubtvfans.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
@@ -23772,65 +23772,65 @@ FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d2267
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 安博私密,#genre#
-header={fftoken:9c0cc34bf8663a5e376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:9697f2ec9ab532a5376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:1daf99f0db77fdaf376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:199f024354b21d90376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:e4579093db79c5a7376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:4022d0539434399c376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:c1a0363d5f9b10d7376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:46635f3fd41489c6376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:3b2a0cf0cf9c40b1376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:b2df8488fe44e4d8376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:52bec152170fb017376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:e7b7eff4da58b54a376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:1009e895aef4cd49376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:df5ece340ed52320376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:3790a8740f3f6469376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:c4a62e79237b6950376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:92eb05d3b4cf460d376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:fcc04e5edc7730dd376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:f6055d8ee87585ef376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:870529cde7e4d022376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:4954d67b6ac92346376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:1d7a8f7aa996c1f6376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:d6747d93fecee113376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:b1117601a59ab434376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:41a649736b36a93b376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:ab7e235746e109c6376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:75daec5f91cf0eb9376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:78534bd943b83ad7376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:7605e236dc9e5c22376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:8c11ab5e56758ee7376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:f1bbf3417c24d41d376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:bfa1da44d16bd414376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:0d4401b78ff5496c376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:095daca5fc75c85b376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:83458ac6d0c57533376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:77d97ac422f8e469376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:f13bbfa3f306459c376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:f55c5c433acbcac0376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:67bdc8a5ec715fbd376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:949fd959fb784ce9376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:712f890f0f001df6376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:b06e65e646aca095376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:54684711b7212913376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:a94f60bba771f3f3376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:361c9ce2a6bc98bd376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:eaa88e3d6c7aa833376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:aa4d50b00bd206bf376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:9a6b207ac5c80ee0376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:c074ca7e13b4ea20376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
-松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:2fbe252dfa3e5374376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:abe40775d216567c376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:602d903ffa6fefc4376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:ef59210ec8c80910376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
+松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+header={fftoken:96c11df40496cf2d376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:0d58cc0299ee8c6f376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:135c2c0b13906109376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:2650db120f658631376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:30467069aec7dfaf376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:0148001e180c2aaf376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:78dd0b8446432cd4376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:a142fe491524114c376db9ce5ef370db,playtoken:2656ea19e5223f7f6e9eb9325936d000}
+header={fftoken:7af4d87dcc7f7f96376db9ce5ef370db,playtoken:e86b78c84fb0219c659dfe773d266c93}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
