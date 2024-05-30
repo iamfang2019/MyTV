@@ -188,10 +188,10 @@ TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,p3p://108.181.20.159:09318/621858e3000e70ad1217c0700d576ad0
 TVBS新聞,p3p://108.181.20.159:09318/6560da55000f014a9387da3a6873515a
-header={fftoken:f1365ea1b880f10e376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
-header={fftoken:45243af8fe31f2a2376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:5f55d91c7b6115fa376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TVBS,https://www.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+header={fftoken:81902d2a531b15e4376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
 TVBS,http://www.ubvip1688.com/ublive/9ed9a0ee642ea3fb.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
@@ -327,8 +327,8 @@ TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
 東森財經,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MC5C5206013052060130&ct=19669&tsum=4501c2970138f3034778ebc9def9a85f
 東森財經,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
 東森財經,p3p://108.181.20.159:09318/61468bd70005123dea7373f226636dba
-header={fftoken:9d4d002744ba79ee376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-民視,https://www.abouthomex.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+header={fftoken:ae7a77c21a834374376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+民視,https://f02.bootsaleuks.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 民視,http://www.ubvip1688.com/ublive/b4565ec6a0b2c6bd.m3u8
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
@@ -366,10 +366,10 @@ header={fftoken:9d4d002744ba79ee376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 民視,p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
-header={fftoken:4db64b1b6ea5c457376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-台視,https://f22.ccplay22aldrich.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
-header={fftoken:89691e7e7744cc38376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-台視,https://www.duckinfoint.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:3b114751d55ced58376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:c634f288dcdd5e19376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+台視,https://f21.unityanuc.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 台視,http://www.ubvip1688.com/ublive/5148a735955551e5.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
@@ -400,8 +400,8 @@ header={fftoken:89691e7e7744cc38376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
-header={fftoken:51bba4f3eda20cf2376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-中視,https://f23.bootsaleuks.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+header={fftoken:0c90f8d0b5199d93376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視,http://www.ubvip1688.com/ublive/4f73f9666e943a23.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
@@ -440,7 +440,7 @@ header={fftoken:51bba4f3eda20cf2376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
-header={fftoken:85a1df1d14e07679376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:4d28a0b15b1d3c1a376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 華視,http://www.ubvip1688.com/ublive/a0cd3c8ea2aa412a.m3u8
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
@@ -518,8 +518,8 @@ header={fftoken:1,playtoken:1}
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 公視,p3p://108.181.20.159:09318/63ebf0b7000e7d27e2de13a9113e7096
 綜合,#genre#
-header={fftoken:9d4d002744ba79ee376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-民視,https://www.abouthomex.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+header={fftoken:ae7a77c21a834374376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+民視,https://f02.bootsaleuks.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 民視,http://www.ubvip1688.com/ublive/b4565ec6a0b2c6bd.m3u8
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,rtmp://220.130.201.73/sat/tv051
@@ -557,10 +557,10 @@ header={fftoken:9d4d002744ba79ee376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MBEB8236958282369582&ct=19669&tsum=b70fb28519bb1823a12324f0e265c2c5
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 民視,p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
-header={fftoken:4db64b1b6ea5c457376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-台視,https://f22.ccplay22aldrich.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
-header={fftoken:89691e7e7744cc38376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-台視,https://www.duckinfoint.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:3b114751d55ced58376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+台視,https://f09.ibmfocus.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
+header={fftoken:c634f288dcdd5e19376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+台視,https://f21.unityanuc.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 台視,http://www.ubvip1688.com/ublive/5148a735955551e5.m3u8
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視,rtmp://220.130.201.73/sat/tv071
@@ -591,8 +591,8 @@ header={fftoken:89691e7e7744cc38376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=19669&tsum=7b270540e20f85cf90016e42e08002e1
 台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
-header={fftoken:51bba4f3eda20cf2376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-中視,https://f23.bootsaleuks.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
+header={fftoken:0c90f8d0b5199d93376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+中視,https://f22.ccplay22aldrich.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 中視,http://www.ubvip1688.com/ublive/4f73f9666e943a23.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 中視,rtmp://220.130.201.73/sat/tv091
@@ -631,7 +631,7 @@ header={fftoken:51bba4f3eda20cf2376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 中視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 中視,p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
-header={fftoken:85a1df1d14e07679376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:4d28a0b15b1d3c1a376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 華視,https://f22.ccplay22aldrich.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 華視,http://www.ubvip1688.com/ublive/a0cd3c8ea2aa412a.m3u8
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
@@ -708,7 +708,7 @@ header={fftoken:1,playtoken:1}
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=19669&tsum=98b3e0a85cc4b1375c09f133f9090bad
 公視,p3p://108.181.20.159:09318/63ebf0b7000e7d27e2de13a9113e7096
-header={fftoken:8a1778709c0bd2ad376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:49cfa0e40191d99d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 緯來綜合,https://f03.ccbookcohky.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 緯來綜合,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
 緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
@@ -723,7 +723,7 @@ header={fftoken:8a1778709c0bd2ad376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 緯來綜合,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
 緯來綜合,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
 緯來綜合,p3p://108.181.20.159:09318/5fe16e690002b73877895ae33a8a2a16
-header={fftoken:4e974cecc60e0533376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:a026801c9cde3588376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 八大第一,https://f02.bootsaleuks.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -745,7 +745,7 @@ header={fftoken:4e974cecc60e0533376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MA4A7628447176284471&ct=19669&tsum=2b6ff11fd5d1d31c02a1bff77725417a
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,p3p://108.181.20.159:09318/5fea93070007b1939b3ff46f17b905c7
-header={fftoken:1a4b37927db99e61376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:a6fa4ffad21a05b5376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 八大綜合,https://f03.ccbookcohky.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -793,12 +793,12 @@ header={fftoken:1a4b37927db99e61376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 三立台灣,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
 三立台灣,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=19669&tsum=52d6062d021d23406f15935a1e478b0e
 三立台灣,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=19669&tsum=52d6062d021d23406f15935a1e478b0e
-header={fftoken:39252abb765b9296376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-三立都會,https://f03.ccbookcohky.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
-header={fftoken:6ecef1d62b40e5be376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-三立都會,https://f03.ccbookcohky.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
-header={fftoken:03550767350dc449376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:4c9b697607419cbc376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+三立都會,https://www.duckinfoint.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
+header={fftoken:44a60d6da456b172376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 三立都會,https://www.duckinfoint.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
+header={fftoken:9300ff51b7d64fa6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+三立都會,https://f03.ccbookcohky.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立都會,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 三立都會,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=MD6D5151199651511996&ct=19669&tsum=e01222fca502bef1ab7ccd4827559144
@@ -826,7 +826,7 @@ header={fftoken:03550767350dc449376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 三立都會,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=MD6D5151199651511996&ct=19669&tsum=e01222fca502bef1ab7ccd4827559144
 三立都會,http://198.16.100.90:8278/sanlidouhui_twn/playlist.m3u8?tid=MD6D5151199651511996&ct=19669&tsum=e01222fca502bef1ab7ccd4827559144
 三立都會,p3p://108.181.20.159:09318/5fe29458000eb9287c058b8b2e5806e8
-header={fftoken:6309b70a5b4ccfa3376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:386ef97349112385376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 三立戲劇,https://f05.eggonnetus.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 三立戲劇,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -845,7 +845,7 @@ header={fftoken:6309b70a5b4ccfa3376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 三立戲劇,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MEFE2533125325331253&ct=19669&tsum=da7eb6c2ccede07a40e6f0bbefa14d05
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,p3p://108.181.20.159:09318/623524310003dee68290a4c42edc7cf5
-header={fftoken:8bc163fc86705545376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:c087aebb06f068db376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 韓國娛樂,https://f05.eggonnetus.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
@@ -859,7 +859,7 @@ header={fftoken:8bc163fc86705545376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韓國娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
-header={fftoken:ad74a27dc452734e376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6ef5d488d23b6be1376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 華藝綜合,https://f07.googleling.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 華藝綜合,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 華藝綜合,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=ME8E6968577969685779&ct=19669&tsum=8f35b96cca5949be6daa6e30fb97541d
@@ -871,7 +871,7 @@ header={fftoken:ad74a27dc452734e376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 華藝綜合,https://z3.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 華藝綜合,https://z4.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 華藝綜合,p3p://108.181.20.159:09318/64c62137000746f437278510051625d8
-header={fftoken:cc7fb09e497de839376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:46df9ff9d4338832376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 tvN,https://f22.ccplay22aldrich.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 tvN,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=tvn
@@ -881,8 +881,8 @@ tvN,https://z88.ubtvfans.com/live/rx3/1170/8bd67d195c48b766ff7899ee309e25dd/inde
 tvN,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-header={fftoken:3110d279da140b84376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-東森綜合,https://f06.fromonlinexcomf.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
+header={fftoken:8553ee94a28bdb0f376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+東森綜合,https://f05.eggonnetus.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
 東森綜合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 東森綜合,http://220.134.196.147:9553/.m3u8
 東森綜合,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
@@ -904,7 +904,7 @@ header={fftoken:3110d279da140b84376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 東森綜合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
 東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MDCD3175842131758421&ct=19669&tsum=d7c05fe97a5e0fabd64b964fbb7b7fda
 東森綜合,p3p://108.181.20.159:09318/5fe8c5570001412994347b4506da6ebb
-header={fftoken:d88da98a5f20bcb5376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:7474bbdf1892ea43376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 東森超視,https://f03.ccbookcohky.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,rtmp://220.130.201.73/sat/tv331
@@ -925,7 +925,7 @@ header={fftoken:d88da98a5f20bcb5376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 東森超視,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MC4C8015043580150435&ct=19669&tsum=6a4d4ee150db69023af59ea067f116ff
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
 東森超視,p3p://108.181.20.159:09318/6388b74e000e69875f479f207662566b
-header={fftoken:ed0689fd5bc9de3f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:fc27b139f96a7ff1376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 愛爾達影劇,https://f05.eggonnetus.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 愛爾達影劇,P2p://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
@@ -938,7 +938,7 @@ header={fftoken:ed0689fd5bc9de3f376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達影劇,http://50.7.238.114:8278/drama_twn/playlist.m3u8?tid=MC4C4531871445318714&ct=19669&tsum=636d7429c84f97e97fba49027358951a
 愛爾達影劇,http://198.16.100.90:8278/drama_twn/playlist.m3u8?tid=MC4C4531871445318714&ct=19669&tsum=636d7429c84f97e97fba49027358951a
 愛爾達影劇,p3p://108.181.20.159:09318/644f91780000980d6808346f494d7ec1
-header={fftoken:b6e1fba17178e630376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6e2e1c43384c2821376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 愛爾達娛樂,https://f05.eggonnetus.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
 愛爾達娛樂,http://www.ubvip1688.com/ublive/ff1a006e17ffc5ee.m3u8
 愛爾達娛樂,https://lsj.37o.xyz/histar.php?id=elta-ylt
@@ -950,7 +950,7 @@ header={fftoken:b6e1fba17178e630376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達娛樂,https://z4.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
 愛爾達娛樂,video://https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
 愛爾達娛樂,p3p://108.181.20.159:09318/654f2d84000107fc4e7d1a7a77631ac2
-header={fftoken:78bf33b5457312ce376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:cc758fbeebc4a5fe376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 愛爾達綜合,https://f06.fromonlinexcomf.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
 愛爾達綜合,http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
@@ -965,13 +965,13 @@ header={fftoken:78bf33b5457312ce376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達綜合,http://50.7.238.114:8278/zonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,http://198.16.100.90:8278/zonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
 愛爾達綜合,p3p://108.181.20.159:09318/644f9341000c1001680f3089032174aa
-header={fftoken:e4eed1584b7b3347376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:de153610659ab205376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 年代much,https://f03.ccbookcohky.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 年代much,https://z88.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 年代much,https://z88.ubtvfans.com/live/rx1/1359/44acb036ef6a4711efb23d82a5d9151e/index.m3u8
-header={fftoken:2f5df6b48e0905b5376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:87acbff7ae20276c376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 中天綜合,https://f02.bootsaleuks.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-header={fftoken:0f9a5a433ef5c98f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ce1754fc8f83bc2a376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 中天綜合,https://f02.bootsaleuks.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
 中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
@@ -996,7 +996,7 @@ header={fftoken:0f9a5a433ef5c98f376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=ME6E9018004190180041&ct=19669&tsum=9162586b8020223b872eb0e0e58eca1c
 中天綜合,p3p://108.181.20.159:09318/5fe293ee000b7cbd7c03ecad72ba76ec
-header={fftoken:1f56dadaa5ceec61376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:cabaf32f59df2dba376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 中天娛樂,https://f03.ccbookcohky.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -1016,10 +1016,10 @@ header={fftoken:1f56dadaa5ceec61376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=ME6E8458339284583392&ct=19669&tsum=af2f17d202b432a15ec4f9a26fa917f9
 中天娛樂,p3p://108.181.20.159:09318/5ffae39100029825dafa1d03520571ac
-header={fftoken:d1f64b5cfd7ec72c376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-東森戲劇,https://f03.ccbookcohky.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-header={fftoken:1d6e6084a427bc91376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-東森戲劇,https://f03.ccbookcohky.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
+header={fftoken:61ebf0359564d5a7376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+東森戲劇,https://f07.googleling.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
+header={fftoken:471928cc2a31fb19376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+東森戲劇,https://www.abouthomex.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce#P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
@@ -1036,7 +1036,7 @@ header={fftoken:1d6e6084a427bc91376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MD1D6099891960998919&ct=19669&tsum=2dcc084ffef9ad5a15ddb627e93ef0a8
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MD1D6099891960998919&ct=19669&tsum=2dcc084ffef9ad5a15ddb627e93ef0a8
 東森戲劇,p3p://108.181.20.159:09318/60c02afe00055e7edd8f5fb06ca977d5
-header={fftoken:569ef01a96a26a8b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:684a7f854912d7f0376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 八大戲劇,https://www.abouthomex.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
 八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1054,7 +1054,7 @@ header={fftoken:569ef01a96a26a8b376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MD2D5798721157987211&ct=19669&tsum=95cee3b3717d47e8024e88d02b29262b
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,p3p://108.181.20.159:09318/6224f676000aef1a435e76c619855b4e
-header={fftoken:bda01e4a2086a62e376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:3679a65b51a35d3f376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TVBS歡樂,https://f03.ccbookcohky.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 TVBS歡樂,http://www.ubvip1688.com/ublive/46c03c0620610bcc.m3u8
 TVBS歡樂,rtmp://f13h.mine.nu:1935/sat/tv421
@@ -1075,10 +1075,10 @@ TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496
 TVBS歡樂,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A1657496116574961&ct=19669&tsum=2b45bf76ee25f1cace9981e712eb080d
 TVBS歡樂,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 TVBS歡樂,p3p://108.181.20.159:09318/61e831a60008c7d761db13151abe16ae
-header={fftoken:f1365ea1b880f10e376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
-header={fftoken:45243af8fe31f2a2376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:5f55d91c7b6115fa376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TVBS,https://www.duckinfoint.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+header={fftoken:81902d2a531b15e4376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+TVBS,https://www.ttfly19lili.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
 TVBS,http://www.ubvip1688.com/ublive/9ed9a0ee642ea3fb.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,rtmp://twcdn.top/sat/tv551
@@ -1106,9 +1106,9 @@ TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS,p3p://108.181.20.159:09318/612ee5ef000f06f58e144b6727ec3efb
-header={fftoken:df5a49522b13c067376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來戲劇,https://www.abouthomex.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
-header={fftoken:90ad64e565d6ede6376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:210d8039a5f4a322376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來戲劇,https://f05.eggonnetus.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
+header={fftoken:a5a70d18cf8037b6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 緯來戲劇,https://f22.ccplay22aldrich.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 緯來戲劇,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 緯來戲劇,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
@@ -1129,7 +1129,7 @@ header={fftoken:90ad64e565d6ede6376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 高點綜合,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
 高點綜合,p3p://108.181.20.159:09318/6483819d000e97b032e96e1f26b40f0b
 高點綜合,p3p://108.181.20.159:09318/64c7cf1b000247a33db6c6660f1427b6
-header={fftoken:4c70117cfc8248a8376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:23b387369ab9336c376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 JET綜合,https://www.abouthomex.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
 JET綜合,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
@@ -1142,10 +1142,10 @@ JET綜合,https://z4.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/i
 JET綜合,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 JET綜合,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 JET綜合,p3p://108.181.20.159:09318/621e14f2000381b7287dfb1557135ff8
-header={fftoken:9bce6e8fe6cd16a0376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來日本,https://www.abouthomex.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
-header={fftoken:1093d4ecaeb8ec63376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來日本,https://www.duckinfoint.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+header={fftoken:e48c2f7d94acef2e376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來日本,https://f24.ccbookcohky.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+header={fftoken:37fd3b066736b405376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來日本,https://f09.ibmfocus.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來日本,rtmp://220.130.201.73/sat/tv771
 緯來日本,rtmp://twcdn.top/sat/tv771
@@ -1186,7 +1186,7 @@ header={fftoken:1093d4ecaeb8ec63376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 國興衛視,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 國興衛視,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 國興衛視,p3p://108.181.20.159:09318/64bbca22000912200ec3b2631bca27c7
-header={fftoken:bd31376324806e57376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:5c49e4a380c10e5c376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天日本,https://www.duckinfoint.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 靖天日本,http://www.ubvip1688.com/ublive/6fe0f15461f92993.m3u8
 靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
@@ -1203,7 +1203,7 @@ header={fftoken:bd31376324806e57376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖天日本,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 靖天日本,video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 靖天日本,p3p://108.181.20.159:09318/612db74f000c333c897629ac70920bef
-header={fftoken:2e9a18a39e2b9e26376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:e782ccf590a83c76376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天戲劇,https://f07.googleling.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
 靖天戲劇,http://www.ubvip1688.com/ublive/88ac08bb8edcc30b.m3u8
 靖天戲劇,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
@@ -1214,7 +1214,7 @@ header={fftoken:2e9a18a39e2b9e26376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖天戲劇,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
 靖天戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 靖天戲劇,p3p://108.181.20.159:09318/612db70e000298f98975294e4645098b
-header={fftoken:b137b5b73489f6ff376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:c4d75ed2b4d4260d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖洋戲劇,https://f07.googleling.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 靖洋戲劇,http://www.ubvip1688.com/ublive/f2208476c5836320.m3u8
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
@@ -1227,9 +1227,9 @@ header={fftoken:b137b5b73489f6ff376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖洋戲劇,mitv://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
 靖洋戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 靖洋戲劇,p3p://108.181.20.159:09318/626104d8000627c22df3f662158708fa
-header={fftoken:22827c8aec87e8ea376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:091a15642318dc70376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 采昌影劇,https://f09.ibmfocus.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-header={fftoken:4b000877bdbf8431376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:2745b62ff8b2ba9b376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 采昌影劇,https://f06.fromonlinexcomf.com/live/rx1/2804/4919d2cc2740110f045fe9c49dfce484/index.m3u8
 采昌影劇,http://www.ubvip1688.com/ublive/547960dfb7e62f96.m3u8
 采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
@@ -1240,7 +1240,7 @@ header={fftoken:4b000877bdbf8431376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
 采昌影劇,mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
 采昌影劇,video://https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
-header={fftoken:90bf7628c908b50c376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:5a7b0da4fc5cadd4376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 EYETV戲劇,https://f07.googleling.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
 EYETV戲劇,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
@@ -1249,10 +1249,10 @@ EYETV戲劇,http://23.224.232.221:81/kk.php?id=eyetvxiju_twn
 EYETV戲劇,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=MCAC9224460992244609&ct=19669&tsum=f0cc1a0c8247f116fceebc5c77471446
-header={fftoken:3472cfc06c552125376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-龍華戲劇,https://f21.unityanuc.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-header={fftoken:e5ffaf8ac90345fd376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:66305044237be057376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 龍華戲劇,https://f07.googleling.com/live/rx1/2796/984f753d16f195e08fb13cd5554aed4f/index.m3u8
+header={fftoken:b882dcc0e3551517376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+龍華戲劇,https://f21.unityanuc.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 龍華戲劇,http://www.ubvip1688.com/ublive/86d2394667c6d672.m3u8
 龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 龍華戲劇,mitv://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
@@ -1273,7 +1273,7 @@ header={fftoken:e5ffaf8ac90345fd376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 龍華戲劇,video://https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
 龍華戲劇,video://https://www.ofiii.com/channel/watch/litv-longturn18
 龍華戲劇,p3p://108.181.20.159:09318/6214c295000a5fa204149eb30d3c30b4
-header={fftoken:5c83042c317923a1376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f098ce03fe6111a4376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 中視經典,https://f02.bootsaleuks.com/live/rx2/185/94060233eb32d5a55eb8658fe1f3f0e2/index.m3u8
 中視經典,https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
 中視經典,mitv://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
@@ -1293,7 +1293,7 @@ header={fftoken:5c83042c317923a1376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視經典,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
 中視經典,p3p://108.181.20.159:09318/621db24e000d4a9726fcacfd58c400a2
-header={fftoken:18be1b2cec7375f0376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:aedbf0dc4d4316af376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 中視菁采,https://f06.fromonlinexcomf.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 中視菁采,mitv://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
@@ -1357,7 +1357,7 @@ header={fftoken:18be1b2cec7375f0376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 大愛2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛2,p3p://108.181.20.159:09318/63eda04a0001f6fae973e6a334696980
-header={fftoken:13f5463d66fa29f1376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:30e537147c4d03ab376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 公視3,https://www.duckinfoint.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
 公視3,mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
 公視3,https://lsj.37o.xyz/histar.php?id=pts-3
@@ -1423,7 +1423,7 @@ Momo綜合,p3p://108.181.20.159:09318/621e17750005eaa02887cb6e61ea2a58
 霹靂台灣,https://z88.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
 霹靂台灣,https://z88.ubtvfans.com/live/rx1/1339/4548801261b49eea62f971f931ed19a7/index.m3u8
 霹靂台灣,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
-header={fftoken:ae7b50fa75d5b26b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:2dd01b33454ad8d3376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天資訊,https://www.duckinfoint.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
 靖天資訊,http://www.ubvip1688.com/ublive/73049ffad8dd46f3.m3u8
 靖天資訊,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
@@ -1439,7 +1439,7 @@ header={fftoken:ae7b50fa75d5b26b376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖天資訊,mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
 靖天資訊,mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
 靖天資訊,video://https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
-header={fftoken:6008f95d81dcaecf376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:733747150193f0b6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天綜合,https://www.abouthomex.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
 靖天綜合,http://www.ubvip1688.com/ublive/8ae2f3415af8ee6a.m3u8
 靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
@@ -1456,7 +1456,7 @@ header={fftoken:6008f95d81dcaecf376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖天綜合,mitv://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
 靖天綜合,video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 靖天綜合,p3p://108.181.20.159:09318/6223bd68000c7a903e980a5524d66f67
-header={fftoken:4de14a2a885b608b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:846e7510dc0dffe0376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 靖天育樂,http://www.ubvip1688.com/ublive/161f5adac7f0a5cc.m3u8
 靖天育樂,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
@@ -1473,7 +1473,7 @@ header={fftoken:4de14a2a885b608b376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 靖天育樂,mitv://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
 靖天育樂,video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 靖天育樂,p3p://108.181.20.159:09318/6223be04000a57323e9a6b2919b21d76
-header={fftoken:cc61fb0fcd9aafb9376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:01515a0aee2a555d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天國際,https://f02.bootsaleuks.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 靖天國際,http://www.ubvip1688.com/ublive/121b629df4cd4ea4.m3u8
 KLT-靖天國際,P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
@@ -1496,7 +1496,7 @@ KLT-靖天國際,mitv://generationnexxxt.com:19806/12d39bada24843588ad72a3175b78
 靖天國際,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC4C4774209747742097&ct=19669&tsum=c1ddabb0c97e09b0912fe2e26285edf4
 靖天國際,video://https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
 靖天國際,p3p://108.181.20.159:09318/612db8220006940e897960753ab534e9
-header={fftoken:4de14a2a885b608b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:846e7510dc0dffe0376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 靖天育樂,https://f05.eggonnetus.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
 靖天育樂,http://www.ubvip1688.com/ublive/161f5adac7f0a5cc.m3u8
 靖天育樂,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
@@ -1540,13 +1540,13 @@ TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a070
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-header={fftoken:ce06b9d623b8faae376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f6c7ab19f6b09ed8376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TV5MONDE,https://www.abouthomex.com/live/rx1/389/9e350a9c37c460a8fc1f3fe527b678d9/index.m3u8
 電影,#genre#
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 壹電影,p3p://108.181.20.159:09318/651c3a7e00035f9e8778a18d0aeb27f1
-header={fftoken:ff5b3e467cce9fc5376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:297fdbb232215ca1376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 CatchPlay電影,https://f09.ibmfocus.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 CatchPlay電影,http://www.ubvip1688.com/ublive/b1d18a7343dd0229.m3u8
 CatchPlay電影,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
@@ -1558,10 +1558,10 @@ CatchPlay電影,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
 CatchPlay電影,p3p://108.181.20.159:09318/6258e5c9000dd0d00e3b184c1b9c4f4c
-header={fftoken:15fa743475a9b75d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-東森電影,https://f02.bootsaleuks.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-header={fftoken:298ae3e67aad64b7376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:29e4cf275d3d2886376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 東森電影,https://f02.bootsaleuks.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+header={fftoken:30df2f5287e3c304376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+東森電影,https://f02.bootsaleuks.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 東森電影,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779#P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 東森電影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
@@ -1577,8 +1577,8 @@ header={fftoken:298ae3e67aad64b7376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森電影,p3p://108.181.20.159:09318/62c103a5000b5a66a4eacca77822079a
-header={fftoken:c14a32b0fa069569376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來電影,https://f06.fromonlinexcomf.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+header={fftoken:4c2b31d4480a9473376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來電影,https://f21.unityanuc.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 緯來電影,P2p://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
 緯來電影,mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
@@ -1604,7 +1604,7 @@ header={fftoken:c14a32b0fa069569376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 龍祥時代,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
 龍祥時代,p3p://108.181.20.159:09318/60115453000a238d32a1418142be77f7
-header={fftoken:40879d73520866cd376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:d8923af1dd535d73376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 HBO,https://f06.fromonlinexcomf.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
@@ -1620,7 +1620,7 @@ HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,p3p://108.181.20.159:09318/64e364fb000a0212a977a1cd342976da
-header={fftoken:6bba510da4a3c166376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:756227e9753240f4376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 東森洋片,https://f09.ibmfocus.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 東森洋片,P2p://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 東森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
@@ -1636,7 +1636,7 @@ header={fftoken:6bba510da4a3c166376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森洋片,p3p://108.181.20.159:09318/64c62c06000d1cf03751bf246ed813e7
-header={fftoken:99b00f56f673cfef376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6099913925d8de7e376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 AXN,https://f06.fromonlinexcomf.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 AXN,P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
@@ -1654,7 +1654,7 @@ AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MF9F8492094784920947&ct=19669&tsum=b1bac3e2318ffb73e0cfaffa3db92715
 AXN,p3p://108.181.20.159:09318/6258ddc5000ee8a40e1bc8f50dec545c
-header={fftoken:108307b9b2137b0f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:54d1a572b720d487376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 好萊塢電影,https://f02.bootsaleuks.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 好萊塢電影,P2p://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 好萊塢電影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
@@ -1667,7 +1667,7 @@ header={fftoken:108307b9b2137b0f376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F6862364168623641&ct=19669&tsum=fd3669f3ac6f766e6e6dbc99fcf964c8
 好萊塢電影,p3p://108.181.20.159:09318/62cee8b3000ea6aedb30a55616047866
-header={fftoken:34ef1c11ad73e2ef376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ed8c4be607708229376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 CINEMAX,https://f21.unityanuc.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
@@ -1714,7 +1714,7 @@ CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
-header={fftoken:fe97bc83ec28802f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:1dcb67037896d57f376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 WARNERTV,https://www.duckinfoint.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
@@ -1723,7 +1723,7 @@ WARNERTV,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/i
 WARNERTV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 WARNERTV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MDDD4282762242827622&ct=19669&tsum=7fb5fb3646a248a97745390c96e5b2c8
 WARNERTV,p3p://108.181.20.159:09318/623a7c43000859b0977039e0175b0470
-header={fftoken:a57facf239f9a193376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:a512961e953bc672376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 AMC最愛電影,https://f07.googleling.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 AMC最愛電影,http://www.ubvip1688.com/ublive/292fa46ff756eb21.m3u8
 AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -1733,9 +1733,9 @@ AMC最愛電影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3
 AMC最愛電影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC最愛電影,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 AMC最愛電影,p3p://108.181.20.159:09318/625bbd49000d7c0d1954e42d45bc3182
-header={fftoken:9ea3f8c9ab0d4e16376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:bfd845b6fe9e714d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 影迷數位電影,https://f05.eggonnetus.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-header={fftoken:2dd55861c541ba3f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:cc21831155586835376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 影迷數位電影,https://f07.googleling.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
 影迷數位電影,http://www.ubvip1688.com/ublive/8badc4c63a4cbe89.m3u8
 影迷數位電影,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
@@ -1750,10 +1750,10 @@ StarMovies,http://23.224.232.221:81/kk.php?id=starmovies_raj
 StarMovies,mitv://generationnexxxt.com:19806/9ffb18f15c7f4ddda5b0f48f29170482
 StarMovies,mitv://generationnexxxt.com:19806/cdbfcfca93f846c7bcc30d0fd108923f
 體育,#genre#
-header={fftoken:167b3e73f302570d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來育樂,https://f22.ccplay22aldrich.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
-header={fftoken:7a71a9e6ab3cad00376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:2387b414977e8fb7376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 緯來育樂,https://f22.ccplay22aldrich.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
+header={fftoken:103cd7de0ea83af5376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來育樂,https://f22.ccplay22aldrich.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來育樂,rtmp://twcdn.top/sat/tv701
@@ -1776,10 +1776,10 @@ header={fftoken:7a71a9e6ab3cad00376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 緯來育樂,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 緯來育樂,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 緯來育樂,p3p://108.181.20.159:09318/6214bdc7000061300401d77e20cc43d8
-header={fftoken:744d50118ecd1108376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來體育,https://f22.ccplay22aldrich.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
-header={fftoken:f26e62bce4b42314376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-緯來體育,https://f22.ccplay22aldrich.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+header={fftoken:8b13c55d5c8a0db8376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來體育,https://f05.eggonnetus.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+header={fftoken:cc8832c548e3055d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+緯來體育,https://f06.fromonlinexcomf.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,rtmp://220.130.201.73/sat/tv721
 緯來體育,rtmp://twcdn.top/sat/tv721
@@ -1822,8 +1822,8 @@ ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f
 ELEVEN體育2,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 ELEVEN體育2,p3p://108.181.20.159:09318/6025f1d0000440c783278efb13a4147e
-header={fftoken:047d22cf68e8849e376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-愛爾達體育1,https://f03.ccbookcohky.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
+header={fftoken:68d2e32f5924fd7b376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+愛爾達體育1,https://f06.fromonlinexcomf.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
 愛爾達體育1,rtmp://twcdn.top/sat/md051
 愛爾達體育1,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
 愛爾達體育1,mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
@@ -1838,8 +1838,8 @@ header={fftoken:047d22cf68e8849e376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達體育1,mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
 愛爾達體育1,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
 愛爾達體育1,p3p://108.181.20.159:09318/623a8d50000c965397b2d5b26c7b25bd
-header={fftoken:e76db41c475aa657376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-愛爾達體育2,https://f05.eggonnetus.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
+header={fftoken:c40beee00f1530f0376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+愛爾達體育2,https://www.duckinfoint.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
 愛爾達體育2,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 愛爾達體育2,mitv://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 愛爾達體育2,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
@@ -1852,12 +1852,12 @@ header={fftoken:e76db41c475aa657376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達體育2,http://50.7.238.114:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 愛爾達體育2,http://198.16.100.90:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=19669&tsum=51e2f1b0357d2f28161da4042d3fffd2
 愛爾達體育2,p3p://108.181.20.159:09318/623a8d8d0001570d97b3c11a65640b68
-header={fftoken:a32ee258c124ff64376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-愛爾達體育3,https://f05.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-header={fftoken:b75184e545dfa59b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:bd8981218a6f2d5a376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+愛爾達體育3,https://f22.ccplay22aldrich.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+header={fftoken:9758138a4939401f376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 愛爾達體育3,https://f27.eggonnetus.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
-header={fftoken:d368a2fe5e4acfe3376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-愛爾達體育3,https://f26.duckinfoint.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+header={fftoken:ced220d789ee9228376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+愛爾達體育3,https://f27.eggonnetus.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
 愛爾達體育3,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
 愛爾達體育3,rtmp://f13h.mine.nu:1935/sat/md051
@@ -1874,7 +1874,7 @@ header={fftoken:d368a2fe5e4acfe3376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 愛爾達體育3,http://50.7.238.114:8278/sport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
 愛爾達體育3,http://198.16.100.90:8278/sport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=19669&tsum=e7440c700f4a852fbfb6ce4c596fc9ec
 愛爾達體育3,p3p://108.181.20.159:09318/622e99e60004026169046fd918be6ed7
-header={fftoken:f577233f16c8c9db376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:a90fbd69e3c3dbfe376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 愛爾達體育4,https://f09.ibmfocus.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 愛爾達體育4,rtmp://f13h.mine.nu:1935/sat/md041
 愛爾達體育4,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
@@ -1897,7 +1897,7 @@ header={fftoken:f577233f16c8c9db376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯運動,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
 博斯運動,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&ct=19669&tsum=490924ca5aade3fce822753f690a5c3a
 博斯運動,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
-header={fftoken:21d992e05458331a376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:35343897ec80357d376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯運動2,https://f02.bootsaleuks.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
 博斯運動2,http://www.ubvip1688.com/ublive/a7d307f855607a93.m3u8
 博斯運動2,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
@@ -1921,7 +1921,7 @@ header={fftoken:21d992e05458331a376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯高球,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&ct=19669&tsum=fff9c937a1847e23614b3936a0ecd27d
 博斯高球,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&ct=19669&tsum=fff9c937a1847e23614b3936a0ecd27d
 博斯高球,video://https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
-header={fftoken:4ab76a4f20c00465376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:a769b94b2936c448376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯高球2,https://f21.unityanuc.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
 博斯高球2,mitv://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
 博斯高球2,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
@@ -1932,8 +1932,8 @@ header={fftoken:4ab76a4f20c00465376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯高球2,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
 博斯高球2,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&ct=19669&tsum=d648a23edf3f445bf05aa8ff237c20cc
 博斯高球2,p3p://108.181.20.159:09318/6258e1c9000c6f010e2b77e9601b5186
-header={fftoken:5d9b5d42cb6e0e2b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-博斯網球,https://f09.ibmfocus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+header={fftoken:ff47663d7c9dc3c5376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+博斯網球,https://f05.eggonnetus.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 博斯網球,mitv://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
 博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 博斯網球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
@@ -1945,7 +1945,7 @@ header={fftoken:5d9b5d42cb6e0e2b376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯網球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MB1B6878228768782287&ct=19669&tsum=a58abb593a031911bb6b6ad91f6f2dca
 博斯網球,video://https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
 博斯網球,p3p://108.181.20.159:09318/6275f21d000aeb447fb1e83c30d60273
-header={fftoken:1b48ac7590193d58376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f6d0db58965fb9ed376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯魅力,https://f07.googleling.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
 博斯魅力,rtmp://f13h.mine.nu:1935/sat/md031
@@ -1953,9 +1953,9 @@ header={fftoken:1b48ac7590193d58376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯魅力,https://z88.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 博斯魅力,mitv://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
 博斯魅力,p3p://108.181.20.159:09318/612ee43d000c84ea8e0dab707a8b2e0d
-header={fftoken:04f13413dd923301376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f78a6b9154136764376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯無限,https://f07.googleling.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-header={fftoken:13bbd957dcd8dcef376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f3fec9b0bf69a7c0376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯無限,https://f07.googleling.com/live/rx1/2797/ec16777a438d2d0a2072dc4ff7bd1638/index.m3u8
 博斯無限,mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
@@ -1965,9 +1965,9 @@ header={fftoken:13bbd957dcd8dcef376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 博斯無限,mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
 博斯無限,mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
 博斯無限,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
-header={fftoken:96e4c5987fb35477376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:94165d481bea6d41376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯無限2,https://f06.fromonlinexcomf.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
-header={fftoken:d40af352d0784e2a376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ff28ed9e1868ce53376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 博斯無限2,https://f06.fromonlinexcomf.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
 博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
 博斯無限2,mitv://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
@@ -1989,7 +1989,7 @@ TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a070
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 TRACESportStars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRACESportStars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-header={fftoken:ce06b9d623b8faae376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f6c7ab19f6b09ed8376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TV5MONDE,https://www.abouthomex.com/live/rx1/389/9e350a9c37c460a8fc1f3fe527b678d9/index.m3u8
 親子,#genre#
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
@@ -2104,7 +2104,7 @@ BBC four cbeebies,https://z88.ubtvfans.com/live/rx3/1383/ba749a5d061144fa51250d1
 兒童迪士尼,https://www.youtube.com/watch?v=Dkkp4KfdGPY
 BeepBeep,https://www.youtube.com/watch?v=Hz0hDDU463k
 知旅,#genre#
-header={fftoken:9bb52a894b6ec144376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:de7b98d066cdf569376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 動物星球,https://f07.googleling.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
 動物星球,P2p://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -2126,9 +2126,9 @@ header={fftoken:9bb52a894b6ec144376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 動物星球,p3p://108.181.20.159:09318/6214894b0007e3120334d50a59d03689
-header={fftoken:2e23e296424cf9f6376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ec415e0eefa1ea82376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 國家野生,https://f21.unityanuc.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
-header={fftoken:69b8a38ac2988916376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:eb8fe0d4a2abb6a6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 DiscoveryAsia,https://f05.eggonnetus.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
 DiscoveryAsia,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 DiscoveryAsia,http://23.224.232.221:81/kk.php?id=discoverytwn_twn
@@ -2156,11 +2156,11 @@ BBCEarth,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bca
 BBCEarth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC Earth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MF3F9387386293873862&ct=19669&tsum=78fe2ae2151628f54b1702a8d4c4ff31
-header={fftoken:d622fc49e502847f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
-TLC,https://f21.unityanuc.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
-header={fftoken:80da1c343589299a376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f56b23473f1a8376376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TLC,https://f23.bootsaleuks.com/live/rx3/1533/5854f43deb017dcbf2385d99dd2e899c/index.m3u8
-header={fftoken:7b88f5c35f549f0b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:61061d760c289922376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
+TLC,https://f21.unityanuc.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
+header={fftoken:139b6840c2557ff3376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 TLC,https://f23.bootsaleuks.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
 TLC,http://23.224.232.221:81/kk.php?id=Tlc
 TLC,https://z88.ubtvfans.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
@@ -2170,7 +2170,7 @@ TLC,https://z88.ubtvfans.com/live/rx3/1206/296aead782b0784427bcaa08367a05ef/inde
 亞洲美食,http://23.224.232.221:81/kk.php?id=afc_twn
 亞洲美食,mitv://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
 亞洲美食,p3p://108.181.20.159:09318/62c9a44500000cd3c69dc74b77c62c82
-header={fftoken:664d4bc4c9a7c743376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6186d7a143adae9b376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 美食星球,https://f05.eggonnetus.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
 美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
@@ -2194,7 +2194,7 @@ header={fftoken:664d4bc4c9a7c743376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
 美食星球,http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MC7C6970270369702703&ct=19669&tsum=faf492333cc4bda84508dd719781fc87
 美食星球,p3p://108.181.20.159:09318/62c9a5620009f165c6a22320701370b6
-header={fftoken:6bb84c165777574d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6b358be24e168f46376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 亞洲旅遊,http://www.ubvip1688.com/ublive/cbc142347e647ec3.m3u8
 亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
@@ -2218,7 +2218,7 @@ header={fftoken:6bb84c165777574d376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
 亞洲旅遊,p3p://108.181.20.159:09318/61e4f963000c710c55474e4e1e2273d9
-header={fftoken:6bb84c165777574d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6b358be24e168f46376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 亞洲旅遊,https://f03.ccbookcohky.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 亞洲旅遊,http://www.ubvip1688.com/ublive/cbc142347e647ec3.m3u8
 亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
@@ -2242,7 +2242,7 @@ header={fftoken:6bb84c165777574d376db9ce5ef370db,playtoken:7587aad9b86755c3513ae
 亞洲旅遊,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
 亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
 亞洲旅遊,p3p://108.181.20.159:09318/61e4f963000c710c55474e4e1e2273d9
-header={fftoken:82b628762518a715376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:910f568c13dc8602376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Fashion,https://www.abouthomex.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
 FashionTV,http://23.224.232.221:81/kk.php?id=fashiontv_twn
 Fashion One,https://z88.ubtvfans.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
@@ -2256,7 +2256,7 @@ MTVLive,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcab
 FoodnetworkHd,http://23.224.232.221:81/kk.php?id=Foodnetwork_mega
 CRIME,http://23.224.232.221:81/kk.php?id=ci_twn
 law and crime,https://z88.ubtvfans.com/live/rx3/1540/c0a0e45e8426dadb0d57236cf7fb4387/index.m3u8
-header={fftoken:cfdc10325e0c3ab1376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:c440f5ea90c4e494376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 History,https://f22.ccplay22aldrich.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
 History,http://23.224.232.221:81/kk.php?id=History
 History,https://z88.ubtvfans.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
@@ -2274,7 +2274,7 @@ HGTV,https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/ind
 HGTV,https://z88.ubtvfans.com/live/rx3/1538/ded5bfd722fc798d47ea4f2793c4b7bf/index.m3u8
 HGTV,https://z88.ubtvfans.com/live/rx4/3048/fa3197faf4624537ec0610d807a93b82/index.m3u8
 HGTV,p3p://108.181.20.159:09318/644518fd0002d5953f21bedc56b6465f
-header={fftoken:f2b95ddfa36bb60a376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f300eca74b36b2d8376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 探索動力DMAX,https://www.abouthomex.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 DMAX,http://23.224.232.221:81/kk.php?id=natgeohd_twn
 DMAX,https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=dmax
@@ -2359,7 +2359,7 @@ CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 CLASSICA古典樂,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 CLASSICA古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 其他,#genre#
-header={fftoken:28f362948ca2c6ca376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:98ed1db20c0f5ce7376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 豬哥亮歌廳秀,https://f06.fromonlinexcomf.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
 豬哥亮歌廳秀,http://www.ubvip1688.com/ublive/cec2c513d36efc9f.m3u8
 豬哥亮歌廳秀,https://lsj.37o.xyz/histar.php?id=zglgtx
@@ -2471,65 +2471,65 @@ FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d2267
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 
-header={fftoken:99a1939092680dd5376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:01c828c9cf822d72376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:d0dd0a6605846d40376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:dbf2cca57812a126376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:d0e31a133b700aeb376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:efecf11e47bb3ae6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:ed9dff06dfb60678376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:0626e32f12236ed1376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:e5d0776737eacd82376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f90d7199027276d8376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:9a55f238d4289818376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:59eecc1fbf75bfe2376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:95f450ffc092262c376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:402bb7747485c21c376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:ff92ac1ce1e77bf7376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:08141e66f287133b376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:6e1194be210fae47376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:9f9d9f72ed20f587376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:f5cc7d80515529bb376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:488bf3d05e9f9ccb376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:c5bd4c354866a08f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f8d8426ba0403231376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:aa352fca84fd012d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:c781dea456b20b73376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:4a8761061aa6468b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:2c13d6e5028408e3376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:d984f93da29a0663376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:b9c479f74ebacc90376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:84fe31794372df12376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:7fdb7fec51d04ba5376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:78f5a5931d2f435b376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:aa6023879bd2d984376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:1bee8feff42e6710376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:9ae6acfbb511aceb376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:7df7ce7c45ed1f24376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:31b1c4182be9cfb9376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:8eaab00592d26d74376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6bdb756c251fc6a1376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:5c8eedb414dd1645376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ebd15d4148319281376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:db014809d25d2234376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:ab764661b3da3040376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:8d9d585eb24faf96376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:7836bae31dca9cd9376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:f70eb0fac230f916376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6f8436cb2116dc8e376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:d537116caf47b0af376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:0030ad075f5ca820376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:c45551463ebb3d07376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:c6f9386d8546a1d6376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:2395c78d2053598d376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:6b22bfee18def198376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:02ef289f24d0f60f376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:48f758ba732a91ff376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:40726307d2e7d175376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:cf3a31fc60baa4dc376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:d91910628556e6ca376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:db1277a856885a73376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:00faff3392b995ee376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:2cf4a5f21911db0b376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:912ab4760dd659bb376db9ce5ef370db,playtoken:7587aad9b86755c3513aecfb1aad0aeb}
+header={fftoken:f084b2b8ef55719c376db9ce5ef370db,playtoken:17ce448ce9fd4a2bb88a7addaad8cc6c}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
