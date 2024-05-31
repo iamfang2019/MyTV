@@ -96,13 +96,13 @@ jobs:
           cat ./5_child ./TW > TW5
 
           # Cascade all for smart parsing
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 ./UBSP18 > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBSP18 ./UBTV18  > TW.ch
             
           # Add 18channel
           mv ./TW_allsource ./TW_allsource_tmp
           
 
-          cat ./TW_allsource_tmp ./UBTV18 ./UBSP18 > ./TW_allsource
+          cat ./TW_allsource_tmp  ./UBSP18 ./UBTV18 > ./TW_allsource
           rm -rf ./UBSP18
              
 
