@@ -96,16 +96,14 @@ jobs:
           cat ./5_child ./TW > TW5
 
           # Cascade all for smart parsing
-          wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76c053b24/d919fe9602ad13f7
-          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 ./d919fe9602ad13f7 > TW.ch
+          cat ./TW0 ./TW1 ./TW2 ./TW3 ./TW4 ./TW5 ./UBTV ./Source/P2P  ./Source/P3P ./Source/radio ./Source/BGM ./UBTV18 ./UBSP18 > TW.ch
             
           # Add 18channel
           mv ./TW_allsource ./TW_allsource_tmp
           
-          sed -i 's/安博私密,#genre#//' ./d919fe9602ad13f7
-          #sed -n 's/ #\(\d+)//' ./d919fe9602ad13f7
-          cat ./TW_allsource_tmp ./UBTV18 ./d919fe9602ad13f7 > ./TW_allsource
-          rm -rf ./d919fe9602ad13f7
+
+          cat ./TW_allsource_tmp ./UBTV18 ./UBSP18 > ./TW_allsource
+          rm -rf ./UBSP18
              
 
       - name: Set up Python
