@@ -19,7 +19,7 @@ grep -i "ubvip1688" ./live.txt > ./ubvip1689
 sed -n '/即時新聞/,/綜合直播/p' ./live.txt > ./news.c
 sed -n '/兒童頻道/,/台灣電視/p' ./live.txt > ./child.c
 sed -n '/音樂串流/,/即時影像/p' ./live.txt > ./music.c
-
+sed -n '/Vivid Touch/,/潘朵拉完美/p' ./18.txt > UBSP18
 
 ## 除去空白行
 sed -i 's/ //' ./news.c
@@ -44,7 +44,7 @@ echo $keyLineNum
 #sed -n '$keyLineNum, $linEndNum.p' ./live.txt
 
 sed -n '/安博台灣/,//p' ./live.txt > UBSP
-sed -n '/安博私密/,//p' ./18.txt > UBSP18
+
 
 # Rename
 ### Normal
@@ -63,11 +63,7 @@ sed -i '/CBN歡笑劇場/d' ./UBSP
 sed -i '/天映經典/d' ./UBSP
 sed -i '/靖天映畫/d' ./UBSP
 sed -i '/Z頻道/d' ./UBSP
-#### 18
-sed -i '/上原亞衣/d' ./UBSP18
-sed -i '/Vivid/d' ./UBSP18
-sed -i '/SEX ATION HD/d' ./UBSP18
-sed -i '/奧視頻道2/d' ./UBSP18
+
 
 
 
@@ -86,15 +82,6 @@ end
 
 sed -n '/安博台灣/,//p' ./live.txt > UBSP
 
-### 處理"空格到,"前的資料
-cat ./UBSP18 | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 > a
-cat ./UBSP18 | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 | cut -d " " -f 1 > b
-foreach chk ("`cat ./a`")
-  echo $chk
-  set c = `echo $chk | cut -d " " -f 1` 
-  echo $c
-  sed -i 's/'"$chk"'/'"$c"'/' ./UBSP18
-end
 
 
 
@@ -127,11 +114,10 @@ sed -i 's/探索亞洲,/DiscoveryAsia,/' $FP
 end
 
 
-### 18
-sed -i '/台,/,/' ./UBSP18
-sed -i '/Banana香蕉/香蕉台/' ./UBSP18
+
 
 mv ./ubvip1688 ./Source/ubvip1688
 rm -rf ./ubvip1688
+rm -rf ./18.txt
 
 
