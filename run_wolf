@@ -61,6 +61,7 @@ sed -i 's/松視1台 #2905,/松視1,/' ./UBSP18
 sed -i 's/松視2台 #403,/松視2,/' ./UBSP18
 sed -i 's/松視2台 #2906,/松視2,/' ./UBSP18
 sed -i 's/松視3台 #404,/松視3,/' ./UBSP18
+sed -i '/Vivid Touch/d' ./UBSP18
 
 
 file -i UBSP
