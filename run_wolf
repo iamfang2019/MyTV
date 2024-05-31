@@ -54,7 +54,8 @@ sed -i 's/HBOSignature,/HBO原創鉅獻,/'./UBSP
 sed -i '/台//' ./UBSP18
 sed -i '/頻道//' ./UBSP18
 
-
+## 刪除無法處理的資料
+#### Normal
 #sed -i '/探索科學/d' ./UBSP
 sed -i 's/探索科學/DiscorveryScience/' ./UBSP
 #sed -i '/探索頻道/d' ./UBSP
@@ -64,7 +65,8 @@ sed -i '/CBN歡笑劇場/d' ./UBSP
 sed -i '/天映經典/d' ./UBSP
 sed -i '/靖天映畫/d' ./UBSP
 sed -i '/Z頻道/d' ./UBSP
-
+#### 18
+sed -i '/上原亞衣/d' ./UBSP18
 
 
 
@@ -90,7 +92,7 @@ foreach chk ("`cat ./a`")
   echo $chk
   set c = `echo $chk | cut -d " " -f 1` 
   echo $c
-  sed -i 's/'"$chk"'/'"$c"'/' ./18.txt
+  sed -i 's/'"$chk"'/'"$c"'/' ./UBSP18
 end
 
 
