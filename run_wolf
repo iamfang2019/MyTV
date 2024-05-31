@@ -67,6 +67,7 @@ sed -i '/靖天映畫/d' ./UBSP
 sed -i '/Z頻道/d' ./UBSP
 #### 18
 sed -i '/上原亞衣/d' ./UBSP18
+sed -i '/Vivid/d' ./UBSP18
 
 
 
