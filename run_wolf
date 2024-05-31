@@ -53,7 +53,7 @@ sed -i '/靖天映畫/d' ./UBSP
 sed -i '/Z頻道/d' ./UBSP
 
 #### 18
-sed -i 's/奧視頻道2 #2916/奧視2,/' ./UBSP18
+sed -i 's/奧視頻道2 #2916,/奧視2,/' ./UBSP18
 sed -i 's/彩虹E #406,/彩虹E,/' ./UBSP18
 sed -i 's/彩虹K #415,/彩虹K,/' ./UBSP18
 sed -i 's/松視1台 #402,/松視1,/' ./UBSP18
