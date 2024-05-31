@@ -4,18 +4,24 @@
 rm -rf ./live.txt
 
 #wget https://raw.githubusercontent.com/wolfcode9/OpenChannel/main/live.txt
+## Normal
 wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76c053b24/6df8af2d858ae0c4
+## 18
+wget https://raw.githubusercontent.com/wolfcode9/d25d221074c7b34d/main/d3ef48d76c053b24/d919fe9602ad13f7
 
 mv ./6df8af2d858ae0c4 ./live.txt
+mv ./d919fe9602ad13f7 ./18.txt
 
 grep -i "ubvip1688" ./live.txt > ./ubvip1689
 
+
+## 取出區段之間資料
 sed -n '/即時新聞/,/綜合直播/p' ./live.txt > ./news.c
 sed -n '/兒童頻道/,/台灣電視/p' ./live.txt > ./child.c
 sed -n '/音樂串流/,/即時影像/p' ./live.txt > ./music.c
 
 
-
+## 除去空白行
 sed -i 's/ //' ./news.c
 sed -i 's/ //' ./child.c
 sed -i 's/ //' ./music.c
@@ -38,9 +44,16 @@ echo $keyLineNum
 #sed -n '$keyLineNum, $linEndNum.p' ./live.txt
 
 sed -n '/安博台灣/,//p' ./live.txt > UBSP
+sed -n '/安博私密/,//p' ./18.txt > UBSP18
 
+# Rename
+### Normal
 sed -i 's/HBO Hits #330,/HBO強檔鉅獻,/' ./UBSP
-sed -i 's/HBOSignature,/HBO原創鉅獻,/'.UBSP
+sed -i 's/HBOSignature,/HBO原創鉅獻,/'./UBSP
+### 18
+sed -i '/台//' ./UBSP18
+sed -i '/頻道//' ./UBSP18
+
 
 #sed -i '/探索科學/d' ./UBSP
 sed -i 's/探索科學/DiscorveryScience/' ./UBSP
@@ -53,8 +66,12 @@ sed -i '/靖天映畫/d' ./UBSP
 sed -i '/Z頻道/d' ./UBSP
 
 
+
+
+
 file -i UBSP
 
+### 處理"空格到,"前的資料
 cat ./UBSP | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 > a
 cat ./UBSP | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 | cut -d " " -f 1 > b
 foreach chk ("`cat ./a`")
@@ -65,6 +82,16 @@ foreach chk ("`cat ./a`")
 end
 
 sed -n '/安博台灣/,//p' ./live.txt > UBSP
+
+### 處理"空格到,"前的資料
+cat ./UBSP18 | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 > a
+cat ./UBSP18 | grep -v "#genre" | grep -v "header" | cut -d "," -f 1 | cut -d " " -f 1 > b
+foreach chk ("`cat ./a`")
+  echo $chk
+  set c = `echo $chk | cut -d " " -f 1` 
+  echo $c
+  sed -i 's/'"$chk"'/'"$c"'/' ./18.txt
+end
 
 
 
