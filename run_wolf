@@ -50,9 +50,7 @@ sed -n '/安博私密/,//p' ./18.txt > UBSP18
 ### Normal
 sed -i 's/HBO Hits #330,/HBO強檔鉅獻,/' ./UBSP
 sed -i 's/HBOSignature,/HBO原創鉅獻,/'./UBSP
-### 18
-sed -i '/台//' ./UBSP18
-sed -i '/頻道//' ./UBSP18
+
 
 ## 刪除無法處理的資料
 #### Normal
@@ -127,6 +125,11 @@ sed -i 's/探索亞洲,/DiscoveryAsia,/' $FP
 
 
 end
+
+
+### 18
+sed -i '/台,/,/' ./UBSP18
+sed -i '/Banana香蕉/香蕉台/' ./UBSP18
 
 mv ./ubvip1688 ./Source/ubvip1688
 rm -rf ./ubvip1688
