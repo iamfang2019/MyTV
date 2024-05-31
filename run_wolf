@@ -19,7 +19,11 @@ grep -i "ubvip1688" ./live.txt > ./ubvip1689
 sed -n '/即時新聞/,/綜合直播/p' ./live.txt > ./news.c
 sed -n '/兒童頻道/,/台灣電視/p' ./live.txt > ./child.c
 sed -n '/音樂串流/,/即時影像/p' ./live.txt > ./music.c
-sed -n '/Vivid Touch/,/潘朵拉完美/p' ./18.txt > UBSP18
+
+echo "UB18,#genre#" > UBSP18
+sed -n '/Vivid Touch/,/潘朵拉完美/p' ./18.txt >> UBSP18
+
+
 
 ## 除去空白行
 sed -i 's/ //' ./news.c
