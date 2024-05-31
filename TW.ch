@@ -2982,6 +2982,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -3042,6 +3043,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -3468,6 +3470,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -6818,6 +6822,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -6878,6 +6883,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -7304,6 +7310,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -10705,6 +10713,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -10765,6 +10774,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -11191,6 +11201,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -14542,6 +14554,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -14602,6 +14615,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -15028,6 +15042,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -18378,6 +18394,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -18438,6 +18455,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -18864,6 +18882,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -22215,6 +22235,7 @@ MOMO親子,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 三立都會,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 東森綜合,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森超視,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天綜合,mitv://generationnexxxt.com:19806/65b21a81000274a20ffaac0a0c7b0000
 中天綜合,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 中天娛樂,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
 東森戲劇,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -22275,6 +22296,7 @@ i-Fun動漫,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 星衛娛樂,mitv://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 緯來日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+愛爾達影劇,mitv://generationnexxxt.com:19806/65b2176e0008ea530feeab784c543898
 愛爾達影劇,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 民視,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 三立臺灣台,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
@@ -22701,6 +22723,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=MFFF8631659986316599&ct=19669&tsum=1ff2ebcd3ec073d13dd0e747a333b92b
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
+
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -23772,65 +23796,63 @@ FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d2267
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 安博私密,#genre#
-header={fftoken:5bf28ada867967b7376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
-Amazing #2931,https://f26.duckinfoint.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-header={fftoken:22d76f7a2c48ea02376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:6ca1ffd7087af1e1376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 BRAZZERS EN ESPANOL #3092,https://f26.duckinfoint.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-header={fftoken:a2c4b4ee381d7474376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:47c4eaea0460c088376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 BUSTY LOVER #3093,https://f26.duckinfoint.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-header={fftoken:4f2378160a8a3123376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:882db69ae416a5cd376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Banana香蕉 #2930,https://f21.unityanuc.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-header={fftoken:9f1ff62c3d609e23376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:92a5abd99e915176376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Blue Hustler #3077,https://f26.duckinfoint.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-header={fftoken:10f8f75dcf89dc46376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:3982b9f4257c1f89376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Brazzers TV #3076,https://f26.duckinfoint.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-header={fftoken:44fc5ac2f1230e51376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:c55175203eb8a0a6376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 CUM 4K #3094,https://f26.duckinfoint.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-header={fftoken:56f4658daab29e5f376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:ae9273f0958be951376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 DAUGHTER SWAP #3095,https://f26.duckinfoint.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-header={fftoken:8d92cc94d007d535376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:93eb48715f5b2a31376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 DEEPER #3096,https://f26.duckinfoint.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-header={fftoken:988d02bb17879ec6376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:35bfbbe3df1a9158376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 DIGITAL PLAYGROUND #3097,https://f26.duckinfoint.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-header={fftoken:87656c4be3e4c6f5376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:14caae4e2cd65017376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 EROTIC SPICE #3098,https://f26.duckinfoint.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-header={fftoken:17cfc0e763a534cd376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:2c58b2dc9196ac2c376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 EXXXTRA SMALL #3099,https://f26.duckinfoint.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-header={fftoken:71573e14edefaf59376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:c63c27eddc5f7b51376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Erox #3079,https://f26.duckinfoint.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-header={fftoken:d8ee2dfeb83070eb376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:a131c34c5b69aec9376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 FAKE AGENT #3100,https://f26.duckinfoint.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-header={fftoken:767cc1dd2b6d5827376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:c0d07c240a117308376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 HAPPY #2908,https://f21.unityanuc.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-header={fftoken:1a6fd2104bb072af376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:1bd478870b6ed289376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 PLAYBOY HD #411,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-header={fftoken:3eb75ef377b79d2b376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:b014f7d39b2f10cc376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 RED LIPS #3083,https://f26.duckinfoint.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-header={fftoken:164fd22e846f0f0e376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:16968305ba177a3e376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Redlight HD #452,https://f22.ccplay22aldrich.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-header={fftoken:f6ee5de7cef80da2376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:0aadeb8e1a113ed1376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 SEX ATION HD #459,https://f03.ccbookcohky.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-header={fftoken:f30418d75ae86700376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:968c89a6608a5045376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 Vivid Touch #3078,https://f26.duckinfoint.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-header={fftoken:7804dbb72ef0e78b376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:c11ac583c8f0537a376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 上原亞衣 #3162,https://f26.duckinfoint.com/live/rx4/3162/3abd7be7a2736685ed0596c186585f14/index.m3u8
-header={fftoken:15afa3d2ce75d33d376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:492e1f85654e26b1376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 奧視頻道2 #2916,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:d8ce03a7e0b44bcc376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:e1a432d756d896b5376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 彩虹E #406,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:c19657f55a4c3dfe376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:e5ec16883940897a376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 彩虹K #415,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:6011deb2da114d71376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
-松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-header={fftoken:4633bf8847122c05376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:56a99cbe775bc620376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 松視1台 #402,https://f21.unityanuc.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-header={fftoken:d95be097f6f38550376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
-松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-header={fftoken:8c30a3183f34ae1b376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:02b20df8cdc3556a376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
+松視1台 #2905,https://f21.unityanuc.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+header={fftoken:057fce4ef4c6e62d376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 松視2台 #403,https://f21.unityanuc.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-header={fftoken:22e75a0ce20873e2376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:82e344cc94917823376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
+松視2台 #2906,https://f21.unityanuc.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
+header={fftoken:6f121a26ba8605b7376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 松視3台 #404,https://f21.unityanuc.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-header={fftoken:28b6e63671dd1e72376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:acde4a0c080db92e376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 波多野結衣 #3158,https://f26.duckinfoint.com/live/rx4/3158/d2aec68c8bed59dfd66068c471120ac7/index.m3u8
-header={fftoken:e4ae0b0af6574f26376db9ce5ef370db,playtoken:b1a8d34ff3382db69e2ebcd4d771050c}
+header={fftoken:ed926ff389fefe17376db9ce5ef370db,playtoken:3be6311fb28d8a2c16d7d105f5a26639}
 潘朵拉完美 #410,https://f21.unityanuc.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
