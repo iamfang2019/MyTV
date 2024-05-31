@@ -1977,6 +1977,8 @@ WWE,http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MF5F1801772718017727&ct=1966
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MABA1165999311659993&ct=19669&tsum=9751d26589f5e56a6b6ebf55b23f1301
 中視新聞,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MC2C7732204977322049&ct=19669&tsum=77f6a5026746071b18f5bf7e8b09bc70
 
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
+
 //61.221.215.2
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
