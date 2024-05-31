@@ -69,6 +69,7 @@ sed -i '/Z頻道/d' ./UBSP
 sed -i '/上原亞衣/d' ./UBSP18
 sed -i '/Vivid/d' ./UBSP18
 sed -i '/SEX ATION HD/d' ./UBSP18
+sed -i '/奧視頻道2/d' ./UBSP18
 
 
 
