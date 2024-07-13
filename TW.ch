@@ -23693,23 +23693,23 @@ starbucksMusic,https://raw.githubusercontent.com/linitfor/YTLive/main/starbucks_
 LofiGirl,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
 
 UB18,#genre#
-header={fftoken:6010599933e616ae376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:0810ad5ec2ead427376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 上原亞衣,https://f26.duckinfoint.com/live/rx4/3162/d56054ff3aed682703e25437999f5236/index.m3u8
-header={fftoken:d580de0eb5870513376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:ae568d938ec14bd3376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 奧視頻道2,https://f22.ccplay22aldrich.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-header={fftoken:d763b3794521fb0b376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:da216f4e6f70c391376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 彩虹E,https://f22.ccplay22aldrich.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-header={fftoken:9f771ef5f1d50022376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:b4048e8f9cd2cc7a376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 彩虹K,https://f22.ccplay22aldrich.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-header={fftoken:e2da7393582606c2376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:27024744f5376f39376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 松視1,https://f21.unityanuc.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
-header={fftoken:0dd4aaec1217c64d376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:86b3ac93a237f8ca376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 松視2,https://f21.unityanuc.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
-header={fftoken:460f2c2179b86f03376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:9b0841744bf88948376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 松視3,https://f21.unityanuc.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
-header={fftoken:783334ccb8183f7b376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:389a749cf016d103376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 波多野結衣,https://f26.duckinfoint.com/live/rx4/3158/3fa04142ab22b5a272ba5115bd56d477/index.m3u8
-header={fftoken:1f1118a2e2e4da75376db9ce5ef370db,playtoken:6fecacdd43158be33d459ebd2f8ec3d0}
+header={fftoken:104a88eb060cbcef376db9ce5ef370db,playtoken:6728ef6fcb86af14d73e7187be60c17a}
 潘朵拉完美,https://f21.unityanuc.com/live/rx3/410/415bdc67f1b4040b4983963911f2485b/index.m3u8
 
 
